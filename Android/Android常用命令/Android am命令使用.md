@@ -130,3 +130,7 @@ Traceview是android平台配备一个很好的性能分析的工具。它可以�
 #### 2.监听异常：
 
 监听crash和ANR：adb shell monitor [options]
+
+
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)

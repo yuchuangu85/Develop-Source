@@ -136,3 +136,5 @@ adb shell dumpsys activity [-a] [-c]…
 | battery      | 电池     | adn shell dumpsys battery      |
 | alarm        | 闹钟     | adn shell dumpsys alarm        |
 | location     | 位置     | adn shell dumpsys location     |
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)

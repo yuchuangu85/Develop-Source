@@ -223,3 +223,5 @@ adb logcat *:W
 
 export ANDROID_LOG_TAGS="ActivityManager:I MyApp:D*:S"
 ```
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)

@@ -297,3 +297,7 @@ input tap 367 1277
 //从（1024，945）滑动到（134，968）200毫秒内
 input swipe 1024 945 134 968 200
 ```
+
+
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)

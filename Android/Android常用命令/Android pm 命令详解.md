@@ -262,3 +262,5 @@ pm
 | ------------------------------- | :----------------------------------------------------------- |
 | set-install-location <LOCATION> | 更改默认的安装位置： <br>0：自动-让系统决定最好的位置 <br>1：内部存储-安装在内部设备上的存储 <br>2：外部存储-安装在外部媒体 <br>**注：只用于调试，不要瞎搞** |
 | get-install-localtion           | 返回当前的安装位置 <br>0 <br>1 <br>2<br> 对应上面的数字说明  |
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)

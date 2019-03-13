@@ -97,3 +97,7 @@ aapt v[ersion]
 ```
 
 例如：aapt v， 就是打印这个结果 Android Asset Packaging Tool, v0.2
+
+
+
+原文：[https://www.cnblogs.com/JianXu/category/782865.html](https://www.cnblogs.com/JianXu/category/782865.html)
