@@ -5,13 +5,18 @@
 
 ## 目录
 
-* Java
+#### [Java](#Java)
 
-  * [Java资源合集](#Java资源合集)
+* [Java资源合集](#Java资源合集)
+  * 
+* [Java知识整理](#Java知识整理)
+  * 
 
-  * [Java知识整理](#Java知识整理)
+  * 
 
+#### [Android](#Android)
 
+* [Android命令](#Android命令)
 
 ## Java
 
@@ -31,7 +36,9 @@
 
 ## Android
 
+#### Android命令
 
+* [adb常用命令](/Android/Android常用命令/adb常用命令.md)
 
 
 
