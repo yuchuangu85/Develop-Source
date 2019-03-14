@@ -17,6 +17,8 @@
 #### [Android](#Android)
 
 * [Android命令](#Android命令)
+* [Android开源](#Android开源)
+* [Android安全](#Android安全)
 
 ## Java
 
@@ -34,6 +36,14 @@
 
 
 
+#### JVM
+
+* [理解Java虚拟机体系结构](https://www.cnblogs.com/lao-liang/p/5110710.html)
+
+
+
+
+
 ## Android
 
 #### Android命令
@@ -46,7 +56,15 @@
 * [Android-logcat命令详解](/Android/Android常用命令/Android-logcat命令详解.md)
 * [Android-pm命令详解](/Android/Android常用命令/Android-pm命令详解.md)
 
+#### Android开源
 
+
+
+
+
+#### Android安全
+
+* [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
 
 
 
