@@ -92,6 +92,8 @@
 * [《Java虚拟机原理图解》4.JVM机器指令集](https://blog.csdn.net/luanlouis/article/details/50412126)
 * [《Java虚拟机原理图解》5. JVM类加载器机制与类加载过程](https://blog.csdn.net/luanlouis/article/details/50529868)
 
+
+
 ##### GC回收过程及原理
 
 * [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)
@@ -139,7 +141,8 @@
 
 - [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
 - [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
-- 
+
+
 
 ##### 消息机制
 
@@ -148,6 +151,8 @@
 * [android的消息处理机制（图+源码分析）——Looper,Handler,Message](https://www.cnblogs.com/codingmyworld/archive/2011/09/14/2174255.html)
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
+
+
 
 #### Android内存
 
@@ -161,26 +166,19 @@
 * [Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 
+
+
 ##### 内存优化
 
 * [ANDROID内存优化(大汇总——上)](https://blog.csdn.net/a396901990/article/details/37914465)
 * [ANDROID内存优化(大汇总——中)](https://blog.csdn.net/a396901990/article/details/38707007)
 * [ANDROID内存优化(大汇总——全)](https://blog.csdn.net/a396901990/article/details/38904543)
-* 
-
-
-
-
 
 
 
 #### Android安全
 
 - [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
-
-
-
-
 
 
 
@@ -193,6 +191,8 @@
 * [Android-dumpsys命令详细使用](/Android/Android常用命令/Android-dumpsys命令详细使用.md)
 * [Android-logcat命令详解](/Android/Android常用命令/Android-logcat命令详解.md)
 * [Android-pm命令详解](/Android/Android常用命令/Android-pm命令详解.md)
+
+
 
 #### Android开源库
 
@@ -209,6 +209,8 @@
 * [TCP、UDP、IP 协议分析](http://blog.chinaunix.net/uid-26833883-id-3627644.html)
 * [HTTP协议中GET和POST的具体实现]()
 * [HTTP协议报文、工作原理及Java中的HTTP通信技术详解](http://www.cnblogs.com/rocomp/p/4803864.html)
+
+
 
 ####  网络库
 
