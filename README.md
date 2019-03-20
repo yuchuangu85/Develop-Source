@@ -10,17 +10,14 @@
 #### [Java](#Java)
 
 * [Java资源合集](#Java资源合集)
-
 * [Java知识整理](#Java知识整理)
-
 * [JVM](#JVM)
-
+* [Java并发](#Java并发)
 * [数据结构](#数据结构)
 
   
 
 #### [Android](#Android)
-
 * [Android命令](#Android命令)
 * [Android开源库](#Android开源库)
 * [Android安全](#Android安全)
@@ -28,18 +25,16 @@
 
 
 #### [网络](#网络)
-
 - [网络基础---协议](#网络基础---协议)
 - [网络库](#网络库)
 
 
 
 #### [iOS](#iOS)
-
 * [开源项目](#开源项目)
 
-#### [macOS](#macOS)
 
+#### [macOS](#macOS)
 * [开源项目](#开源项目)
 
 
@@ -59,9 +54,7 @@
 
 
 ## Java
-
 #### Java资源合集
-
 * [**JavaGuide**](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)：Java设计模式
 
@@ -72,10 +65,9 @@
 
 
 #### JVM
-
 * [理解Java虚拟机体系结构](https://www.cnblogs.com/lao-liang/p/5110710.html)
 
-
+#### Java并发
 
 #### 数据结构
 
