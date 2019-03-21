@@ -1,24 +1,20 @@
 # Develop-Source
 移动开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
 
-更新日期：20190319
+更新日期：20190320
 
 
 
 ## 目录
 
 #### [Java](#Java)
-
 * [Java资源合集](#Java资源合集)
-
 * [Java基础知识](#Java基础知识)
-
 * [JVM](#JVM)
-
+* [Java并发](#Java并发)
 * [数据结构](#数据结构)
 
 #### [Android](#Android)
-
 * [Android基础](#Android基础)
 * [Android系统机制](#Android系统机制)
 * [Android内存](#Android内存)
@@ -29,18 +25,16 @@
 
 
 #### [网络](#网络)
-
-- [网络基础---协议](#网络基础---协议)
-- [网络库](#网络库)
+* [网络基础---协议](#网络基础---协议)
+* [网络库](#网络库)
 
 
 
 #### [iOS](#iOS)
-
 * [开源项目](#开源项目)
 
-#### [macOS](#macOS)
 
+#### [macOS](#macOS)
 * [开源项目](#开源项目)
 
 
@@ -64,7 +58,6 @@
 
 
 ## Java
-
 #### Java资源合集
 
 * [**JavaGuide**](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
@@ -92,7 +85,7 @@
 * [《Java虚拟机原理图解》4.JVM机器指令集](https://blog.csdn.net/luanlouis/article/details/50412126)
 * [《Java虚拟机原理图解》5. JVM类加载器机制与类加载过程](https://blog.csdn.net/luanlouis/article/details/50529868)
 
-
+#### Java并发
 
 ##### GC回收过程及原理
 
@@ -147,7 +140,6 @@
 ##### 消息机制：
 
 * [Android系统源码分析--消息循环机制](http://codemx.cn/2017/07/13/AndroidOS004-HandleMessageLooper/)
-
 * [android的消息处理机制（图+源码分析）——Looper,Handler,Message](https://www.cnblogs.com/codingmyworld/archive/2011/09/14/2174255.html)
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
@@ -215,7 +207,6 @@
 ####  网络库
 
 * [Android OkHttp3 ：最简单&粗暴（使用与原理）讲解](https://www.jianshu.com/p/9143520922fb)
-
 * [Retrofit]()
 
   
