@@ -85,14 +85,14 @@
 * [《Java虚拟机原理图解》4.JVM机器指令集](https://blog.csdn.net/luanlouis/article/details/50412126)
 * [《Java虚拟机原理图解》5. JVM类加载器机制与类加载过程](https://blog.csdn.net/luanlouis/article/details/50529868)
 
-#### Java并发
-
 ##### GC回收过程及原理
 
-* [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)
-* [Java GC系列（2）：Java垃圾回收是如何工作的？](http://www.importnew.com/13493.html)
-* [Java GC系列（3）：垃圾回收器种类](http://www.importnew.com/13827.html)
-* [Java GC系列（4）：垃圾回收监视和分析](http://www.importnew.com/13838.html)
+- [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)
+- [Java GC系列（2）：Java垃圾回收是如何工作的？](http://www.importnew.com/13493.html)
+- [Java GC系列（3）：垃圾回收器种类](http://www.importnew.com/13827.html)
+- [Java GC系列（4）：垃圾回收监视和分析](http://www.importnew.com/13838.html)
+
+#### Java并发
 
 
 
