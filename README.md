@@ -1,9 +1,7 @@
 # Develop-Source
 移动开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
 
-更新日期：20190328
-
-
+更新日期：20190404
 
 ## 目录
 
@@ -13,7 +11,6 @@
 * [JVM](#JVM)
 * [Java并发](#Java并发)
 * [数据结构](#数据结构)
-* [设计模式](#设计模式)
 
 #### [Android](#Android)
 * [Android基础](#Android基础)
@@ -21,43 +18,27 @@
 * [Android内存](#Android内存)
 * [Android安全](#Android安全)
 * [Android命令](#Android命令)
+* [Android架构](#Android架构）
 * [Android开源库](#Android开源库)
 * [Android开源项目](#Android开源项目)
-
-
 
 #### [网络](#网络)
 * [网络基础---协议](#网络基础---协议)
 * [网络库](#网络库)
 
-
-
 #### [iOS](#iOS)
 * [开源项目](#开源项目)
-
 
 #### [macOS](#macOS)
 * [开源项目](#开源项目)
 
-
-
 #### [Algorithms](#Algorithms)
-
-
 
 #### [深度学习](#深度学习)
 
-
-
 #### [综合](#综合)
 
-
-
 #### [博客](#博客)
-
-
-
-
 
 ## Java
 #### Java资源合集
@@ -65,11 +46,7 @@
 * [**JavaGuide**](https://github.com/Snailclimb/JavaGuide)：【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)：Java设计模式
 
-
-
 #### Java基础知识
-
-
 
 #### JVM
 
@@ -97,10 +74,8 @@
 #### Java并发
 
 
-
 #### 数据结构
 
-##### Java数据结构和算法
 * [Java数据结构和算法（一）——简介](https://www.cnblogs.com/ysocean/p/7889153.html)
 * [Java数据结构和算法（二）——数组](https://www.cnblogs.com/ysocean/p/7894448.html)
 * [Java数据结构和算法（三）——冒泡、选择、插入排序算法](https://www.cnblogs.com/ysocean/p/7896269.html)
@@ -117,14 +92,10 @@
 * [Java数据结构和算法（十四）——堆](https://www.cnblogs.com/ysocean/p/8032660.html)
 * [Java数据结构和算法（十五）——无权无向图](https://www.cnblogs.com/ysocean/p/8032659.html)
 
-##### Java数据结构 
 * [图解HashMap原理](https://www.jianshu.com/p/dde9b12343c1)
 * [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)
 * [图解ArrayList](https://www.jianshu.com/p/be1ff16dfcbd)
 * [时间复杂度和空间复杂度](https://www.jianshu.com/p/bbcda16b2e90)
-
-#### 设计模式
-* [二十三种设计模式](https://github.com/Shimingli/AndriodDesignPattern)
 
 ## Android
 
@@ -139,7 +110,6 @@
 * [Android开发之InstanceState详解](http://www.cnblogs.com/hanyonglu/archive/2012/03/28/2420515.html)
 
 
-
 #### Android系统机制
 
 ##### Binder机制：
@@ -148,14 +118,12 @@
 - [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
 
 
-
 ##### 消息机制：
 
 * [Android系统源码分析--消息循环机制](http://codemx.cn/2017/07/13/AndroidOS004-HandleMessageLooper/)
 * [android的消息处理机制（图+源码分析）——Looper,Handler,Message](https://www.cnblogs.com/codingmyworld/archive/2011/09/14/2174255.html)
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
-
 
 
 #### Android内存
@@ -171,7 +139,6 @@
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 
 
-
 ##### 内存优化
 
 * [ANDROID内存优化(大汇总——上)](https://blog.csdn.net/a396901990/article/details/37914465)
@@ -179,11 +146,9 @@
 * [ANDROID内存优化(大汇总——全)](https://blog.csdn.net/a396901990/article/details/38904543)
 
 
-
 #### Android安全
 
 - [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
-
 
 
 #### Android命令
@@ -196,7 +161,10 @@
 * [Android-logcat命令详解](/Android/Android常用命令/Android-logcat命令详解.md)
 * [Android-pm命令详解](/Android/Android常用命令/Android-pm命令详解.md)
 
+#### Android架构
 
+* [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
+* [android-architecture](https://github.com/googlesamples/android-architecture)
 
 #### Android开源库
 
