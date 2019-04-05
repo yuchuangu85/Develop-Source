@@ -133,8 +133,6 @@ An Android transformation library providing a variety of image transformations f
 源码地址：[https://github.com/wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)
 
 
-
-
 ## 热更新
 
 #### 1.Robust:--美团
@@ -303,17 +301,12 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 #### Stable samples
 * [todo-mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) - Basic Model-View-Presenter architecture.
-
 * [todo-mvp-loaders](https://github.com/googlesamples/android-architecture/tree/todo-mvp-loaders/) - Based on todo-mvp, fetches data using Loaders.
 
 * [todo-databinding](https://github.com/googlesamples/android-architecture/tree/todo-databinding/) - Based on todo-mvp, uses the Data Binding Library.
-
 * [todo-mvp-clean](https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/) - Based on todo-mvp, uses concepts from Clean Architecture.
-
 * [todo-mvp-dagger](https://github.com/googlesamples/android-architecture/tree/todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection
-
 * [todo-mvp-contentproviders](https://github.com/googlesamples/android-architecture/tree/todo-mvp-contentproviders/) - Based on todo-mvp-loaders, fetches data using Loaders and uses Content Providers
-
 * [todo-mvp-rxjava](https://github.com/googlesamples/android-architecture/tree/todo-mvp-rxjava/) - Based on todo-mvp, uses RxJava for concurrency and data layer abstraction.
 
 #### Samples in progress
@@ -324,7 +317,6 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 External samples are variants that may not be in sync with the rest of the branches.
 
 * [todo-mvp-fragmentless](https://github.com/Syhids/android-architecture/tree/todo-mvp-fragmentless) - Based on todo-mvp, uses Android views instead of Fragments.
-
 * [todo-mvp-conductor](https://github.com/grepx/android-architecture/tree/todo-mvp-conductor) - Based on todo-mvp, uses the Conductor framework to refactor to a single Activity architecture.
 
 #### Google官方设计模式的扩展
@@ -347,65 +339,47 @@ External samples are variants that may not be in sync with the rest of the branc
     * [Robolectric](http://robolectric.org/)
 
 
-
-
 ## 事件总线
 * [EventBus](https://github.com/greenrobot/EventBus)
-
 * [otto](https://github.com/square/otto)
 
 ## 数据库
 * [ORMLite](http://ormlite.com)
-
 * [greendao](https://github.com/greenrobot/greenDAO)
-
 * [ormndroid](https://github.com/roscopeco/ormdroid)
-
 * [androrm](https://github.com/androrm/androrm)
-
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
-
 * [Realm](https://github.com/realm/realm-java)
-
 * [Sugar](https://github.com/satyan/sugar)
-
 * [sqlbrite](https://github.com/square/sqlbrite)
-
 * [LitePal](https://github.com/LitePalFramework/LitePal)
 
 ## 网络解析
 * [gson](https://github.com/google/gson)
-
 * [fastjson](https://github.com/alibaba/fastjson)
-
 * [jackson-databind](https://github.com/FasterXML/jackson-databind)
-
 * [HtmlPaser2](https://github.com/fb55/htmlparser2/)
-
 * [jsoup](https://github.com/jhy/jsoup) 
 
 
 ## Animation
 * [lottie-android](https://github.com/airbnb/lottie-android)
-
 * [lottie-ios](https://github.com/airbnb/lottie-ios)
-
 * [lottie-react-native](https://github.com/airbnb/lottie-react-native)
 
+## 工具库
+* [guava](https://github.com/google/guava)：该库用于提供集合，缓存，支持原语句，并发性，常见注解，字符串处理，I/O和验证的实用方法。
 
 ## 跨平台移动开发工具
 #### 1.Flutter
 
 Github：[Flutter](https://github.com/flutter)
-
 英文：[Flutter-EN](https://flutter.dev/)
-
 英文：[Flutter-CN](https://flutterchina.club/)
 
 #### 2.Weex
 
 源码地址：[weex](https://github.com/alibaba/weex/)
-
 官方文档：
 
 #### 2.React Native
@@ -417,31 +391,21 @@ Github：[Flutter](https://github.com/flutter)
 
 ## Log框架
 * [Logger](https://github.com/orhanobut/logger)
-
 * [hugo](https://github.com/JakeWharton/hugo)
-
 * [timber](https://github.com/JakeWharton/timber)
 
 ## 测试框架(单元测试)
 * [Mockito](https://github.com/mockito/mockito)
-
 * [Robotium](https://github.com/RobotiumTech/robotium)
-
 * [robolectric](https://github.com/robolectric/robolectric)
 
 ## 视频
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
-
 * [vlc](https://github.com/videolan/vlc)
-
 * [vlc-android-sdk](https://github.com/mrmaffen/vlc-android-sdk)
-
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
-
 * [android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
-
 * [ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android)
-
 * [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
 
 ## 多主题
