@@ -10,7 +10,7 @@
 * Binder机制
 * 消息机制
 * 性能优化典范
-* [内存优化
+* 内存优化
 * Android安全
 * Android命令
 * Android架构
