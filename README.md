@@ -33,7 +33,7 @@
     * [JVM(Java虚拟机)](#JVM(Java虚拟机))
 * [数据结构](#数据结构)
 * [网络协议及框架](#网络协议及框架)
-* [C&C++](#C&C++)
+* [C、C++](#C&C++)
 * [iOS开源项目集合](#iOS开源项目集合)
 * [macOS开源项目集合](#macOS开源项目集合)
 * [Algorithms(算法)](#Algorithms(算法))
@@ -195,7 +195,7 @@
 * 网络基础---协议
 * 网络库
 
-## [C&C++](/CCPlus/CCPlus.md)
+## [C、C++](/CCPlus/CCPlus.md)
 * C知识点
 * C开源代码
 * C++知识点
