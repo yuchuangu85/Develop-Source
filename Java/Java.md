@@ -6,10 +6,14 @@ Java基础知识整理
 * [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)：Java设计模式
 
 ## 线程
-
 * [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)
-* 
+
+## Java优化
+* [Effective Java for Android](/Java/Effect/EffectiveJava4Android.md)
 
 ## Java工具
 * [jadx](https://github.com/skylot/jadx)
 * [反编译工具-dex2jar](https://github.com/pxb1988/dex2jar)
+
+## Java编码规范
+* [Java编码规范-Google](/Standard/JavaStandard.md)

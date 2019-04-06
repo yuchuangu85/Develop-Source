@@ -1,7 +1,6 @@
 ## Android基础
 
 #### Activity
-
 * [Android Training - 详解Activity生命周期(Lesson 1 - 启动与销毁Activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-1/)
 * [Android Training - 详解Activity生命周期(Lesson 2 - 暂停与恢复activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-2/)
 * [Android Training - 详解Activity生命周期(Lesson 3 - 停止与重启activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-3/)
@@ -12,7 +11,6 @@
 ## Android系统机制
 
 #### Binder机制：
-
 * [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
 * [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
 
@@ -24,7 +22,7 @@
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
 
 
-## Android内存
+## Android性能优化
 
 #### 性能优化典范
 * [Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
@@ -46,6 +44,11 @@
 * [Merge使用](/Android/optimize/Merge.md)
 * [ViewStubs使用](/Android/optimize/ViewStubs.md)
 
+#### Android性能优化博客
+- [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+- [Android性能优化典范](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+- [Android性能优化典范](http://hukai.me)
+
 ## Android安全
 * [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
 
@@ -61,13 +64,11 @@
 * [Android-pm命令详解](/Android/adb/pm.md)
 
 ## Android架构
-
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 * [android-architecture](https://github.com/googlesamples/android-architecture)
 
 
 ## Android开源项目集合
-
 * [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer):谷歌开源音乐播放器
 
 
