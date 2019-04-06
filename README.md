@@ -33,13 +33,13 @@
     * [JVM(Java虚拟机)](#JVM(Java虚拟机))
 * [数据结构](#数据结构)
 * [网络协议及框架](#网络协议及框架)
-* [C、C++](#C&C++)
+* [CC++](#CC++)
 * [iOS开源项目集合](#iOS开源项目集合)
 * [macOS开源项目集合](#macOS开源项目集合)
 * [Algorithms(算法)](#Algorithms(算法))
 * [深度学习](#深度学习)
 * [Python](#Python)
-* [博客&Github](#博客&Github)
+* [博客Github](#博客Github)
 * [Android面试题](#Android面试题)
 
 
@@ -195,7 +195,7 @@
 * 网络基础---协议
 * 网络库
 
-## [C、C++](/CCPlus/CCPlus.md)
+## [CC++](/CCPlus/CCPlus.md)
 * C知识点
 * C开源代码
 * C++知识点
@@ -219,7 +219,7 @@
 * Python知识点
 * Python开源代码
 
-## [博客&Github](/Blog/Blog.md)
+## [博客Github](/Blog/Blog.md)
 * 国内外优秀博客
 * 优秀Github
 
