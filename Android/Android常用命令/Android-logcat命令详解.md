@@ -2,7 +2,7 @@
 
 #### 1.android log系统：
 
-![15272960448319.png](../imgs/15272960448319.png)
+![15272960448319.png](../images/adb/15272960448319.png)
 
 
 #### 2.logcat介绍：
@@ -85,7 +85,7 @@ android log输出量巨大，特别是通信系统的log，因此，android把lo
 #### 2.缓冲区模型：
 
 
-![image](../imgs/clipboard.png)
+![image](../images/adb/clipboard.png)
 
 
 #### 3.获取缓冲区命令：
@@ -175,7 +175,7 @@ adb logcat –v thread
 #### 2.例子：
 
 
-![15272964482483.png](../imgs/15272964482483.png)
+![15272964482483.png](../images/adb/15272964482483.png)
 
 
 ### 五、logcat优先级
