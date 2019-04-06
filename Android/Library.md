@@ -14,7 +14,7 @@
 2. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 3. [android-async-http框架库使用基础](http://blog.csdn.net/yanbober/article/details/45307549)
 
-#### 2.etrofit:
+#### 2.Retrofit:
 retrofit是由square开源组织开源的一款非常流行的网络请求框架，现在使用已经非常广泛。
 
 源码地址：[retrofit](https://github.com/square/retrofit)
@@ -75,7 +75,6 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
-
 ## 图片加载及显示
 
 #### 1.Android-Universal-Image-Loader:
@@ -88,14 +87,10 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 [Android 开源框架Universal-Image-Loader完全解析（三）---源代码解读](http://blog.csdn.net/xiaanming/article/details/39057201)
 
-
-
 #### 2.fresco：
 源码地址：[fresco](https://github.com/facebook/fresco)
 
 详解：[官方文档](https://www.fresco-cn.org/docs/index.html)
-
-
 
 #### 3.Glide:
 源码地址：[glide](https://github.com/bumptech/glide)
@@ -105,7 +100,6 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 [Google推荐的图片加载库Glide介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 
-
 #### 4.Picasso:
 源码地址：[picasso](https://github.com/square/picasso)
 
@@ -113,7 +107,6 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 [官方文档](http://square.github.io/picasso/)
 
 [picasso-强大的Android图片下载缓存库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
-
 
 #### 5.PhotoView
 源码地址：[PhotoView](https://github.com/chrisbanes/PhotoView)
@@ -174,7 +167,6 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 详解：
 [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
 
-
 #### 6.HotFix:
 源码地址：[HotFix](https://github.com/dodola/HotFix)
 
@@ -188,10 +180,8 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 [Android 热修复Nuwa的原理及Gradle插件源码解析](http://blog.csdn.net/sbsujjbcy/article/details/50812674)
 [安卓热更新之Nuwa实现步骤](http://www.cnblogs.com/fanfu1/p/5506149.html)
 
-
 #### 8.RocooFix:
 源码地址：[RocooFix](https://github.com/dodola/RocooFix)
-
 
 #### 9.AnoleFix:
 源码地址：[AnoleFix](https://github.com/dodola/AnoleFix)
@@ -202,29 +192,35 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 #### 1.VirtualAPK--滴滴
 源码地址：[VirtualAPK](https://github.com/didi/VirtualAPK)
 
-
 #### 2.ZeusPlugin--iReader
 源码地址：[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)
     
-
 #### 3.dynamic-load-apk（DL）
 源码地址：[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
-
 
 #### 4.RePlugin--360
 源码地址：[RePlugin](https://github.com/Qihoo360/RePlugin)
 
-
 #### 5.android-pluginmgr
 源码地址：[android-pluginmgr](https://github.com/mmin18/AndroidDynamicLoader)
-
 
 #### 6.AndroidDynamicLoader
 源码地址：[AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
 
-
 #### 7.VirtualApp
 源码地址：[VirtualApp](https://github.com/asLody/VirtualApp)
+
+#### 8.VirtualXposed
+源码地址：[VirtualXposed](https://github.com/android-hacker/VirtualXposed)
+
+#### 9.Xposed
+源码地址：[Xposed](https://github.com/rovo89/Xposed)
+
+#### 10.dexposed
+源码地址：[dexposed](https://github.com/alibaba/dexposed)
+
+#### 11.XposedInstaller
+源码地址：[XposedInstaller](https://github.com/rovo89/XposedInstaller)
 
 ## 注解
 #### 1.dagger:

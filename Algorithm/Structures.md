@@ -1,6 +1,6 @@
 # 数据结构
 
-## Java数据结构
+## Java数据结构和算法
 
 * [Java数据结构和算法（一）——简介](https://www.cnblogs.com/ysocean/p/7889153.html)
 * [Java数据结构和算法（二）——数组](https://www.cnblogs.com/ysocean/p/7894448.html)
@@ -18,6 +18,7 @@
 * [Java数据结构和算法（十四）——堆](https://www.cnblogs.com/ysocean/p/8032660.html)
 * [Java数据结构和算法（十五）——无权无向图](https://www.cnblogs.com/ysocean/p/8032659.html)
 
+## Java集合
 * [图解HashMap原理](https://www.jianshu.com/p/dde9b12343c1)
 * [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)
 * [图解ArrayList](https://www.jianshu.com/p/be1ff16dfcbd)
