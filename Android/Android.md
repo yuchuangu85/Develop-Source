@@ -50,13 +50,13 @@
 
 ## Android命令
 
-* [aapt命令说明](/Android常用命令/aapt命令说明.md)
-* [adb-shell常用命令](/Android常用命令/adb-shell常用命令.md)
-* [adb常用命令](/Android常用命令/adb常用命令.md)
-* [Android-am命令使用](/Android常用命令/Android-am命令使用.md)
-* [Android-dumpsys命令详细使用](/Android常用命令/Android-dumpsys命令详细使用.md)
-* [Android-logcat命令详解](/Android常用命令/Android-logcat命令详解.md)
-* [Android-pm命令详解](/Android常用命令/Android-pm命令详解.md)
+* [aapt命令说明](/adb/aapt.md)
+* [adb-shell常用命令](/adb/adb-shell.md)
+* [adb常用命令](/adb/adb.md)
+* [Android-am命令使用](/adb/am.md)
+* [Android-dumpsys命令详细使用](/adb/dumpsys.md)
+* [Android-logcat命令详解](/adb/logcat.md)
+* [Android-pm命令详解](/adb/pm.md)
 
 ## Android架构
 
