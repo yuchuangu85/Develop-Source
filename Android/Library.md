@@ -14,7 +14,7 @@
 2. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 3. [android-async-http框架库使用基础](http://blog.csdn.net/yanbober/article/details/45307549)
 
-#### 2.retrofit:
+#### 2.etrofit:
 retrofit是由square开源组织开源的一款非常流行的网络请求框架，现在使用已经非常广泛。
 
 源码地址：[retrofit](https://github.com/square/retrofit)
@@ -97,7 +97,7 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 
 
-#### 3.glide:
+#### 3.Glide:
 源码地址：[glide](https://github.com/bumptech/glide)
 
 详解：
@@ -106,7 +106,7 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 [Google推荐的图片加载库Glide介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 
 
-#### 4.picasso:
+#### 4.Picasso:
 源码地址：[picasso](https://github.com/square/picasso)
 
 详解：
@@ -296,7 +296,7 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 功能：比较简单直接的饼状统计报表图，使用方便，设置相应的属性参数即可
 
-## 设计模式
+## Android架构
 此处说的设计模式是谷歌官方公开的对MVP模式的代码示例，大家可以做为参考学习一下：
 
 #### Stable samples
