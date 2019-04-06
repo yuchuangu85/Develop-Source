@@ -41,7 +41,7 @@
 * [ANDROID内存优化(大汇总——全)](https://blog.csdn.net/a396901990/article/details/38904543)
 
 #### 优化总结
-* [Android内存问题总结](/Android/optimze/Memory.md)
+* [Android内存问题总结](/Android/optimize/Memory.md)
 * [ANR问题总结](/Android/optimize/ANR.md)
 * [Merge使用](/Android/optimize/Merge.md)
 * [ViewStubs使用](/Android/optimize/ViewStubs.md)

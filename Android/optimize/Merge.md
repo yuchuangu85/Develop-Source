@@ -153,4 +153,5 @@ public View inflate(XmlPullParser parser, ViewGroup root, boolean attachToRoot) 
 其实就是如果是merge标签，那么直接将其中的子元素添加到merge标签parent中，这样就保证了不会引入额外的层级。
 
 **为什么跟布局如果是FrameLayout的可以用merge标签，就可以省略一个层级呢，其实是我们的Layout添加到系统的Window中的时候是添加到FrameLauyout布局中的，所以不需要再添加一层FrameLayout**
+
 详细内容参照：[Android系统源码分析--View绘制流程之-inflate](http://codemx.cn/2018/11/20/AndroidOS013-View-inflate/)
