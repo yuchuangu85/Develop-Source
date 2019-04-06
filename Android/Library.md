@@ -4,8 +4,125 @@
 
 ## 目录
 * [网络](#网络)
-* [ReactiveX](#ReactiveX)
-* [图片加载及显示](#图片加载及显示)
+    - [android-async-http](#android-async-http)
+    - [Retrofit](#Retrofit)
+    - [okhttp](#okhttp)
+    - [Volley](#Volley)
+
+* [响应式编程](#ReactiveX)
+    - [ReactiveX](#ReactiveX)
+
+* [图片加载库](#图片加载及显示)
+    * [Android-Universal-Image-Loader](#Android-Universal-Image-Loader)
+    * [fresco](#fresco)
+    * [Glide](#Glide)
+    * [Picasso](#Picasso)
+    * [PhotoView](#PhotoView)
+    * [SmartCropper](#SmartCropper)
+    * [glide-transformations](#glide-transformations)
+
+* [热更新](#热更新)
+    * [Robust](#Robust)
+    * [Tinker](#Tinker)
+    * [AndFix](#AndFix)
+    * [AndroidInstantRun](#AndroidInstantRun)
+    * [DroidFix](#DroidFix)
+    * [HotFix](#HotFix)
+    * [Nuwa](#Nuwa)
+    * [RocooFix](#RocooFix)
+    * [AnoleFix](#AnoleFix)
+
+*[插件化](#插件化)
+    * [VirtualAPK](#VirtualAPK)
+    * [ZeusPlugin](#ZeusPlugin)
+    * [dynamic-load-apk（DL）](#dynamic-load-apk（DL）)
+    * [RePlugin](#RePlugin)
+    * [android-pluginmgr](#android-pluginmgr)
+    * [AndroidDynamicLoader](#AndroidDynamicLoader)
+    * [VirtualApp](#VirtualApp)
+
+* [注解](#注解)
+    * [dagger](#dagger)
+    * [butterknife](#butterknife)
+    * [androidannotations](#androidannotations)
+    * [Dagger2](#androidannotations)
+    * [roboguice](#roboguice)
+
+* [图表](#图表)
+    * [WilliamChart](#WilliamChart)
+    * [XCL-Charts](#XCL-Charts)
+    * [HelloCharts for Android](#HelloCharts for Android)
+    * [MPAndroidChart](#MPAndroidChart)
+    * [achartengine](#achartengine)
+    * [GraphView](#GraphView)
+    * [HoloGraphLibrary](#HoloGraphLibrary)
+    * [EazeGraph](#EazeGraph)
+    * [PieChartView](#PieChartView)
+
+* [Android架构](#Android架构)
+    * [mvp-google](#mvp-google)
+
+* [事件总线](#事件总线])
+    * [EventBus](#EventBus)
+    * [otto](#otto)
+
+* [数据库](#数据库)
+    * [ORMLite](#ORMLite)
+    * [greendao](#greendao)
+    * [ormndroid](#ormndroid)
+    * [androrm](#androrm)
+    * [ActiveAndroid](#ActiveAndroid)
+    * [Realm](#Realm)
+    * [Sugar](#Sugar)
+    * [sqlbrite](#sqlbrite)
+    * [LitePal](#LitePal)
+
+* [数据解析](#数据解析)
+    * [gson](#gson)
+    * [fastjson](#fastjson)
+    * [jackson-databind](#jackson-databind)
+    * [HtmlPaser2](#HtmlPaser2)
+    * [jsoup](#jsoup)
+
+* [Animation](#Animation)
+    * [lottie-android](#lottie-android)
+    * [lottie-ios](#lottie-ios)
+    * [lottie-react-native](#lottie-react-native)
+
+* [工具库](#工具库)
+    * [guava](#guava)
+
+* [跨平台移动开发工具](#跨平台移动开发工具)
+    * [Flutter](#Flutter)
+    * [Weex](#Weex)
+    * [React Native](#React Native)
+
+* [Log框架](#Log框架)
+    * [Logger](#Logger)
+    * [hugo](#hugo)
+    * [timber](#timber)
+
+* [测试框架(单元测试)](#测试框架(单元测试))
+    * [Mockito](#Mockito)
+    * [Robotium](#Robotium)
+    * [robolectric](#robolectric)
+
+* [视频](#视频)
+    * [Bilibili/ijkplayer](#Bilibili/ijkplayer)
+    * [vlc](#vlc)
+    * [vlc-android-sdk](#vlc-android-sdk)
+    * [FFmpeg](#FFmpeg)
+    * [android-ffmpeg-java](#android-ffmpeg-java)
+    * [ffmpeg-android](#ffmpeg-android)
+    * [GSYVideoPlayer](#GSYVideoPlayer)
+
+* [多主题](#)
+    * [Bilibili/MagicaSakura](#Bilibili/MagicaSakura)
+
+* [其他](#)
+    * [libphonenumber](#libphonenumber)
+    * [error-prone](#error-prone)
+    * [regulex](#regulex)
 
 ## 网络
 #### 1.android-async-http:
@@ -133,7 +250,7 @@ An Android transformation library providing a variety of image transformations f
 
 ## 热更新
 
-#### 1.Robust:--美团
+#### 1.Robust
 源码地址：[Robust](https://github.com/Meituan-Dianping/Robust)
 
 详解：
@@ -152,27 +269,27 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 [tinker源码研读（一）：补丁生成之DexDiff原理简析](https://halfstackdeveloper.github.io/2016/10/19/tinker源码研读（一）：补丁生成之DexDiff原理简析/)
 
-#### 3.AndFix:--Alibaba
+#### 3.AndFix
 源码地址：[AndFix](https://github.com/alibaba/AndFix)
 
 详解：
 [Alibaba-AndFix Bug热修复框架原理及源码解析](http://blog.csdn.net/qxs965266509/article/details/49816007)
 [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android热补丁之AndFix原理解析/)
 
-#### 4.AndroidInstantRun:--google
+#### 4.AndroidInstantRun
 源码地址：[instant-run](https://android.googlesource.com/platform/tools/base/+/gradle_2.0.0/instant-run/)
 
 详解：
 [深度理解Android InstantRun原理以及源码分析](http://www.jianshu.com/p/780eb85260b3)
 [Instant Run: How Does it Work?!](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5n510pbv2)
 
-#### 5.DroidFix:
+#### 5.DroidFix
 源码地址：[DroidFix](https://github.com/bunnyblue/DroidFix)
 
 详解：
 [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
 
-#### 6.HotFix:
+#### 6.HotFix
 源码地址：[HotFix](https://github.com/dodola/HotFix)
 
 详解：
@@ -194,16 +311,16 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 ## 插件化
 
-#### 1.VirtualAPK--滴滴
+#### 1.VirtualAPK
 源码地址：[VirtualAPK](https://github.com/didi/VirtualAPK)
 
-#### 2.ZeusPlugin--iReader
+#### 2.ZeusPlugin
 源码地址：[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)
     
 #### 3.dynamic-load-apk（DL）
 源码地址：[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
 
-#### 4.RePlugin--360
+#### 4.RePlugin
 源码地址：[RePlugin](https://github.com/Qihoo360/RePlugin)
 
 #### 5.android-pluginmgr
@@ -228,7 +345,7 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 源码地址：[XposedInstaller](https://github.com/rovo89/XposedInstaller)
 
 ## 注解
-#### 1.dagger:
+#### 1.dagger
 源码地址：[dagger](https://github.com/square/dagger)
 
 详解：[官方文档](http://square.github.io/dagger/)
@@ -238,7 +355,7 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 详解：[官方文档](http://jakewharton.github.io/butterknife/)
 
-#### 3.androidannotations：
+#### 3.androidannotations
 源码地址：[androidannotations](https://github.com/androidannotations/androidannotations)
 
 详解：[官方文档](https://github.com/androidannotations/androidannotations/wiki)
@@ -251,48 +368,48 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 
 ## 图表
-#### 1.WilliamChart：
+#### 1.WilliamChart
 源码地址：[WilliamChart](https://github.com/diogobernardino/WilliamChart)
 
 功能：绘制图表的库，支持 LineChartView、BarChartView 和 StackBarChartView 三中图表类型，并且支持 Android 2.2 及以上的系统。
 
-#### 2.XCL-Charts：
+#### 2.XCL-Charts
 源码地址：[XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
 
 功能：XCL-Charts 基于原生的 Canvas 来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持 3D/非 3D 柱形图(Bar Chart)、3D/非 3D 饼图(Pie Chart)、堆积图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。
 
-#### 3.HelloCharts for Android：
+#### 3.HelloCharts for Android
 源码地址：[HelloCharts for Android](https://github.com/lecho/hellocharts-android)
 
 功能：支持折线图、柱状图、饼图、气泡图、组合图；支持预览、放大缩小，滚动，部分图表支持动画；支持 Android 2.2 以上
 
-#### 4.MPAndroidChart：
+#### 4.MPAndroidChart
 源码地址：[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 功能：强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表
 
-#### 5.achartengine：
+#### 5.achartengine
 源码地址：[achartengine](https://code.google.com/p/achartengine/)
 
 功能：强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合
 
-#### 6.GraphView：
+#### 6.GraphView
 源码地址：[GraphView](https://github.com/jjoe64/GraphView)
 
 功能：绘制图表和曲线图的 View，可用于 Android 上的曲形图、柱状图、波浪图展示
 
-#### 7.HoloGraphLibrary：
+#### 7.HoloGraphLibrary
 源码地址：[HoloGraphLibrary](https://bitbucket.org/danielnadeau/holographlibrary/src)
 
 功能：绘制现状图、柱状图、饼状图
 
-#### 8.EazeGraph：
+#### 8.EazeGraph
 源码地址：[EazeGraph](https://github.com/blackfizz/EazeGraph)
 
 功能：Android 图表库，支持柱状图、分层柱状图、饼状图、线性图
 
 
-#### 9.PieChartView：
+#### 9.PieChartView
 源码地址：[PieChartView](https://github.com/wuseal/PieChartView)
 
 功能：比较简单直接的饼状统计报表图，使用方便，设置相应的属性参数即可

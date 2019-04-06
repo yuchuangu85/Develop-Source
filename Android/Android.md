@@ -1,5 +1,22 @@
-## Android基础
+<h1 align="center">Android基础</h1>
 
+## 目录
+* [Android基础知识](#Android基础知识)
+    * [Activity](#Activity)
+* [Android系统机制](#Android系统机制)
+    * [Binder机制](#Binder机制)
+    * [消息机制](#消息机制)
+* [Android性能优化](#Android性能优化)
+    * [性能优化典范](#性能优化典范)
+    * [内存优化](#内存优化)
+    * [优化总结](#优化总结)
+    * [Android性能优化博客](#Android性能优化博客)
+* [Android安全](#Android安全)
+* [Android命令](#Android命令)
+* [Android架构](#Android架构)
+* [Android开源项目集合](#Android开源项目集合)
+
+## Android基础知识
 #### Activity
 * [Android Training - 详解Activity生命周期(Lesson 1 - 启动与销毁Activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-1/)
 * [Android Training - 详解Activity生命周期(Lesson 2 - 暂停与恢复activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-2/)
@@ -10,12 +27,12 @@
 
 ## Android系统机制
 
-#### Binder机制：
+#### Binder机制
 * [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
 * [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
 
 
-#### 消息机制：
+#### 消息机制
 * [Android系统源码分析--消息循环机制](http://codemx.cn/2017/07/13/AndroidOS004-HandleMessageLooper/)
 * [android的消息处理机制（图+源码分析）——Looper,Handler,Message](https://www.cnblogs.com/codingmyworld/archive/2011/09/14/2174255.html)
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
