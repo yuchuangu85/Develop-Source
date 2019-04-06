@@ -27,7 +27,6 @@
 ## Android内存
 
 #### 性能优化典范
-
 * [Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
 * [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
 * [Android性能优化典范 - 第3季](http://hukai.me/android-performance-patterns-season-3/)
@@ -37,15 +36,18 @@
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 
 #### 内存优化
-
 * [ANDROID内存优化(大汇总——上)](https://blog.csdn.net/a396901990/article/details/37914465)
 * [ANDROID内存优化(大汇总——中)](https://blog.csdn.net/a396901990/article/details/38707007)
 * [ANDROID内存优化(大汇总——全)](https://blog.csdn.net/a396901990/article/details/38904543)
 
+#### 优化总结
+* [Android内存问题总结](/Android/optimze/Memory.md)
+* [ANR问题总结](/Android/optimize/ANR.md)
+* [Merge使用](/Android/optimize/Merge.md)
+* [ViewStubs使用](/Android/optimize/ViewStubs.md)
 
 ## Android安全
-
-- [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
+* [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
 
 
 ## Android命令
