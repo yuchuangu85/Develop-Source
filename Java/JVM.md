@@ -1,4 +1,6 @@
-# JVM
+<h1 align="center">JVM</h1>
+
+>Java虚拟机知识点整理
 
 ## GC回收过程及原理
 * [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)

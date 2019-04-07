@@ -1,4 +1,4 @@
-# CMAKE手册
+<h1 align="center">CMAKE手册</h1>
 
 ## CMake 用法导览
 

@@ -1,4 +1,4 @@
-<h1 align="center">Homebrew常用命令</h1> 
+<h1 align="center">HomeBrew常用命令</h1> 
 
 ## 1.更新：(brew路径：/usr/local/Cellar/)
 * 自己更新：
