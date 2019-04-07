@@ -20,6 +20,7 @@
     * [PhotoView](#PhotoView)
     * [SmartCropper](#SmartCropper)
     * [glide-transformations](#glide-transformations)
+    * [四大图片缓存比较](#四大图片缓存比较)
 
 * [热更新](#热更新)
     * [Robust](#Robust)
@@ -76,6 +77,7 @@
     * [Sugar](#Sugar)
     * [sqlbrite](#sqlbrite)
     * [LitePal](#LitePal)
+    * [数据库资料](#数据库资料)
 
 * [数据解析](#数据解析)
     * [gson](#gson)
@@ -247,6 +249,8 @@ An Android transformation library providing a variety of image transformations f
 
 源码地址：[https://github.com/wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)
 
+#### 8.四大图片缓存比较
+[Android四大图片缓存（Imageloader,Picasso,Glide,Fresco）原理、特性对比](http://www.cnblogs.com/linghu-java/p/5741358.html)
 
 ## 热更新
 
@@ -471,6 +475,13 @@ External samples are variants that may not be in sync with the rest of the branc
 * [Sugar](https://github.com/satyan/sugar)
 * [sqlbrite](https://github.com/square/sqlbrite)
 * [LitePal](https://github.com/LitePalFramework/LitePal)
+* 数据库资料
+    * [Android数据库ORM框架用法、源码和性能比较分析](http://www.jianshu.com/p/8287873d97cd)
+    * [GreenDao、Ormlite、Realm性能对比](http://blog.csdn.net/firesmog/article/details/55656007)
+    * [SQLite数据库框架ORMLite与GreenDao的简单比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1127/2066.html)
+    * [My talk at Droidcon UK](http://kpgalligan.tumblr.com/post/133281929963/my-talk-at-droidcon-uk)
+    * [Android 数据库对比](http://www.ionesmile.com/android/database-contrast-and-realm)
+    * [Android Room Library 简单使用](http://linshen.me/blog/2017/08/03/android-room-library-tutorial/)
 
 ## 网络解析
 * [gson](https://github.com/google/gson)

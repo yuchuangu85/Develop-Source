@@ -17,6 +17,8 @@
 * [Android架构](#Android架构)
 * [Android开源项目集合](#Android开源项目集合)
 * [Android开发技巧](#Android开发技巧)
+* [Android系统下载及编译](#Android系统下载及编译)
+* [Android反编译](#Android反编译)
 
 ## Android基础知识
 #### Activity
@@ -41,7 +43,7 @@
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
 
 #### View绘制流程
-* [MeasureSpec详解](/Android/View/MeasureSpec.md)
+* [MeasureSpec详解](/Android/view/MeasureSpec.md)
 
 ## Android性能优化
 
@@ -97,6 +99,9 @@
 ## Android开发技巧
 * [Android开发技巧](/Android/OS/AndroidDevelopSkill.md)
 
-## Android系统
+## Android系统下载及编译
 * [AndroidOS编译](/Android/OS/AndroidSystemCompile.md)
 * [AndroidOS下载编译](/Android/OS/AndroidOSDownload.md)
+
+## Android反编译
+* [Android反编译Apk](/Android/Decompilation.md)

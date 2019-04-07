@@ -11,7 +11,7 @@ try {getWindow().getDecorView().getParent().getClass().getMethod("setDrawDuring
 try {getWindow().getDecorView().getParent().getClass().getMethod("setDrawDuringWindowsAnimating", boolean.class).                    invoke(getWindow().getDecorView().getParent(), true);  } catch (IllegalAccessException e) {   e.printStackTrace();  } catch (InvocationTargetException e) {   e.printStackTrace();  } catch (NoSuchMethodException e) {   e.printStackTrace();  }
 ```
 
-![](/images/Skill/skill1.jpg)
+![](../images/Skill/skill1.jpg)
 
 ```
 private boolean sInited = false;    private Method msetDrawDuringWindowsAnimatingMethod;    @Override    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {        super.onMeasure(widthMeasureSpec, heightMeasureSpec);        if (Build.VERSION.SDK_INT > Build.VERSION_CODES.JELLY_BEAN_MR2) {            Object viewRootImpl = ((Activity)getContext()).getWindow().getDecorView().getParent();            if (!sInited) {                try {                    msetDrawDuringWindowsAnimatingMethod = viewRootImpl.getClass().getMethod("setDrawDuringWindowsAnimating", boolean.class);                } catch (NoSuchMethodException e) {                    e.printStackTrace();                }                if (msetDrawDuringWindowsAnimatingMethod != null) {                    try {                        msetDrawDuringWindowsAnimatingMethod.invoke(viewRootImpl, true);                    } catch (IllegalAccessException e) {                        e.printStackTrace();                    } catch (InvocationTargetException e) {                        e.printStackTrace();                    }                }                sInited = true;            }        }    }
@@ -19,12 +19,12 @@ private boolean sInited = false;    private Method msetDrawDuringWindowsAnimati
 
 #### 2.异步加载View--优化卡顿：
 只有View被添加到View树上的时候才可能会绘制，刚inflate出来的View没有被添加到View树上，所以不会进行measure和layout。measure是耗时的，如果在线程中执行，它就会减少主线程的卡顿，最后再添加到View树上，并且不用触发requestLayout。（Fragment也可以先在子线程创建，然后再UI线程添加）
-![](/images/Skill/skill2.jpg)
+![](../images/Skill/skill2.jpg)
 
 总结：如果创建的View比较耗时，那么就在子线程去创建，例如上面代码，measure、layout都在子线程，然后在主线程去添加该View。
 实例：如果列表数据需要从网络加载，且数据比较多，那么View加载相对较慢，则可以把列表的所有子View添加到子线程去创建，然后添加到列表中刷新。
 
-#### 3.
+#### 3.准确获取GPU柱状图
 android系统提供的GPU柱状图并不准确，无法准确的得出帧率，就利用Looper的log机制和添加全局控件来自己实现那个柱状图。
 ```java
 getMainLooper().setMessageLogging(new Printer() {    @Override    public void println(String x) {        if(x.startsWith(">>>>> Dispatching to Handler(android.view.Choreographer$FrameHandler)")){            long time1 = System.nanoTime();            LOG.I("Frame", "帧间隔为： " + (1000000000/(time1 - time)));            time = time1;        }    }});
