@@ -6,6 +6,7 @@
 * [Android系统机制](#Android系统机制)
     * [Binder机制](#Binder机制)
     * [消息机制](#消息机制)
+    * [View绘制流程](#View绘制流程)
 * [Android性能优化](#Android性能优化)
     * [性能优化典范](#性能优化典范)
     * [内存优化](#内存优化)
@@ -15,6 +16,7 @@
 * [Android命令](#Android命令)
 * [Android架构](#Android架构)
 * [Android开源项目集合](#Android开源项目集合)
+* [Android开发技巧](#Android开发技巧)
 
 ## Android基础知识
 #### Activity
@@ -38,6 +40,8 @@
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
 
+#### View绘制流程
+* [MeasureSpec详解](/Android/View/MeasureSpec.md)
 
 ## Android性能优化
 
@@ -87,5 +91,12 @@
 
 ## Android开源项目集合
 * [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer):谷歌开源音乐播放器
+* [十大Material Design开源项目](/Android/MaterialDesign.md)
 
 
+## Android开发技巧
+* [Android开发技巧](/Android/OS/AndroidDevelopSkill.md)
+
+## Android系统
+* [AndroidOS编译](/Android/OS/AndroidSystemCompile.md)
+* [AndroidOS下载编译](/Android/OS/AndroidOSDownload.md)

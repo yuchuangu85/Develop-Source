@@ -125,7 +125,7 @@
     * [regulex](#regulex)
 
 ## 网络
-#### 1.android-async-http:
+#### 1.android-async-http
 
 一个比较老的网络框架项目，虽然已经很少使用了，但是可以学习一下里面的写作方法。
 
@@ -136,7 +136,7 @@
 2. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 3. [android-async-http框架库使用基础](http://blog.csdn.net/yanbober/article/details/45307549)
 
-#### 2.Retrofit:
+#### 2.Retrofit
 retrofit是由square开源组织开源的一款非常流行的网络请求框架，现在使用已经非常广泛。
 
 源码地址：[retrofit](https://github.com/square/retrofit)
@@ -148,7 +148,7 @@ retrofit是由square开源组织开源的一款非常流行的网络请求框架
 4. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
 5. [Android 手把手教你使用Retrofit2](http://www.jianshu.com/p/73216939806a)
 
-#### 3.okhttp:
+#### 3.okhttp
 okhttp也是由square开源组织开源的一款网络底层封装库，上面介绍的Retrofit也是基于此库进行的二次封装。
 
 源码地址：[okhttp](https://github.com/square/okhttp)
@@ -199,7 +199,7 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 ## 图片加载及显示
 
-#### 1.Android-Universal-Image-Loader:
+#### 1.Android-Universal-Image-Loader
 源码地址：[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 详解：
@@ -209,12 +209,12 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 [Android 开源框架Universal-Image-Loader完全解析（三）---源代码解读](http://blog.csdn.net/xiaanming/article/details/39057201)
 
-#### 2.fresco：
+#### 2.fresco
 源码地址：[fresco](https://github.com/facebook/fresco)
 
 详解：[官方文档](https://www.fresco-cn.org/docs/index.html)
 
-#### 3.Glide:
+#### 3.Glide
 源码地址：[glide](https://github.com/bumptech/glide)
 
 详解：
@@ -222,7 +222,7 @@ RxCocoa：[RxCocoa](https://github.com/ReactiveX/RxSwift)
 
 [Google推荐的图片加载库Glide介绍](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 
-#### 4.Picasso:
+#### 4.Picasso
 源码地址：[picasso](https://github.com/square/picasso)
 
 详解：
@@ -302,7 +302,7 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 [Android 热修复Nuwa的原理及Gradle插件源码解析](http://blog.csdn.net/sbsujjbcy/article/details/50812674)
 [安卓热更新之Nuwa实现步骤](http://www.cnblogs.com/fanfu1/p/5506149.html)
 
-#### 8.RocooFix:
+#### 8.RocooFix
 源码地址：[RocooFix](https://github.com/dodola/RocooFix)
 
 #### 9.AnoleFix:
@@ -531,14 +531,14 @@ Github：[Flutter](https://github.com/flutter)
 
 
 ## 其他
-谷歌开源手机号验证库：
+谷歌开源手机号验证库
 [libphonenumber](https://github.com/googlei18n/libphonenumber)
 
-编译器抓取常见错误工具：
+编译器抓取常见错误工具
 [**error-prone**](https://github.com/google/error-prone)
 
-正则表达式工具：
+正则表达式工具
 [regulex](https://github.com/CJex/regulex)
 
-正则表达式可视化：
+正则表达式可视化
 [https://jex.im/regulex/](https://jex.im/regulex/)
