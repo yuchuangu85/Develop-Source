@@ -1,12 +1,19 @@
-<h1 align="center">Android基础</h1>
+<h1 align="center">Android知识梳理</h1>
+>包含：四大组件，Binder机制，消息机制，View绘制流程，事件分发，性能优化，视图优化，以及安全等知识点。
+
 
 ## 目录
-* [Android基础知识](#Android基础知识)
+* [Android四大组件](#Android四大组件)
     * [Activity](#Activity)
+    * [Broadcast](#Broadcast)
+    * [Service](#Service)
+    * [ContentProvider](#ContentProvider)
 * [Android系统机制](#Android系统机制)
     * [Binder机制](#Binder机制)
     * [消息机制](#消息机制)
     * [View绘制流程](#View绘制流程)
+    * [View事件分发](#View事件分发)
+    * [Intent](#Intent)
 * [Android性能优化](#Android性能优化)
     * [性能优化典范](#性能优化典范)
     * [内存优化](#内存优化)
@@ -20,7 +27,7 @@
 * [Android系统下载及编译](#Android系统下载及编译)
 * [Android反编译](#Android反编译)
 
-## Android基础知识
+## Android四大组件
 #### Activity
 * [Android Training - 详解Activity生命周期(Lesson 1 - 启动与销毁Activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-1/)
 * [Android Training - 详解Activity生命周期(Lesson 2 - 暂停与恢复activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-2/)
@@ -28,6 +35,28 @@
 * [Android Training - 详解Activity生命周期(Lesson 4 - 重新创建销毁的activity)](http://hukai.me/android-training-managing-the-activity-lifecycle-lesson-4/)
 * [Android开发之InstanceState详解](http://www.cnblogs.com/hanyonglu/archive/2012/03/28/2420515.html)
 
+#### Broadcast
+* [解析BroadcastReceiver之你需要了解的一些东东](http://www.cnblogs.com/net168/p/3980068.html)
+*  [Android应用程序注册广播接收器（registerReceiver）的过程分析](http://blog.csdn.net/luoshengyang/article/details/6737352)
+* [Android应用程序发送广播（sendBroadcast）的过程分析](http://blog.csdn.net/luoshengyang/article/details/6744448)
+
+#### Service
+* [Android中bindService的使用及Service生命周期](http://blog.csdn.net/iispring/article/details/48169339)
+* [Android中bindService的使用及Service生命周期](http://blog.csdn.net/iispring/article/details/48169339)
+* [Android通过startService实现批量下载示例](http://blog.csdn.net/iispring/article/details/48015475)
+* [Android应用程序绑定服务（bindService）的过程源代码分析](http://blog.csdn.net/luoshengyang/article/details/6745181)
+* [Android中IntentService的使用及其源码解析](http://blog.csdn.net/iispring/article/details/48046861)
+* [Building Accessibility Services(建立可访问性服务)](http://www.android-doc.com/guide/topics/ui/accessibility/services.html)
+* [Android Accessibility(辅助功能) --实现Android应用自动安装、卸载](http://blog.csdn.net/androidsecurity/article/details/41890369?utm_source=tuicool)
+* [使用Android Accessibility实现免Root自动批量安装功能](http://www.infoq.com/cn/articles/android-accessibility-installing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+#### ContentProvider
+* [Android ContentProvider和Uri详解 (绝对全面)](http://blog.sina.com.cn/s/blog_9f233c070101euqx.html)
+* [Android应用程序组件Content Provider应用实例](http://blog.csdn.net/luoshengyang/article/details/6950440)
+* [Android应用程序组件Content Provider的启动过程源代码分析](http://blog.csdn.net/luoshengyang/article/details/6963418)
+* [Android应用程序组件Content Provider在应用程序之间共享数据的原理分析](http://blog.csdn.net/luoshengyang/article/details/6967204)
+* [Android应用程序组件Content Provider的共享数据更新通知机制分析](http://blog.csdn.net/luoshengyang/article/details/6985171)
+* [android 应用的启动过程分析](http://www.jianshu.com/p/a1f40b39b3de)(ContentProvider的onCreate方法在Application的onCreate方法前面)
 
 ## Android系统机制
 
@@ -35,15 +64,38 @@
 * [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
 * [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
 
-
 #### 消息机制
 * [Android系统源码分析--消息循环机制](http://codemx.cn/2017/07/13/AndroidOS004-HandleMessageLooper/)
 * [android的消息处理机制（图+源码分析）——Looper,Handler,Message](https://www.cnblogs.com/codingmyworld/archive/2011/09/14/2174255.html)
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
 * [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
+* [This Handler class should be static or leaks might occur: IncomingHandler](https://stackoverflow.com/questions/11407943/this-handler-class-should-be-static-or-leaks-might-occur-incominghandler?noredirect=1&lq=1)
+* [Handlers and memory leaks in Android](http://stackoverflow.com/questions/11278875/handlers-and-memory-leaks-in-android)
 
 #### View绘制流程
 * [MeasureSpec详解](/Android/view/MeasureSpec.md)
+* [Android View绘制流程](http://blog.csdn.net/wangjinyu501/article/details/9008271)
+* [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/公共技术点之%20View%20绘制流程)
+* [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
+* [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(下)](http://blog.csdn.net/qinjuning/article/details/8074262)
+* [Android中View(视图)绘制不同状态背景图片原理深入分析以及StateListDrawable使用详解](http://blog.csdn.net/qinjuning/article/details/7474827)
+* [Android中将布局文件/View添加至窗口过程分析 ---- 从setContentView()谈起](http://blog.csdn.net/qinjuning/article/details/7226787)
+* [MeasureSpec介绍及使用](http://www.cnblogs.com/nanxiaojue/p/3536381.html?utm_source=tuicool&utm_medium=referral)
+
+####  View事件分发
+* [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b#)
+* [Android 中Touch（触屏）事件传递机制](http://blog.csdn.net/wangjinyu501/article/details/22584465)
+* [Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
+* [Android-onInterceptTouchEvent()和onTouchEvent()总结](http://blog.csdn.net/lvxiangan/article/details/9309927)（注：这篇文章没找到原创，连接是转载的，如果谁找到原创可以提供给我。）
+* [Android中View的量算、布局及绘图机制](http://blog.csdn.net/iispring/article/details/49203945)
+* [源码解析Android中View的measure量算过程](http://blog.csdn.net/iispring/article/details/49403315)
+* [源码解析Android中View的layout布局过程](http://blog.csdn.net/iispring/article/details/50366021)
+
+#### Intent
+* [Android中Intent概述及使用](http://blog.csdn.net/iispring/article/details/48417779)
+* [Android中Intent对象与Intent Filter过滤匹配过程详解](http://blog.csdn.net/iispring/article/details/48481793)
+* [Android中常见Intent习惯用法-上篇(附源码下载) ](http://blog.csdn.net/iispring/article/details/48578295)
+* [Android权限和动作大全](http://blog.csdn.net/github_25928675/article/details/46460417)
 
 ## Android性能优化
 
@@ -66,6 +118,10 @@
 * [ANR问题总结](/Android/optimize/ANR.md)
 * [Merge使用](/Android/optimize/Merge.md)
 * [ViewStubs使用](/Android/optimize/ViewStubs.md)
+* [5个导致主线程卡顿较鲜为人知的元凶](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Android抽象布局——include、merge 、ViewStub](http://blog.csdn.net/xyz_lmn/article/details/14524567)
+* [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
+
 
 #### Android性能优化博客
 - [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
