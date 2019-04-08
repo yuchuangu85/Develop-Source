@@ -112,11 +112,13 @@
 * [加密算法](/Algorithm/Algorithm.md#加密算法)
 
 ## [深度学习](/DeepLearn/DeepLearn.md)
-* 深度学习开源资料
+* [深度学习开源资料](/DeepLearn/DeepLearn.md)
 
 ## [Python](/Python/Python.md)
-* Python知识点
-* Python开源代码
+* [Python开源项目](/Python/Python.md)
+* [Python开源代码集合中文](/Python/AwesomePythonCN.md)
+* [Python开源代码集合](/Python/AwesomePython.md)
+* [Python开源代码集合目录](/Python/AwesomePython2.md)
 
 ## [博客Github](/Blog/Blog.md)
 * [博客](/Blog/Blog.md#博客)
