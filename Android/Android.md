@@ -124,16 +124,15 @@
 
 
 #### Android性能优化博客
-- [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
-- [Android性能优化典范](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
-- [Android性能优化典范](http://hukai.me)
+* [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+* [Android性能优化典范](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+* [Android性能优化典范](http://hukai.me)
 
 ## Android安全
 * [理解Android安全机制](https://www.cnblogs.com/lao-liang/p/5089336.html)
 
 
 ## Android命令
-
 * [aapt命令说明](/Android/adb/aapt.md)
 * [adb-shell常用命令](/Android/adb/adb-shell.md)
 * [adb常用命令](/Android/adb/adb.md)
@@ -155,9 +154,11 @@
 ## Android开发技巧
 * [Android开发技巧](/Android/OS/AndroidDevelopSkill.md)
 
+
 ## Android系统下载及编译
 * [AndroidOS编译](/Android/OS/AndroidSystemCompile.md)
 * [AndroidOS下载编译](/Android/OS/AndroidOSDownload.md)
+
 
 ## Android反编译
 * [Android反编译Apk](/Android/Decompilation.md)
