@@ -30,6 +30,7 @@
 * [Python](#Python)
 * [Git学习](#Git学习)
 * [博客Github](#博客Github)
+* [大学课程](#大学课程)
 
 
 ## Android
@@ -129,3 +130,4 @@
 * [博客](/Blog/Blog.md#博客)
 * [Github](/Blog/Blog.md#Github)
 
+## [大学课程](/CollegeCourse/CollegeCourse.md)
