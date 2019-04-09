@@ -28,6 +28,7 @@
 * [Algorithms(算法)](#Algorithms(算法))
 * [深度学习](#深度学习)
 * [Python](#Python)
+* [Git学习](#Git学习)
 * [博客Github](#博客Github)
 
 
@@ -119,6 +120,10 @@
 * [Python开源代码集合中文](/Python/AwesomePythonCN.md)
 * [Python开源代码集合](/Python/AwesomePython.md)
 * [Python开源代码集合目录](/Python/AwesomePython2.md)
+
+## [Git学习](/Git/Git.md)
+* [Github技巧](/Git/Git.md#Github技巧)
+* [Git操作指南](/Git/Git.md#Git操作指南)
 
 ## [博客Github](/Blog/Blog.md)
 * [博客](/Blog/Blog.md#博客)
