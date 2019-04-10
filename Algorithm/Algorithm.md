@@ -5,6 +5,7 @@
 * [数学](#数学)
 * [排序算法](#加密算法)
 * [加密算法](#加密算法)
+* [算法书籍](#算法书籍)
 
 ## Java算法
 * [The Algorithms Java](https://github.com/TheAlgorithms/Java)
@@ -23,3 +24,7 @@
 * [Android数据加密之MD5加密](http://www.cnblogs.com/whoislcj/p/5885006.html)
 * [Android数据加密之Base64编码算法](http://www.cnblogs.com/whoislcj/p/5887859.html)
 * [Android数据加密之异或加密算法](https://www.cnblogs.com/whoislcj/p/5944917.html)
+
+## 算法书籍
+* [Algorithms](https://github.com/jeffgerickson/algorithms)
+* [Algorithms在线阅读](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
