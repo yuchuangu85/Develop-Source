@@ -15,7 +15,7 @@
 * [Weishu's Notes](http://weishu.me) 
 * [Gracker](http://androidperformance.com)
 * [胡凯](http://hukai.me)
-* [启舰](http://blog.csdn.net/harvic880925)
+* [启舰](http://blog.csdn.net/harvic880925)
 
 #### Github
 
@@ -38,6 +38,10 @@
 * [腾讯AllyTeam Blog](http://www.alloyteam.com)
 * [ImportNew](http://www.importnew.com)
 * [伯乐在线](http://android.jobbole.com)
+* [有赞技术团队](https://tech.youzan.com/)
+* [奇虎360技术博客](http://blogs.360.cn/)
+* [有道技术沙龙博客](http://techblog.youdao.com/)
+
 
 
 #### 资源网站
