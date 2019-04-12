@@ -24,6 +24,7 @@
 * [网络协议及框架](#网络协议及框架)
 * [CCPlus](#CCPlus)
 * [Linux知识整理](#Linux知识整理)
+* [Swift知识整理](#Swift知识整理)
 * [iOS开源项目集合](#iOS开源项目集合)
 * [macOS开源项目集合](#macOS开源项目集合)
 * [Algorithms(算法)](#Algorithms(算法))
@@ -103,6 +104,12 @@
 ## [Linux知识整理](/Linux/Linux.md)
 * [Linux内核](/Linux/Linux.md#Linux内核)
 
+## [Swift知识整理](/Swift/Swift.md)
+* [Swift知识学习](/Swift/Swift.md#Swift知识学习)
+* [Swift开发插件](/Swift/Swift.md#Swift开发插件)
+* [Swift依赖库](/Swift/Swift.md#Swift依赖库)
+* [Swift开源项目](/Swift/Swift.md#Swift开源项目)
+
 ## [iOS开源项目集合](/iOS/iOS.md)
 * [iOS开源集合](/iOS/iOS.md#开源集合)
 
@@ -110,6 +117,7 @@
 * [Mac操作](/macOS/macOS.md#Mac操作)
 * [HomeBrew](/macOS/macOS.md#HomeBrew)
 * [macOS开源项目](/macOS/macOS.md#macOS开源项目)
+* [macOS开发教程](/macOS/macOS.md#macOS开发教程)
 
 ## [Algorithms(算法)](/Algorithm/Algorithm.md)
 * [Java算法](/Algorithm/Algorithm.md#Java算法)
