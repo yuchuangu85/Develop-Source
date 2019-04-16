@@ -9,26 +9,27 @@
   
   Github地址：[macdown](https://github.com/MacDownApp/macdown)
   
+
 =======================================================================================
 
 * IINA：Mac系统下的开源播放器
 
  Github地址：[IINA](https://github.com/lhc70000/iina)
- 
+
  =======================================================================================
- 
+
 * Gitbook：mac系统下的文本编辑器
- 
+
  Github地址：[Gitbook](https://github.com/GitbookIO/gitbook)
- 
+
  =======================================================================================
- 
+
 * Lepton:开源的跨平台代码片段管理工具(Mac OS,Windows,Linux)
- 
+
  Github地址：[Lepton](https://github.com/hackjutsu/Lepton)
- 
+
 =======================================================================================
- 
+
  * Alamofire：Alamofire是一个用Swift编写的HTTP网络库，由此前热门开源项目AFNetworking的的作者mattt开发，可非常简单地用于异步网络通信。
 
     关于何时使用AFNetworking，何时使用Alamofire，可参看作者对[两种情况的分析](https://github.com/Alamofire/Alamofire)，不过很好的一点是AFNetworking和Alamofire两个库并不相互排斥，可以很好地共存于相同的代码库中。
@@ -93,5 +94,7 @@ Github地址：[Cartography](https://github.com/robb/Cartography)
 
 =======================================================================================
 
+* marktext：一款简单的markdown编辑工具。
 
+  Github地址：[marktext](https://github.com/marktext/marktext)
 
