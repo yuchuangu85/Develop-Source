@@ -7,6 +7,7 @@
 * [Swift开源项目](#Swift开源项目)
 
 ## Swift知识学习
+* [Swift官方中文版](https://swiftgg.gitbook.io/swift/)
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [中文版 Apple 官方 Swift 教程](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
 * [Swift基础知识大全](https://github.com/iOS-Swift-Developers/Swift)
