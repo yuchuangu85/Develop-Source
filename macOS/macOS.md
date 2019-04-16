@@ -24,6 +24,7 @@
 * [Mac-iOS-Open-Source](/macOS/Awesome/Mac-iOS-Open-Source.md)
 * [Mac-iOS-Source](/macOS/Awesome/Mac-iOS-Source.md)
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+* [marktext](https://github.com/marktext/marktext)
 
 ## macOS开发教程
 * [译-零基础 macOS 应用开发（一）](https://www.jianshu.com/p/a3f16178a213)
