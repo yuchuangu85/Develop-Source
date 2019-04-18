@@ -36,3 +36,8 @@
 * [译-如何在 macOS 上使用 NSTouchBar](https://www.jianshu.com/p/05af8be14baa)
 * [Translation of macOS development tutorials](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation)
 * [macOS开发教程网站](https://www.raywenderlich.com/macos)
+
+## macOS博客
+
+* [macOS 开发 - 入门笔记](https://blog.csdn.net/lovechris00/article/details/72779076)
+
