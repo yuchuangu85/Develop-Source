@@ -5,6 +5,7 @@
 * [HomeBrew](#HomeBrew)
 * [macOS开源项目](#macOS开源项目)
 * [macOS开发教程](#macOS开发教程)
+* [macOS常用软件](#macOS常用软件)
 
 
 ## Mac操作
@@ -41,3 +42,5 @@
 
 * [macOS 开发 - 入门笔记](https://blog.csdn.net/lovechris00/article/details/72779076)
 
+## macOS常用软件
+[macOS常用软件集合](/macOS/macSoftware.md)
