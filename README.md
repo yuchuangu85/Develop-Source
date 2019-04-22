@@ -104,6 +104,7 @@
 
 ## [Linux知识整理](/Linux/Linux.md)
 * [Linux内核](/Linux/Linux.md#Linux内核)
+* [Shell脚本](/Linux/Linux.md#Shell脚本)
 
 ## [Swift知识整理](/Swift/Swift.md)
 * [Swift知识学习](/Swift/Swift.md#Swift知识学习)
