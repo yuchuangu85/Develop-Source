@@ -21,11 +21,14 @@
 
 ## Swift库
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
-* [Alamofire](https://github.com/Alamofire/Alamofire):http
+* [Alamofire](https://github.com/Alamofire/Alamofire)：http
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
-* [Kingfisher](https://github.com/onevcat/Kingfisher):download image
+* [Kingfisher](https://github.com/onevcat/Kingfisher)：download image
 * [PromiseKit](https://github.com/mxcl/PromiseKit)
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG)：SVG
+* [Macaw](https://github.com/exyte/Macaw)：Swift library with SVG support
+* [fan-menu](https://github.com/exyte/fan-menu)：Menu with a circular layout based on Macaw
 
 ## Swift开源项目
 * [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
