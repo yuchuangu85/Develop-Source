@@ -4,11 +4,13 @@
 * [开源集合](#开源集合)
 
 ## 开源集合
-* [Open-Source iOS Apps](/iOS/Awesome/Open-Source-iOS-Apps.md)
-* [awesome-ios-ui](/iOS/Awesome/awesome-ios-ui.md)
-* [awesome-ios](/iOS/Awesome/awesome-ios.md)
-* [awesome-ios-animation](/iOS/Awesome/awesome-ios-animation.md)
-* [Open-Source iOS Apps](/iOS/Awesome/Open-Source-iOS-App.md)
+* [iOS总览](https://github.com/topics/ios)
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+* [awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)
+* [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+* [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart)
 
 

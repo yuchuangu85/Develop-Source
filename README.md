@@ -33,6 +33,7 @@
 * [Git学习](#Git学习)
 * [博客Github](#博客Github)
 * [大学课程](#大学课程)
+* [在线工具](#在线工具)
 
 
 ## Android
@@ -103,12 +104,14 @@
 
 ## [Linux知识整理](/Linux/Linux.md)
 * [Linux内核](/Linux/Linux.md#Linux内核)
+* [Shell脚本](/Linux/Linux.md#Shell脚本)
 
 ## [Swift知识整理](/Swift/Swift.md)
 * [Swift知识学习](/Swift/Swift.md#Swift知识学习)
 * [Swift开发插件](/Swift/Swift.md#Swift开发插件)
 * [Swift依赖库](/Swift/Swift.md#Swift依赖库)
 * [Swift开源项目](/Swift/Swift.md#Swift开源项目)
+* [Swift开源项目集合](/Swift/Swift.md#Swift开源项目集合)
 
 ## [iOS开源项目集合](/iOS/iOS.md)
 * [iOS开源集合](/iOS/iOS.md#开源集合)
@@ -142,6 +145,7 @@
 ## [博客Github](/Blog/Blog.md)
 * [博客](/Blog/Blog.md#博客)
 * [Github](/Blog/Blog.md#Github)
+* [GithubTrending](<https://github.com/trending>)
 
 ## [大学课程](/CollegeCourse/CollegeCourse.md)
 
@@ -150,3 +154,11 @@
 * [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 * [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 * [中科大(USTC)计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
+
+
+
+## [在线工具](/Tools/Tools.md)
+
+* [在线工具](/Tools/Tools.md#在线工具)
+* [开发资源工具](/Tools/Tools.md#开发资源工具)
+

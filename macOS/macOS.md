@@ -15,16 +15,27 @@
 * [HomeBrew](/macOS/HomeBrew.md)
 
 ## macOS开源项目
-* [open-source-mac-os-apps](/macOS/Awesome/open-source-mac-os-apps.md)
-* [awesome-osx-command-line](/macOS/Awesome/awesome-osx-command-line.md)
-* [awesome-macOS](/macOS/Awesome/awesome-macOS.md)
-* [Awesome-Apple](/macOS/Awesome/Awesome-Apple.md)
-* [Collect-Github-APP](/macOS/Awesome/Collect-Github-APP.md)
+* [mac总览](https://github.com/topics/mac)
+
+* [awesome-osx-command-line](https://github.com/gregcain/awesome-osx-command-line)
+
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+
+* [Awesome-Apple](https://github.com/joeljfischer/awesome-apple)
+
+* [CollectGithubAPP](https://github.com/zJunZ/CollectGithubAPP)
+
 * [Mac-Open-Source](/macOS/Awesome/Mac-Open-Source.md)
-* [Mac-Open-Source](/macOS/Awesome/Mac-Open-Source.md)
+
 * [Mac-iOS-Open-Source](/macOS/Awesome/Mac-iOS-Open-Source.md)
+
 * [Mac-iOS-Source](/macOS/Awesome/Mac-iOS-Source.md)
+
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
+* [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers)：屏保
+
+  
 
 ## macOS开发教程
 * [译-零基础 macOS 应用开发（一）](https://www.jianshu.com/p/a3f16178a213)
@@ -43,4 +54,7 @@
 * [macOS 开发 - 入门笔记](https://blog.csdn.net/lovechris00/article/details/72779076)
 
 ## macOS常用软件
-[macOS常用软件集合](/macOS/macSoftware.md)
+* [macOS常用软件集合](/macOS/macSoftware.md)
+* [Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
+* [Best-App](https://github.com/hzlzh/Best-App)
+
