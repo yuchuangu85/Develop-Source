@@ -111,6 +111,7 @@
 * [Swift开发插件](/Swift/Swift.md#Swift开发插件)
 * [Swift依赖库](/Swift/Swift.md#Swift依赖库)
 * [Swift开源项目](/Swift/Swift.md#Swift开源项目)
+* [Swift开源项目集合](/Swift/Swift.md#Swift开源项目集合)
 
 ## [iOS开源项目集合](/iOS/iOS.md)
 * [iOS开源集合](/iOS/iOS.md#开源集合)
