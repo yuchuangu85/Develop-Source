@@ -12,6 +12,7 @@
 * [下载软件](#下载软件)
 * [清理软件](#清理软件)
 * [翻墙](#翻墙)
+* [集合](#集合)
 
 ## 虚拟机
 * Parallels Desk：虚拟机软件
@@ -93,3 +94,7 @@
 
 ## 翻墙
 * MagicVPNMac
+
+## 集合
+
+* [Best-App](https://github.com/hzlzh/Best-App)

@@ -144,6 +144,7 @@
 ## [博客Github](/Blog/Blog.md)
 * [博客](/Blog/Blog.md#博客)
 * [Github](/Blog/Blog.md#Github)
+* [GithubTrending](<https://github.com/trending>)
 
 ## [大学课程](/CollegeCourse/CollegeCourse.md)
 

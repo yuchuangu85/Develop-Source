@@ -31,10 +31,21 @@
 * [fan-menu](https://github.com/exyte/fan-menu)：Menu with a circular layout based on Macaw
 
 ## Swift开源项目
+* [swift总览](https://github.com/topics/swift)
 * [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
 * [Pine](https://github.com/lukakerr/Pine)：A modern, native macOS markdown editor
 * [iina](https://github.com/iina/iina)：视频播放器
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
-
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：一个可以在终端（[`iTerm`](https://www.iterm2.com/) 或 [`Hyper`](https://github.com/zeit/hyper)）中打开当前目录的访达工具栏应用程序。
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [awesome-swift](https://github.com/Wolg/awesome-swift)
+* [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
+* [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
+* [FontAwesome.swift](https://github.com/thii/FontAwesome.swift)
+* [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
+* [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
+* [Cards](https://github.com/PaoloCuscela/Cards)
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+* [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)
+* 
 
