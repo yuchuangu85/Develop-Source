@@ -95,6 +95,3 @@
 ## 翻墙
 * MagicVPNMac
 
-## 集合
-
-* [Best-App](https://github.com/hzlzh/Best-App)
