@@ -8,9 +8,7 @@
 
 >开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
 
-**注：详细内容点击标题进入详细页面**
-
-更新日期：20190407
+更新日期：20190423
 
 ## 目录
 * [Android](#Android)
@@ -34,6 +32,7 @@
 * [博客Github](#博客Github)
 * [大学课程](#大学课程)
 * [在线工具](#在线工具)
+* [UI设计](#UI设计)
 
 
 ## Android
@@ -148,17 +147,17 @@
 * [GithubTrending](<https://github.com/trending>)
 
 ## [大学课程](/CollegeCourse/CollegeCourse.md)
-
 * [北京大学课程资料整理 ](https://lib-pku.github.io/)
 * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 * [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 * [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 * [中科大(USTC)计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
 
-
-
 ## [在线工具](/Tools/Tools.md)
-
 * [在线工具](/Tools/Tools.md#在线工具)
 * [开发资源工具](/Tools/Tools.md#开发资源工具)
 
+## [UI设计](/Design/Design.md)
+* [资源集合](/Design/Design.md#资源集合)
+* [设计网站](/Design/Design.md#设计网站)
+* [在线资源](/Design/Design.md#在线资源)
