@@ -43,4 +43,5 @@
 * [macOS 开发 - 入门笔记](https://blog.csdn.net/lovechris00/article/details/72779076)
 
 ## macOS常用软件
-[macOS常用软件集合](/macOS/macSoftware.md)
+* [macOS常用软件集合](/macOS/macSoftware.md)
+* [Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
