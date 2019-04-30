@@ -3,7 +3,7 @@
 ## 目录
 * [开发网站](#开发网站)
 * [开源项目](#开源项目)
-* [结构图](#结构图)
+* [架构图](#架构图)
 
 
 ## 开发网站
@@ -26,6 +26,6 @@
 * [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 
 
-## 结构图图
+## 架构图
 ![Flutter架构图](../Flutter/images/FlutterFramework.png)
 ![Flutter架构图](../Flutter/images/FlutterTree.png)
