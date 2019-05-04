@@ -17,6 +17,7 @@
 * [Hash在线工具](https://1024tools.com/hash)
 * [wechat-format](https://github.com/lyricat/wechat-format)：微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 * [在线工具](https://tool.lu)：开发工具大全
+* [开发常用词汇在线翻译](https://i18ns.com)
 
 
 
