@@ -34,6 +34,7 @@
 * [大学课程](#大学课程)
 * [在线工具](#在线工具)
 * [UI设计](#UI设计)
+* [学习资料](#学习资料)
 
 
 ## Android
@@ -167,3 +168,6 @@
 * [资源集合](/Design/Design.md#资源集合)
 * [设计网站](/Design/Design.md#设计网站)
 * [在线资源](/Design/Design.md#在线资源)
+
+## [学习资料]
+* [数据科学学习](https://github.com/amitness/learning)
