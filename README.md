@@ -169,5 +169,5 @@
 * [设计网站](/Design/Design.md#设计网站)
 * [在线资源](/Design/Design.md#在线资源)
 
-## [学习资料]
+## 学习资料
 * [数据科学学习](https://github.com/amitness/learning)
