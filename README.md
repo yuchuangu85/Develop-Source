@@ -107,6 +107,7 @@
 ## [CCPlus](/CCPlus/CCPlus.md)
 * [C++开源项目](/CCPlus/CPlus.md#C++开源项目)
 * [CMAKE手册](/CCPlus/CPlus.md#CMAKE手册)
+* [开源项目](/CCPlus/C.md#开源项目)
 
 ## [Linux知识整理](/Linux/Linux.md)
 * [Linux内核](/Linux/Linux.md#Linux内核)
@@ -163,6 +164,7 @@
 ## [在线工具](/Tools/Tools.md)
 * [在线工具](/Tools/Tools.md#在线工具)
 * [开发资源工具](/Tools/Tools.md#开发资源工具)
+* [开发工具](/Tools/Tools.md#开发工具)
 
 ## [UI设计](/Design/Design.md)
 * [资源集合](/Design/Design.md#资源集合)
