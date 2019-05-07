@@ -1,27 +1,20 @@
 <h1 align="center">Android开源代码</h1>
 
 ## Fragment
-
 * [simple-stack](https://github.com/Zhuinden/simple-stack)：Simple Stack, a backstack library for simpler navigation between views, fragments, or whatevers.
 * [flow](https://github.com/square/flow)：Name UI states, navigate between them, remember where you've been.
 * [RIBs](https://github.com/uber/RIBs)：Uber's cross-platform mobile architecture framework.
 
-
 ## 城市选择
-
 * [CityPicker](https://github.com/zaaach/CityPicker)
 
 ## 万能布局
-
 * [SuperTextView](https://github.com/lygttpod/SuperTextView)：a super textview for android
 
-
 ## 库合集
-
 * [那些年收藏的Android开源库集合(控件)](https://www.jianshu.com/p/3baddcf948af)
 
 ## 轮播
-
 * [banner](https://github.com/youth5201314/banner)：Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 
 ## 图像处理
@@ -30,7 +23,6 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 * [CameraFilter](https://github.com/nekocode/CameraFilter)：相机特效源码
 
 ## GuideView
-
 **[https://github.com/binIoter/GuideView](https://github.com/binIoter/GuideView)**
 
 国人开发者出品的一个轻量级新手指引库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment。
@@ -40,7 +32,6 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 使用方式、更多效果、详细实现原理等，可以查看项目的README。
 
 ## Spotlight
-
 **[https://github.com/wooplr/Spotlight](https://github.com/wooplr/Spotlight)**
 
 看看下面的效果后相比静态的指引效果，这种动态指引更容易让用户耳目一新，可以在新功能的入口处添加提示。
@@ -48,7 +39,6 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 ![Spotlight-w240](https://diycode.b0.upaiyun.com/photo/2017/602655b94fa451820d33a7b98f923503.gif)
 
 ## MaterialIntroView
-
 **[https://github.com/iammert/MaterialIntroView](https://github.com/iammert/MaterialIntroView)**
 
 下面这个效果是从一款名为Fabulous的App上看到的，作者第一眼见到后，就非常喜欢它的效果，于是动手造了一个轮子。
@@ -56,16 +46,13 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 ![MaterialIntroView-w240](https://diycode.b0.upaiyun.com/photo/2017/481565db050c9b740f1337fb29e4c93d.gif)
 
 ## Highlight
-
 **[https://github.com/hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight)**
 
 一个用于app指向性功能高亮的库，开发者是很多Android圈内都认识的鸿洋。
 
 ![Highlight-w240](https://diycode.b0.upaiyun.com/photo/2017/7d97601ac5466562103b26ad2b084626.gif)
 
-
 ## FancyShowCaseView
-
 [https://github.com/faruktoptas/FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
 
 同样是个效果很棒的指引，请看下图，支持自定义View和动画等。
@@ -73,7 +60,6 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 ![FancyShowCaseView-w240](https://diycode.b0.upaiyun.com/photo/2017/fb3ca0baa452e7682219d2322ce6472d.gif)
 
 ## ShowcaseView
-
 [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 
 向你的用户快速展示应用的两点，这个控件时基于Android系统（Ice-Cream Sandwich和Jelly Bean两个版本的Launcher）源码中的Cling自定义View实现的。
@@ -85,7 +71,6 @@ CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜�
 ![ShowcaseView-w240](https://diycode.b0.upaiyun.com/photo/2017/70999a9ff7e1bb9dcf27e2435a2e61fe.png)
 
 ## MaterialShowcaseView
-
 [https://github.com/deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
 
 收到上一个推荐的ShowcaseView启发而写的控件，Material Design风格的设计让效果更加好看。
