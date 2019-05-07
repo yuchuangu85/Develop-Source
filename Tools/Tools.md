@@ -4,8 +4,8 @@
 
 
 * [在线工具](#在线工具)
-* [开发资源工具](#开发资源工具)
-
+* [开发资源](#开发资源)
+* [开发工具](#开发工具)
 
 
 ## 在线工具
@@ -21,7 +21,7 @@
 
 
 
-## 开发资源工具
+## 开发资源
 
 * [Android开发中文](https://developer.android.google.cn/)
 * [Android开发文档](https://developer.android.google.cn/reference/packages)
