@@ -27,3 +27,5 @@
 * [Android开发文档](https://developer.android.google.cn/reference/packages)
 * [AndroidDevTools](https://www.androiddevtools.cn/)
 
+## 开发工具
+* [Windows Terminal](https://github.com/microsoft/Terminal)：微软开源命令行工具
