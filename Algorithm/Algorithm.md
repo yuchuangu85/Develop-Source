@@ -9,6 +9,7 @@
 
 ## Java算法
 * [The Algorithms Java](https://github.com/TheAlgorithms/Java)
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)：用动画的形式呈现解LeetCode题目的思路
 
 ## 数学
 * [傅里叶分析之掐死教程（完整版）](https://zhuanlan.zhihu.com/p/19763358)

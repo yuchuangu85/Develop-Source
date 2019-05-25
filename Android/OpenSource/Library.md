@@ -33,7 +33,7 @@
     * [RocooFix](#RocooFix)
     * [AnoleFix](#AnoleFix)
 
-*[插件化](#插件化)
+* [插件化](#插件化)
     * [VirtualAPK](#VirtualAPK)
     * [ZeusPlugin](#ZeusPlugin)
     * [dynamic-load-apk（DL）](#dynamic-load-apk（DL）)
@@ -52,7 +52,7 @@
 * [图表](#图表)
     * [WilliamChart](#WilliamChart)
     * [XCL-Charts](#XCL-Charts)
-    * [HelloCharts for Android](#HelloCharts for Android)
+    * [HelloCharts-for-Android](#HelloCharts-for-Android)
     * [MPAndroidChart](#MPAndroidChart)
     * [achartengine](#achartengine)
     * [GraphView](#GraphView)
@@ -97,7 +97,7 @@
 * [跨平台移动开发工具](#跨平台移动开发工具)
     * [Flutter](#Flutter)
     * [Weex](#Weex)
-    * [React Native](#React Native)
+    * [React-Native](#React-Native)
 
 * [Log框架](#Log框架)
     * [Logger](#Logger)
@@ -382,7 +382,7 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 功能：XCL-Charts 基于原生的 Canvas 来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持 3D/非 3D 柱形图(Bar Chart)、3D/非 3D 饼图(Pie Chart)、堆积图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。
 
-#### 3.HelloCharts for Android
+#### 3.HelloCharts-for-Android
 源码地址：[HelloCharts for Android](https://github.com/lecho/hellocharts-android)
 
 功能：支持折线图、柱状图、饼图、气泡图、组合图；支持预览、放大缩小，滚动，部分图表支持动画；支持 Android 2.2 以上
@@ -448,7 +448,7 @@ External samples are variants that may not be in sync with the rest of the branc
     Languages, libraries and tools used
 
     * [Kotlin](https://kotlinlang.org/)
-    * Android Support Libraries
+    * Android-Support-Libraries
     * [RxJava2](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0)
     * [Dagger 2 (2.11)](https://github.com/google/dagger)
     * [Glide](https://github.com/bumptech/glide)
@@ -502,21 +502,21 @@ External samples are variants that may not be in sync with the rest of the branc
 ## 跨平台移动开发工具
 #### 1.Flutter
 
-Github：[Flutter](https://github.com/flutter)
-英文：[Flutter-EN](https://flutter.dev/)
-英文：[Flutter-CN](https://flutterchina.club/)
+* Github：[Flutter](https://github.com/flutter)
+* 英文：[Flutter-EN](https://flutter.dev/)
+* 英文：[Flutter-CN](https://flutterchina.club/)
 
 #### 2.Weex
 
-源码地址：[weex](https://github.com/alibaba/weex/)
-官方文档：
+* 源码地址：[weex](https://github.com/alibaba/weex/)
+* 官方文档：
 
-#### 2.React Native
-源码地址：[React Native](https://github.com/facebook/react-native)
+#### 2.React-Native
+* 源码地址：[React Native](https://github.com/facebook/react-native)
 
-官方文档：
-[React Native中文](http://reactnative.cn)
-[React Native英文](http://facebook.github.io/react-native/docs/getting-started.html)
+* 官方文档：
+    * [React Native中文](http://reactnative.cn)
+    * [React Native英文](http://facebook.github.io/react-native/docs/getting-started.html)
 
 ## Log框架
 * [Logger](https://github.com/orhanobut/logger)
