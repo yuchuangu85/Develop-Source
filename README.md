@@ -39,6 +39,7 @@
 
 ## Android
 #### [Android知识梳理](/Android/Android.md)
+* [Android学习路线](/Android/Android.md#Android学习路线)
 * [Activity](/Android/Android.md#Activity)
 * [Broadcast](/Android/Android.md#Broadcast)
 * [Service](/Android/Android.md#Service)
