@@ -12,6 +12,7 @@
 * [Flutter中文网](https://flutterchina.club)
 
 ## 开源项目
+* [**FlutterCreateSubmissions2019**](https://github.com/pinkeshdarji/FlutterCreateSubmissions2019)：Flutter开发竞赛项目
 * [Flutter源码](https://github.com/flutter/flutter)
 * [Flutter官方插件](https://github.com/flutter/plugins)
 * [flutter 开发者帮助 APP](https://github.com/alibaba/flutter-go)
