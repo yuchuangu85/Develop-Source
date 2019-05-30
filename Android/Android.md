@@ -154,6 +154,7 @@
 ## Android开源项目集合
 * [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer):谷歌开源音乐播放器
 * [十大Material Design开源项目](/Android/MaterialDesign.md)
+* [DylanStepCount](https://github.com/linglongxin24/DylanStepCount)：Android精准计步器（算法：[android计步功能初探](https://www.jianshu.com/p/5d57f7fd84fa)，[计步器算法](https://github.com/finnfu/stepcount/tree/master/demo%E4%BB%A5%E5%8F%8A%E7%AE%97%E6%B3%95%E6%96%87%E6%A1%A3)）
 
 
 ## Android开发技巧
