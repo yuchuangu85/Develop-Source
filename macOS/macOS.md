@@ -16,25 +16,21 @@
 
 ## macOS开源项目
 * [mac总览](https://github.com/topics/mac)
-
 * [awesome-osx-command-line](https://github.com/gregcain/awesome-osx-command-line)
-
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
-
 * [Awesome-Apple](https://github.com/joeljfischer/awesome-apple)
-
 * [CollectGithubAPP](https://github.com/zJunZ/CollectGithubAPP)
-
 * [Mac-Open-Source](/macOS/Awesome/Mac-Open-Source.md)
-
 * [Mac-iOS-Open-Source](/macOS/Awesome/Mac-iOS-Open-Source.md)
-
 * [Mac-iOS-Source](/macOS/Awesome/Mac-iOS-Source.md)
-
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-
 * [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers)：屏保
-
+* [Pock](https://github.com/pigigaldi/Pock)：把 Dock 放到 TouchBar 上
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：在终端中打开文件管理器的当前文件夹或选中的文件夹。
+* [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)：基于 Lua 自动化重复任务
+* [Aerial](https://github.com/JohnCoates/Aerial)：Apple TV 的新版屏
+* [OpenEmu](https://github.com/OpenEmu/OpenEmu)：支持雅达利、Game Boy、GBA、Nintendo DS、PSP 等多种模拟器引擎。
+* [IINA](https://github.com/iina/iina)：功能强大的媒体播放器
   
 
 ## macOS开发教程
