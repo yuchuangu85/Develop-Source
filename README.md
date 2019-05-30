@@ -92,7 +92,7 @@
 * [GC回收过程及原理](/Java/JVM.md#GC回收过程及原理)
 * [Java虚拟机原理](/Java/JVM.md#Java虚拟机原理)
 
-## [Flutter](/Fluter/Flutter.md)
+## [Flutter](/Flutter/Flutter.md)
 * [开发网站](/Flutter/Flutter.md#开发网站)
 * [开源项目](/Flutter/Flutter.md#开源项目)
 * [架构图](/Flutter/Flutter.md#架构图)
