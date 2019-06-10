@@ -78,7 +78,7 @@
 * [Handlers and memory leaks in Android](http://stackoverflow.com/questions/11278875/handlers-and-memory-leaks-in-android)
 
 #### View绘制流程
-* [MeasureSpec详解](/Android/view/MeasureSpec.md)
+* [MeasureSpec详解](/Android/View/MeasureSpec.md)
 * [Android View绘制流程](http://blog.csdn.net/wangjinyu501/article/details/9008271)
 * [公共技术点之 View 绘制流程](http://a.codekk.com/detail/Android/lightSky/公共技术点之%20View%20绘制流程)
 * [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
