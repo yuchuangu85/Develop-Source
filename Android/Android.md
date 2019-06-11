@@ -149,6 +149,7 @@
 ## Android架构
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 * [android-architecture](https://github.com/googlesamples/android-architecture)
+* [Android源码设计模式分析项目](https://github.com/simple-android-framework/android_design_patterns_analysis)
 
 
 ## Android开源项目集合
