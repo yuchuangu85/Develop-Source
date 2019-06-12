@@ -165,6 +165,9 @@
 * [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 * [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 * [中科大(USTC)计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
+* [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+* [中山大学课程资料](https://github.com/sysuexam/SYSU-Exam)
+* [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 
 ## [在线工具](/Tools/Tools.md)
 * [在线工具](/Tools/Tools.md#在线工具)
