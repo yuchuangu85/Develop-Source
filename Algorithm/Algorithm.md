@@ -6,6 +6,7 @@
 * [排序算法](#加密算法)
 * [加密算法](#加密算法)
 * [算法书籍](#算法书籍)
+* [开源算法](#开源算法)
 
 ## Java算法
 * [The Algorithms Java](https://github.com/TheAlgorithms/Java)
@@ -29,4 +30,8 @@
 ## 算法书籍
 * [Algorithms](https://github.com/jeffgerickson/algorithms)
 * [Algorithms在线阅读](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+
+
+## 开源算法
+* [TheAlgorithms](https://github.com/TheAlgorithms)
 * [leetcode题解](https://github.com/azl397985856/leetcode)

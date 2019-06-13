@@ -140,6 +140,7 @@
 * [排序算法](/Algorithm/Algorithm.md#加密算法)
 * [加密算法](/Algorithm/Algorithm.md#加密算法)
 * [算法书籍](/Algorithm/Algorithm.md#算法书籍)
+* [开源算法](/Algorithm/Algorithm.md#开源算法)
 
 ## [深度学习](/DeepLearn/DeepLearn.md)
 * [深度学习开源资料](/DeepLearn/DeepLearn.md)
