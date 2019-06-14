@@ -56,7 +56,6 @@
 * [Android安全](/Android/Android.md#Android安全)
 * [Android命令](/Android/Android.md#Android命令)
 * [Android架构](/Android/Android.md#Android架构)
-* [Android开源项目集合](/Android/Android.md#Android开源项目集合)
 * [Android开发技巧](/Android/Android.md#Android开发技巧)
 * [Android系统下载及编译](/Android/Android.md#Android系统下载及编译)
 * [Android反编译](/Android/Android.md#Android反编译)
