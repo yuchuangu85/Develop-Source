@@ -28,6 +28,8 @@
 * [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：每日自动给女朋友发微信暖心话。
 
 ## C开源项目
+* [C++版2048游戏](https://github.com/plibither8/2048.cpp)
+* [yuzu](https://github.com/yuzu-emu/yuzu)：Nintendo Switch Emulator
 
 ## Flutter开源项目
 
