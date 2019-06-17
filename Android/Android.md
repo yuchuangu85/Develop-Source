@@ -23,7 +23,6 @@
 * [Android安全](#Android安全)
 * [Android命令](#Android命令)
 * [Android架构](#Android架构)
-* [Android开源项目集合](#Android开源项目集合)
 * [Android开发技巧](#Android开发技巧)
 * [Android系统下载及编译](#Android系统下载及编译)
 * [Android反编译](#Android反编译)
@@ -150,13 +149,6 @@
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 * [android-architecture](https://github.com/googlesamples/android-architecture)
 * [Android源码设计模式分析项目](https://github.com/simple-android-framework/android_design_patterns_analysis)
-
-
-## Android开源项目集合
-* [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer):谷歌开源音乐播放器
-* [十大Material Design开源项目](/Android/View/MaterialDesign.md)
-* [DylanStepCount](https://github.com/linglongxin24/DylanStepCount)：Android精准计步器（算法：[android计步功能初探](https://www.jianshu.com/p/5d57f7fd84fa)，[计步器算法](https://github.com/finnfu/stepcount/tree/master/demo%E4%BB%A5%E5%8F%8A%E7%AE%97%E6%B3%95%E6%96%87%E6%A1%A3)）
-* [plaid](https://github.com/android/plaid)：An Android app which provides design news & inspiration as well as being an example of implementing material design.
 
 
 ## Android开发技巧
