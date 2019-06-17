@@ -46,7 +46,7 @@
     * [dagger](#dagger)
     * [butterknife](#butterknife)
     * [androidannotations](#androidannotations)
-    * [Dagger2](#androidannotations)
+    * [Dagger2](#Dagger2)
     * [roboguice](#roboguice)
 
 * [图表](#图表)
