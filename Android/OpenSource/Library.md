@@ -464,6 +464,7 @@ External samples are variants that may not be in sync with the rest of the branc
 ## 事件总线
 * [EventBus](https://github.com/greenrobot/EventBus)
 * [otto](https://github.com/square/otto)
+* [LiveEventBus](https://github.com/JeremyLiao/LiveEventBus)：消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
 ## 数据库
 * [ORMLite](http://ormlite.com)
