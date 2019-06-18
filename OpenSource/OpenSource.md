@@ -37,3 +37,4 @@
 * [marktext](https://github.com/marktext/marktext)：A simple and elegant markdown editor, available for Linux, macOS and Windows. [https://marktext.app](https://marktext.app/)
 * [drawio-desktop](https://github.com/jgraph/drawio-desktop)
 * [drawio](https://github.com/jgraph/drawio)
+* [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)
