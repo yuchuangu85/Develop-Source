@@ -11,3 +11,7 @@
 ## 功能
 * [OpenGL](https://github.com/topics/opengl?l=java)  简介：OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. OpenGL allows new hardware innovations to be accessible through the API via the OpenGL extension mechanism. It is used in CAD (Computer-aided design), virtual reality, video games, and flight simulation.
 * [Android](https://github.com/topics/android)  简介：Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits.
+
+
+## DeepLink
+* 跳转支付宝付款码：alipays://platformapi/startapp?appId=20000056&chInfo=ch_jinliLeft
