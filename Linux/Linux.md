@@ -2,13 +2,15 @@
 
 ## 目录
 * [Linux内核](#Linux内核)
+* [Linux常用操作](#Linux常用操作)
 * [Shell脚本](#Shell脚本)
 
 ## Linux内核
 * [mmap实例及原理分析](http://ju.outofmemory.cn/entry/224106)
 
 
-
+## Linux常用操作
+* [patch](./Linux/Linux-patch.md)
 
 
 ## Shell脚本

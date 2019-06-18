@@ -115,6 +115,7 @@
 
 ## [Linux知识整理](/Linux/Linux.md)
 * [Linux内核](/Linux/Linux.md#Linux内核)
+* [Linux常用操作](/Linux/Linux.md#Linux常用操作)
 * [Shell脚本](/Linux/Linux.md#Shell脚本)
 
 ## [Swift知识整理](/Swift/Swift.md)
