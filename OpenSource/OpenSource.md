@@ -38,4 +38,4 @@
 * [drawio-desktop](https://github.com/jgraph/drawio-desktop)
 * [drawio](https://github.com/jgraph/drawio)
 * [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)
-* [vnote](https://github.com/tamlok/vnote)：C++
+* [vnote](https://github.com/tamlok/vnote)：(C++) 开源markdown工具
