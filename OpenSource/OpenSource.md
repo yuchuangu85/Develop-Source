@@ -14,11 +14,15 @@
 ## Android开源项目
 * [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer):谷歌开源音乐播放器
 * [十大Material Design开源项目](/Android/View/MaterialDesign.md)
-* [DylanStepCount](https://github.com/linglongxin24/DylanStepCount)：Android精准计步器（算法：[android计步功能初探](https://www.jianshu.com/p/5d57f7fd84fa)，[计步器算法](https://github.com/finnfu/stepcount/tree/master/demo%E4%BB%A5%E5%8F%8A%E7%AE%97%E6%B3%95%E6%96%87%E6%A1%A3)）
-* [plaid](https://github.com/android/plaid)：An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
+* [DylanStepCount](https://github.com/linglongxin24/DylanStepCount):Android精准计步器（算法:[android计步功能初探](https://www.jianshu.com/p/5d57f7fd84fa)，[计步器算法](https://github.com/finnfu/stepcount/tree/master/demo%E4%BB%A5%E5%8F%8A%E7%AE%97%E6%B3%95%E6%96%87%E6%A1%A3)）
+* [plaid](https://github.com/android/plaid):An Android app which provides design news & inspiration as well as being an example of implementing material design.
+* [ExoPlayer](https://github.com/google/ExoPlayer):An extensible media player for Android（google)
+* [ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter):This library uses OpenGL Shaders to apply effects on ExoPlayer video at Runtime
+* [android-gpuimage](https://github.com/cats-oss/android-gpuimage):Android filters based on OpenGL (idea from GPUImage for iOS)
 
 ## iOS开源项目
+* [GPUImage2](https://github.com/BradLarson/GPUImage2):[Swift3]--GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
+* [GPUImage3](https://github.com/BradLarson/GPUImage3):[Swift4]--GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 
 ## macOS开源项目
 
