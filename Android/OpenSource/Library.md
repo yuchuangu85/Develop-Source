@@ -348,6 +348,9 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 #### 11.XposedInstaller
 源码地址：[XposedInstaller](https://github.com/rovo89/XposedInstaller)
 
+#### 12.Shadow
+源码地址：[Shadow](https://github.com/Tencent/Shadow)
+
 ## 注解
 #### 1.dagger
 源码地址：[dagger](https://github.com/square/dagger)

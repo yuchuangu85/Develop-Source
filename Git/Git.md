@@ -11,3 +11,15 @@
 
 
 ## Git操作指南
+
+```
+git stash # 每次 push 前
+
+git pull --rebase
+
+git push origin HEAD:refs/for/master # gerrit review
+
+git pull
+
+git stash pop
+```
