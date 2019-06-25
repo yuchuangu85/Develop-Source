@@ -18,6 +18,7 @@
 * [Flutter官方插件](https://github.com/flutter/plugins)
 * [flutter 开发者帮助 APP](https://github.com/alibaba/flutter-go)
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
+* [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid):基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
 * [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 * [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 * [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)
