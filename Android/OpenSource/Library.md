@@ -312,6 +312,9 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 #### 9.AnoleFix:
 源码地址：[AnoleFix](https://github.com/dodola/AnoleFix)
 
+#### 10.TaiChi
+源码地址：[TaiChi](https://github.com/taichi-framework/TaiChi):A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0 
+
 
 ## 插件化
 
