@@ -95,6 +95,7 @@
     * [guava](#guava)
     * [AndroidUtilCode](#AndroidUtilCode)
 	* [SuspensionWindow](#SuspensionWindow)
+	* [EnFloatingView](#EnFloatingView)
 	* [StatusBarUtil](#StatusBarUtil)
 
 * [跨平台移动开发工具](#跨平台移动开发工具)
@@ -506,11 +507,13 @@ External samples are variants that may not be in sync with the rest of the branc
 * [lottie-ios](https://github.com/airbnb/lottie-ios)
 * [lottie-react-native](https://github.com/airbnb/lottie-react-native)
 
+
 ## 工具库
 * [guava](https://github.com/google/guava)：该库用于提供集合，缓存，支持原语句，并发性，常见注解，字符串处理，I/O和验证的实用方法。
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 * [SuspensionWindow](https://github.com/24Kshign/SuspensionWindow):Android高仿微信阅读文章悬浮窗实现（含8.0权限适配）
 * [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil):Android沉浸式状态栏，支持状态栏渐变色，纯色， 全屏，亮光、暗色模式，适配android 4.4 -10.0机型
+* [EnFloatingView](https://github.com/leotyndale/EnFloatingView):应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view. [http://imuxuan.com](http://imuxuan.com)
 
 ## 跨平台移动开发工具
 #### 1.Flutter
