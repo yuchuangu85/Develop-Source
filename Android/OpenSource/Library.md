@@ -560,3 +560,6 @@ External samples are variants that may not be in sync with the rest of the branc
 
 常用工具类集合
 [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
+悬浮窗实现
+[SuspensionWindow](https://github.com/24Kshign/SuspensionWindow):Android高仿微信阅读文章悬浮窗实现（含8.0权限适配）
