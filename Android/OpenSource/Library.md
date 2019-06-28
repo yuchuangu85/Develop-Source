@@ -93,6 +93,9 @@
 
 * [工具库](#工具库)
     * [guava](#guava)
+    * [AndroidUtilCode](#AndroidUtilCode)
+	* [SuspensionWindow](#SuspensionWindow)
+	* [StatusBarUtil](#StatusBarUtil)
 
 * [跨平台移动开发工具](#跨平台移动开发工具)
     * [Flutter](#Flutter)
@@ -495,7 +498,7 @@ External samples are variants that may not be in sync with the rest of the branc
 * [fastjson](https://github.com/alibaba/fastjson)
 * [jackson-databind](https://github.com/FasterXML/jackson-databind)
 * [HtmlPaser2](https://github.com/fb55/htmlparser2/)
-* [jsoup](https://github.com/jhy/jsoup) 
+* [jsoup](https://github.com/jhy/jsoup)
 
 
 ## Animation
@@ -505,6 +508,9 @@ External samples are variants that may not be in sync with the rest of the branc
 
 ## 工具库
 * [guava](https://github.com/google/guava)：该库用于提供集合，缓存，支持原语句，并发性，常见注解，字符串处理，I/O和验证的实用方法。
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+* [SuspensionWindow](https://github.com/24Kshign/SuspensionWindow):Android高仿微信阅读文章悬浮窗实现（含8.0权限适配）
+* [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil):Android沉浸式状态栏，支持状态栏渐变色，纯色， 全屏，亮光、暗色模式，适配android 4.4 -10.0机型
 
 ## 跨平台移动开发工具
 #### 1.Flutter
@@ -561,8 +567,3 @@ External samples are variants that may not be in sync with the rest of the branc
 正则表达式可视化
 [https://jex.im/regulex/](https://jex.im/regulex/)
 
-常用工具类集合
-[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
-
-悬浮窗实现
-[SuspensionWindow](https://github.com/24Kshign/SuspensionWindow):Android高仿微信阅读文章悬浮窗实现（含8.0权限适配）
