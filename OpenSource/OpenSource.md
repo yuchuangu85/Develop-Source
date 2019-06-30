@@ -30,6 +30,7 @@
 
 ## Python开源项目
 * [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：每日自动给女朋友发微信暖心话。
+* [home-assistant](https://github.com/home-assistant/home-assistant)：Open source home automation that puts local control and privacy first [https://www.home-assistant.io](https://www.home-assistant.io)
 
 ## C开源项目
 * [C++版2048游戏](https://github.com/plibither8/2048.cpp)
