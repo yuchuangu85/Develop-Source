@@ -23,3 +23,11 @@
 ## 开发工具
 * [Windows Terminal](https://github.com/microsoft/Terminal)：微软开源命令行工具
 * [jadx](https://github.com/skylot/jadx)：Android源码反编译工具（教程：[Android 反编译利器，jadx 的高级技巧](https://www.jianshu.com/p/e5b021df2170)）
+* [Understand](http://scitools.com/download/chinese/):中文版
+    ```
+    输入证书CODE(32/64 都可用)：以下选一个。
+    4BE2CFDB1273 
+    8FD617EFCA47 
+    B1397300AEA8 
+    54F0D5C90861
+    ```
