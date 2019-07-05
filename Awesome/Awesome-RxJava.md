@@ -1,8 +1,10 @@
 # Awesome-RxJava
+
 RxJava resources
 
 ## Blog
-*  [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) -**强烈推荐** 扔物线的文章  讲解非常详细
+
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) -**强烈推荐** 扔物线的文章  讲解非常详细
 
 * [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323) -这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路
 
@@ -29,13 +31,12 @@ RxJava resources
 * [RxJava系列5(组合操作符)](https://zhuanlan.zhihu.com/p/22039934)
 
 * [RxJava系列6(从微观角度解读RxJava源码)](https://zhuanlan.zhihu.com/p/22338235) 
-  
-* [RxJava系列7(最佳实践)](https://zhuanlan.zhihu.com/p/23108381)  
 
+* [RxJava系列7(最佳实践)](https://zhuanlan.zhihu.com/p/23108381)  
 
 ### 开发者前线翻译的一系列很赞的教程
 
-*  [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174) -非常棒的讲解响应式编程的文章。
+* [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174) -非常棒的讲解响应式编程的文章。
 
 * [使用RxJava从多个数据源中加载数据](http://www.devtf.cn/?p=764)
 
@@ -47,19 +48,19 @@ RxJava resources
 
 * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
 
-###  一些不错的介绍操作符的文章
+### 一些不错的介绍操作符的文章
 
- * [行云流水的博客](http://blog.csdn.net/job_hesc/article/details/46242117)
+* [行云流水的博客](http://blog.csdn.net/job_hesc/article/details/46242117)
 
- * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
+* [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
 
- * [木水川的博客](http://mushuichuan.com/tags/RxJava/)
+* [木水川的博客](http://mushuichuan.com/tags/RxJava/)
 
- * [RxMarbles](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
+* [RxMarbles](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
 
- * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
+* [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
 
-###  一些不错的翻译文章
+### 一些不错的翻译文章
 
 * [【译】Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
 
@@ -69,7 +70,8 @@ RxJava resources
 
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
 
-###  一些原理分析的文章
+### 一些原理分析的文章
+
 * [彻底搞懂 RxJava — 基础篇](http://diordna.sinaapp.com/?p=896)
 
 * [彻底搞懂 RxJava — 中级篇](http://diordna.sinaapp.com/?p=910)
@@ -77,9 +79,11 @@ RxJava resources
 * [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
 
 ## 书籍
+
 * [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) -Ivan.Morgillo所写一书的中文翻译版本
 
 ## Test
+
 * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
 
 * [Unit Testing RxJava Observables](https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329)
@@ -111,7 +115,8 @@ RxJava resources
 * [MovieGuide](https://github.com/esoxjem/MovieGuide)-An Android app that showcases the MVP pattern and RxJava
 
 * [RxWeather](https://github.com/SmartDengg/RxWeather)
--Architecting Android with RxJava
+  
+  -Architecting Android with RxJava
 
 * [RxBlur](https://github.com/SmartDengg/RxBlur)-用RxJava处理和操作高斯模糊效果的简单用例。
 
@@ -119,28 +124,27 @@ RxJava resources
 
 ## Library
 
- * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
+* [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
 
- * [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
 
- * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
+* [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
 
- * [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
- 
- * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) -Google Play Service API wrapped in RxJava
+* [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
 
- * [storio](https://github.com/pushtorefresh/storio) -支持RxJava的数据库
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) -Google Play Service API wrapped in RxJava
 
- * [retrofit](https://github.com/square/retrofit) -支持RxJava的网络请求库
+* [storio](https://github.com/pushtorefresh/storio) -支持RxJava的数据库
 
- * [sqlbrite](https://github.com/square/sqlbrite) -支持RxJava的sqlite数据库
+* [retrofit](https://github.com/square/retrofit) -支持RxJava的网络请求库
 
- * [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
- 
- * [reark](https://github.com/reark/reark) -RxJava architecture library for Android
- 
- * [frodo](https://github.com/android10/frodo) -Android Library for Logging RxJava Observables and Subscribers.
+* [sqlbrite](https://github.com/square/sqlbrite) -支持RxJava的sqlite数据库
 
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
+
+* [reark](https://github.com/reark/reark) -RxJava architecture library for Android
+
+* [frodo](https://github.com/android10/frodo) -Android Library for Logging RxJava Observables and Subscribers.
 
 ## Stackoverflow
 
@@ -151,5 +155,3 @@ RxJava resources
 * [droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo&list=PLAY9OtteiTj04IdJDW7KV1cy843reyjvT)
 
 * [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ&feature=youtu.be)
-
-
