@@ -515,12 +515,11 @@ External samples are variants that may not be in sync with the rest of the branc
 * [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil):Android沉浸式状态栏，支持状态栏渐变色，纯色， 全屏，亮光、暗色模式，适配android 4.4 -10.0机型
 * [EnFloatingView](https://github.com/leotyndale/EnFloatingView):应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view. [http://imuxuan.com](http://imuxuan.com)
 
+
 ## 跨平台移动开发工具
 #### 1.Flutter
 
-* Github：[Flutter](https://github.com/flutter)
-* 英文：[Flutter-EN](https://flutter.dev/)
-* 英文：[Flutter-CN](https://flutterchina.club/)
+* [Flutter](../Flutter/Flutter.md)
 
 #### 2.Weex
 
@@ -556,17 +555,4 @@ External samples are variants that may not be in sync with the rest of the branc
 ## 多主题
 * [Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)
 
-
-## 其他
-谷歌开源手机号验证库
-[libphonenumber](https://github.com/googlei18n/libphonenumber)
-
-编译器抓取常见错误工具
-[**error-prone**](https://github.com/google/error-prone)
-
-正则表达式工具
-[regulex](https://github.com/CJex/regulex)
-
-正则表达式可视化
-[https://jex.im/regulex/](https://jex.im/regulex/)
 

@@ -4,8 +4,7 @@
 * [Swift知识学习](#Swift知识学习)
 * [Swift开发插件](#Swift开发插件)
 * [Swift依赖库](#Swift依赖库)
-* [Swift开源项目](#Swift开源项目)
-* [Swift开源项目集合](#Swift开源项目集合)
+* [Swift开源库合集](#Swift开源库合集)
 
 ## Swift知识学习
 * [Swift官方中文版](https://swiftgg.gitbook.io/swift/)
@@ -31,14 +30,8 @@
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG)：SVG
 * [Macaw](https://github.com/exyte/Macaw)：Swift library with SVG support
 * [fan-menu](https://github.com/exyte/fan-menu)：Menu with a circular layout based on Macaw
-
-## Swift开源项目
 * [swift总览](https://github.com/topics/swift)
 * [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
-* [Pine](https://github.com/lukakerr/Pine)：A modern, native macOS markdown editor
-* [iina](https://github.com/iina/iina)：视频播放器
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
-* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：一个可以在终端（[`iTerm`](https://www.iterm2.com/) 或 [`Hyper`](https://github.com/zeit/hyper)）中打开当前目录的访达工具栏应用程序。
 * [Cards](https://github.com/PaoloCuscela/Cards)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)
@@ -46,7 +39,7 @@
 
 
 
-## Swift开源项目集合
+## Swift开源库合集
 
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 - [awesome-swift](https://github.com/Wolg/awesome-swift)

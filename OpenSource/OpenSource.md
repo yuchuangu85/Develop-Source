@@ -1,5 +1,7 @@
 <h1 align="center">开源项目</h1>
 
+>本页主要收集完整的开源项目，开源库放在各个单独模块中
+
 ## 目录
 * [Android开源项目](#Android开源项目)
 * [iOS开源项目](#iOS开源项目)
@@ -25,6 +27,11 @@
 * [GPUImage3](https://github.com/BradLarson/GPUImage3):[Swift4]--GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 
 ## macOS开源项目
+* [Pine](https://github.com/lukakerr/Pine)：A modern, native macOS markdown editor
+* [iina](https://github.com/iina/iina)：视频播放器
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：一个可以在终端（[`iTerm`](https://www.iterm2.com/) 或 [`Hyper`](https://github.com/zeit/hyper)）中打开当前目录的访达工具栏应用程序。
+
 
 ## Window开源项目
 

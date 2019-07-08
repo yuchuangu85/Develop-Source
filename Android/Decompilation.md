@@ -1,8 +1,11 @@
 <h1 align="center">Decompilation Apk</h1>
+
+
 #### 第一步：
 下载反编译工具集，apktool、dex2jar、jd-gui，最后我会上传这些工具，解压后如下图：
 
 ![](/images/decompilation/decompilation1.jpg)
+
 
 #### 第二步
 工具集准备好之后还不能进行反编译，你在命令窗口下执行输入apktool 会提示命令不存在，需要配置一下环境变量
@@ -25,6 +28,7 @@
 
 输出这样的命令就代表环境配置好了
 
+
 #### 第三步：
 开始进行反编译了，其实用到的命令也很简单，我们随便拿一个apk来，例如：
 ![](/images/decompilation/decompilation6.jpg)
@@ -35,6 +39,7 @@
 
 执行成功后，会在当前目录下生成一个da-android文件夹，点击去就看到相关apk的资源文件了，选中AndroidManifest.xml，然后空格键，就可以看到反编译后的内容了：
 ![](/images/decompilation/decompilation8.jpg)
+
 
 #### 第四步：
 反编译java源文件

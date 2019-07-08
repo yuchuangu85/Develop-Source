@@ -4,6 +4,7 @@
 * [在线工具](#在线工具)
 * [开发资源](#开发资源)
 * [开发工具](#开发工具)
+* [其他工具](#其他工具)
 
 ## 在线工具
 * [WebSocket 在线测试](http://www.blue-zero.com/WebSocket/)
@@ -15,10 +16,12 @@
 * [在线工具](https://tool.lu)：开发工具大全
 * [开发常用词汇在线翻译](https://i18ns.com)
 
+
 ## 开发资源
 * [Android开发中文](https://developer.android.google.cn/)
 * [Android开发文档](https://developer.android.google.cn/reference/packages)
 * [AndroidDevTools](https://www.androiddevtools.cn/)
+
 
 ## 开发工具
 * [Windows Terminal](https://github.com/microsoft/Terminal)：微软开源命令行工具
@@ -31,3 +34,17 @@
     B1397300AEA8 
     54F0D5C90861
     ```
+
+
+## 其他工具
+谷歌开源手机号验证库
+[libphonenumber](https://github.com/googlei18n/libphonenumber)
+
+编译器抓取常见错误工具
+[**error-prone**](https://github.com/google/error-prone)
+
+正则表达式工具
+[regulex](https://github.com/CJex/regulex)
+
+正则表达式可视化
+[https://jex.im/regulex/](https://jex.im/regulex/)
