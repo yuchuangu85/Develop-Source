@@ -110,12 +110,12 @@
 * [Java数据结构](/Algorithm/Structures.md#Java数据结构和算法)
 * [Java集合](/Algorithm/Structures.md#Java集合)
 * [Java算法](/Algorithm/Algorithm.md#Java%E7%AE%97%E6%B3%95)
-- [数学](/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
-- [排序算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-- [加密算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-- [算法书籍](/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
-- [开源算法](/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
-- [数据结构和算法总结]([https://github.com/kdn251/interviews](https://github.com/kdn251/interviews)
+* [数学](/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
+* [排序算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+* [加密算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+* [算法书籍](/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
+* [开源算法](/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
+* [数据结构和算法总结](https://github.com/kdn251/interviews)
 
 ## [网络协议及框架](/Net/Net.md)
 
