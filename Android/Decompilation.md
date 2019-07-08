@@ -1,20 +1,20 @@
 <h1 align="center">Decompilation Apk</h1>
-
 #### 第一步：
 下载反编译工具集，apktool、dex2jar、jd-gui，最后我会上传这些工具，解压后如下图：
- 
+
 ![](/images/decompilation/decompilation1.jpg)
 
 #### 第二步
 工具集准备好之后还不能进行反编译，你在命令窗口下执行输入apktool 会提示命令不存在，需要配置一下环境变量
 ，怎么配置呢，如下命令：
+
    * 1.打开命令窗口，cd /usr/local/bin下，可能有的mac电脑不存在bin这个目录，直接在创建一个就好了，命令是:sudo mkdir bin,执行后会让你输入root权限密码，输入完后执行ls命令查看，bin目录就存在了，如图：
 ![](/images/decompilation/decompilation2.jpg)
 
   * 2.将你解压后的apktool文件夹下的三个文件aapt、apktool、apktool.jar 复制到/usr/local/bin/目录下，怎么复制呢，当然用命令cp了，如下图：
  ![](/images/decompilation/decompilation3.jpg)
 
- 
+
 复制多个文件用空格隔开，Android-workspace/APK/apktool/目录是源目录，存放的是我们要复制的那三个文件，执行命令后，提示输入密码，输完密码后就复制成功了，ls查看一下，这三个文件已经存在了。
 
 这时候就已经配置好环境变量PATH了，什么，我怎么没看到和PATH有关的任何命令，其实，/usr/local/bin本来就在PATH下，不信我执行命令你看：
@@ -51,9 +51,10 @@
 执行成功后会生成一个classes_dex2jar.jar文件，如图：
 ![](/images/decompilation/decompilation12.jpg)
 
-
 最后，用jd-gui工具打开这个jar包就可以看到java源代码了，如图：
 ![](/images/decompilation/decompilation13.jpg)
+
+
 
 
 

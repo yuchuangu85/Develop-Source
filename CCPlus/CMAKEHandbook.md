@@ -203,7 +203,7 @@ set_tests_properties (TutorialUsage
   PROPERTIES 
   PASS_REGULAR_EXPRESSION "Usage:.*number")
 ```
-  
+
 第一个测试用例仅仅用来验证程序可以运行，没有出现段错误或其他的崩溃，并且返回值必须是0。这是CTest所做测试的基本格式。余下的几个测试都是用PASS_REGULAR_EXPRESSION 测试属性来验证测试代码的输出是否包含有特定的字符串。在本例中，测试样例用来验证计算得出的平方根与预定值一样；当指定错误的输入数据时，要打印用法信息。如果你想要添加许多测试不同输入值的样例，你应该考虑创建如下所示的宏：
 
 ```
@@ -460,6 +460,7 @@ cmake可执行程序是CMake的命令行界面。它可以用脚本对工程进�
 CMake是一个跨平台的构建系统生成工具。它使用平台无关的CMake清单文件CMakeLists.txt，指定工程的构建过程；源码树的每个路径下都有这个文件。CMake产生一个适用于具体平台的构建系统，用户使用这个系统构建自己的工程。
 
 ### 选项
+
 ---
 
 ```
@@ -564,9 +565,11 @@ CMake是一个跨平台的构建系统生成工具。它使用平台无关的CMa
 * Borland Makefiles: 生成Borland makefile。
 
 * MSYS Makefiles: 生成MSYS makefile。 
+  
     生成的makefile用use /bin/sh作为它的shell。在运行CMake的机器上需要安装msys。
 
 * MinGW Makefiles: 生成供mingw32-make使用的make file。 
+  
     生成的makefile使用cmd.exe作为它的shell。生成它们不需要msys或者unix shell。
 
 * NMake Makefiles: 生成NMake makefile。
@@ -574,6 +577,7 @@ CMake是一个跨平台的构建系统生成工具。它使用平台无关的CMa
 * NMake Makefiles JOM: 生成JOM makefile。
 
 * Unix Makefiles: 生成标准的UNIX makefile。 
+  
     在构建树上生成分层的UNIX makefile。任何标准的UNIX风格的make程序都可以通过默认的make目标构建工程。生成的makefile也提供了install目标。
 
 * Visual Studio 10: 生成Visual Studio 10 工程文件。
@@ -597,23 +601,29 @@ CMake是一个跨平台的构建系统生成工具。它使用平台无关的CMa
 * Watcom WMake: 生成Watcom WMake makefiles。
 
 * CodeBlocks - MinGW Makefiles: 生成CodeBlock工程文件。 
+  
     在顶层目录以及每层子目录下为CodeBlocks生成工程文件，生成的CMakeList.txt的特点是都包含一个PROJECT()调用。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
 
 * CodeBlocks - NMake Makefiles: 生成CodeBlocks工程文件。 
+  
     在顶层目录以及每层子目录下为CodeBlocks生成工程文件，生成的CMakeList.txt的特点是都包含一个PROJECT()调用。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
 
 * CodeBlocks - Unix Makefiles: 生成CodeBlocks工程文件。 
+  
     在顶层目录以及每层子目录下为CodeBlocks生成工程文件，生成的CMakeList.txt的特点是都包含一个PROJECT()调用。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
 
 * Eclipse CDT4 - MinGW Makefiles: 生成Eclipse CDT 4.0 工程文件。 
+  
     在顶层目录下为Eclipse生成工程文件。在运行源码外构建时，一个连接到顶层源码路径的资源文件会被创建。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
 
 * Eclipse CDT4 - NMake Makefiles: 生成Eclipse CDT 4.0 工程文件。 
+  
     在顶层目录下为Eclipse生成工程文件。在运行源码外构建时，一个连接到顶层源码路径的资源文件会被创建。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
 
 * Eclipse CDT4 - Unix Makefiles: 生成Eclipse CDT 4.0 工程文件。 
+  
     在顶层目录下为Eclipse生成工程文件。在运行源码外构建时，一个连接到顶层源码路径的资源文件会被创建。除此之外还会在构建树上生成一套层次性的makefile。通过默认的make目标，正确的make程序可以构建这个工程。makefile还提供了install目标。
-    
+
 ---
 
 ## CMake函数
@@ -798,6 +808,7 @@ add_custom_target 添加一个目标，它没有输出；这样它就总是会�
   add_test(NAME <name> [CONFIGURATIONS [Debug|Release|...]]
            COMMAND <command> [arg1 [arg2 ...]])
 ```
+
 　　如果COMMAND选项指定了一个可执行目标（用add_executable创建），它会自动被在构建时创建的可执行文件所替换。如果指定了CONFIGURATIONS选项，那么该测试只有在列出的某一个配置下才会运行。
 
 　　在COMMAND选项后的参数可以使用“生成器表达式”，它的语法是$<...>。这些表达式会在构建系统生成期间，以及构建配置的专有信息的产生期间被评估。合法的表达式是：
@@ -931,6 +942,7 @@ $<TARGET_SONAME_FILE_DIR:tgt>/$<TARGET_SONAME_FILE_NAME:tgt>
 
 　　CMake将策略设置保存在一个栈结构中，因此，cmake_policy命令产生的改变仅仅影响在栈顶端的元素。在策略栈中的一个新条目由各子路径自动管理，以此保护它的父路径及同层路径的策略设置。CMake也管理通过include()和find_package()命令加载的脚本中新加入的条目，除非调用时指定了NO_POLICY_SCOPE选项（另外可参考CMP0011）。cmake_policy命令提供了一种管理策略栈中自定义条目的接口： 
 　　
+
 ```
        cmake_policy(PUSH)
        cmake_policy(POP)
@@ -998,6 +1010,7 @@ CACHED_VARIABLE = 描述（document）一个CMake语言缓存变量
 　　BRIEF_DOCS和FULL_DOCS选项后面的参数是和属性相关联的字符串，分别作为变量的简单描述和完整描述。在使用get_property命令时，对应的选项可以获取这些描述信息。 
 　 
 　 
+
 ## CMD#17 else
 
 开始一个if语句块的else部分。
@@ -1048,6 +1061,7 @@ CACHED_VARIABLE = 描述（document）一个CMake语言缓存变量
 ```
   endforeach(expression)
 ```
+
 　　参见FOREACH命令。 
 　　
 
@@ -1084,7 +1098,8 @@ CACHED_VARIABLE = 描述（document）一个CMake语言缓存变量
 　　参见macro命令。 
 　　
 
-## CMD#25: endwhile 
+## CMD#25: endwhile
+
 结束一个while语句块中的一系列命令。
 
 ```
@@ -1390,6 +1405,7 @@ CMAKE_SYSTEM_FRAMEWORK_PATH
 
 　　在Darwin或者支持OS X 框架的系统上，cmake变量CMAKE_FIND_FRAMEWORK可以用来设置为空，或者下述值之一：
 　　
+
 ```
 FIRST"  - 在标准库或头文件之前查找框架。在Darwin系统上这是默认选项。
 "LAST"   - 在标准库或头文件之后查找框架。
@@ -1399,6 +1415,7 @@ NEVER" - 从不查找框架。
 
 　　在Darwin或者支持OS X Application Bundles的系统，cmake变量CMAKE_FIND_APPBUNDLE可以被设置为空或者下面这些值中的一个：
 　　
+
 ```
 "FIRST"  - 在标准库或头文件之前查找application bundles。在Darwin系统上这是默认选项。
 "LAST"   - 在标准库或头文件之后查找application bundles。
@@ -1635,8 +1652,8 @@ CMAKE_SYSTEM_APPBUNDLE_PATH
               ONLY_CMAKE_FIND_ROOT_PATH |
               NO_CMAKE_FIND_ROOT_PATH]
             )
- ```
- 
+```
+
 　　该命令用于给定名字文件所在的路径。一条名为<VAR>的cache条目会被创建，并存储该命令的执行结果。如果在某个路径下发现了该文件，该结果会被存储到该变量中；除非该变量被清除，该次搜索不会继续进行。如果没有找到，存储的结果将会是<VAR>-NOTFOUND，并且当下一次以相同的变量名调用find_path命令时，该命令会再一次尝试搜索该文件。需要搜索的文件名通过在NAMES选项后面的列出来的参数来确定。附加的搜索位置可以在PATHS选项之后指定。如果在PATHS或者HINTS命令中还指定了ENV var选项，环境变量var将会被读取并从一个系统环境变量转换为一个cmake风格的路径list。比如，ENV PATH是列出系统path变量的一种方法。参数DOC将用来作为该变量在cache中的注释。PATH_SUFFIXES指定了在每个搜索路径下的附加子路径。
 
 　　如果指定了NO_DEFAULT_PATH选项，那么没有其它附加的路径会被加到搜索过程中。如果并未指定NO_DEFAULT_PATH选项，搜索的过程如下：
@@ -2001,6 +2018,7 @@ PROPERTY选项是必须的，它后面紧跟要获取的属性名。如果该属
 
 　　评估给定的表达式。如果结果是true，在THEN段的命令就会被调用。否则，在ELSE区段的命令会被调用。ELSEIF和ELSE区段是可选的 。可以有多个ELSEIF子句。注意，在else和elseif子句中的表达式也是可选的。判断条件可以用长表达式，并且表达式有约定的优先级顺序。括号中的表达式会首先被调用；然后是一元运算符，比如EXISTS，COMMAND以及DEFINED；然后是EQUAL，LESS，GREATER，STRLESS，STRGREATER，STREQUAL，MATCHES；然后是NOT运算符，最后是AND，OR运算符。几种可能的表达式是： 
 　　
+
 ```
   if(<常量>)
   #如果<常量>是1，ON，YES，TRUE，Y或者非0数值，那么表达式为真；如果<常量>是0，OFF，NO，FALSE，N，IGNORE，""，或者以'-NOTFOUND'为后缀，那么表达式为假。这些布尔常量值是大小写无关的。
@@ -2125,7 +2143,9 @@ PROPERTY选项是必须的，它后面紧跟要获取的属性名。如果该属
   　　regex_match    = "^.*$" (匹配所有文件)
 　　　regex_complain = "^$" (仅匹配空字符串)
 ```
+
 　　　
+
 ## CMD#49 install
 
 指定在安装时要运行的规则。 
@@ -2307,6 +2327,7 @@ PROPERTY选项是必须的，它后面紧跟要获取的属性名。如果该属
   　　list(REVERSE <list>)
   　　list(SORT <list>)
 ```
+
   　　
 　　使用LENGTH选项时，该命令会返回给定list的长度。
 
@@ -2457,7 +2478,7 @@ PROPERTY选项是必须的，它后面紧跟要获取的属性名。如果该属
 ```
   qt_wrap_cpp(resultingLibraryName DestName SourceLists ...)
 ```
-  
+
 　　为所有在SourceLists中列出的.h文件生成moc文件。这些moc文件将会被添加到那些使用DestName源文件列表的库文件中。
 
 Produce moc files for all the .h files listed in the SourceLists. The moc files will be added to the library using the DestName source list.

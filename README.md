@@ -1,5 +1,4 @@
 <h1 align="center">编程开发资源整理</h1>
-
 <p align="center">
   <a href="http://codemx.cn"><img src="https://img.shields.io/badge/博客-blog-brightgreen.svg" alt="博客">
   </a>
@@ -19,14 +18,13 @@
   * [Java基础知识及资源集合](#Java基础知识及资源集合)
   * [JVM(Java虚拟机)](#JVM(Java虚拟机))
 * [Flutter](#Flutter)
-* [数据结构](#数据结构)
+* [数据结构和算法](#数据结构和算法)
 * [网络协议及框架](#网络协议及框架)
 * [CCPlus](#CCPlus)
 * [Linux知识整理](#Linux知识整理)
 * [Swift知识整理](#Swift知识整理)
 * [iOS开源项目集合](#iOS开源项目集合)
 * [macOS开源项目集合](#macOS开源项目集合)
-* [Algorithms(算法)](#Algorithms(算法))
 * [深度学习](#深度学习)
 * [Python](#Python)
 * [Git学习](#Git学习)
@@ -107,10 +105,17 @@
 * [开源项目](/Flutter/Flutter.md#开源项目)
 * [架构图](/Flutter/Flutter.md#架构图)
 
-## [数据结构](/Algorithm/Structures.md)
+## [数据结构和算法](/Algorithm/Algorithm.md)
 
 * [Java数据结构](/Algorithm/Structures.md#Java数据结构和算法)
 * [Java集合](/Algorithm/Structures.md#Java集合)
+* [Java算法](/Algorithm/Algorithm.md#Java%E7%AE%97%E6%B3%95)
+- [数学](/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
+- [排序算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+- [加密算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+- [算法书籍](/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
+- [开源算法](/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
+- [数据结构和算法总结]([https://github.com/kdn251/interviews](https://github.com/kdn251/interviews))
 
 ## [网络协议及框架](/Net/Net.md)
 
@@ -147,15 +152,6 @@
 * [HomeBrew](/macOS/macOS.md#HomeBrew)
 * [macOS开源项目](/macOS/macOS.md#macOS开源项目)
 * [macOS开发教程](/macOS/macOS.md#macOS开发教程)
-
-## [Algorithms(算法)](/Algorithm/Algorithm.md)
-
-* [Java算法](/Algorithm/Algorithm.md#Java算法)
-* [数学](/Algorithm/Algorithm.md#数学)
-* [排序算法](/Algorithm/Algorithm.md#加密算法)
-* [加密算法](/Algorithm/Algorithm.md#加密算法)
-* [算法书籍](/Algorithm/Algorithm.md#算法书籍)
-* [开源算法](/Algorithm/Algorithm.md#开源算法)
 
 ## [深度学习](/DeepLearn/DeepLearn.md)
 
