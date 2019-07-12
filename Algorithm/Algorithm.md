@@ -13,6 +13,7 @@
 * [数据结构和算法合集](#数据结构和算法合集)
 
 ## Java数据结构和算法
+
 - [Java数据结构和算法（一）——简介](https://www.cnblogs.com/ysocean/p/7889153.html)
 - [Java数据结构和算法（二）——数组](https://www.cnblogs.com/ysocean/p/7894448.html)
 - [Java数据结构和算法（三）——冒泡、选择、插入排序算法](https://www.cnblogs.com/ysocean/p/7896269.html)
@@ -29,29 +30,29 @@
 - [Java数据结构和算法（十四）——堆](https://www.cnblogs.com/ysocean/p/8032660.html)
 - [Java数据结构和算法（十五）——无权无向图](https://www.cnblogs.com/ysocean/p/8032659.html)
 
-
 ## Java集合
+
 - [图解HashMap原理](https://www.jianshu.com/p/dde9b12343c1)
 - [图解LinkedHashMap原理](https://www.jianshu.com/p/8f4f58b4b8ab)
 - [图解ArrayList](https://www.jianshu.com/p/be1ff16dfcbd)
 - [时间复杂度和空间复杂度](https://www.jianshu.com/p/bbcda16b2e90)
 
-
 ## Java算法
+
 * [The Algorithms Java](https://github.com/TheAlgorithms/Java)
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)：用动画的形式呈现解LeetCode题目的思路
 
-
 ## 数学
+
 * [傅里叶分析之掐死教程（完整版）](https://zhuanlan.zhihu.com/p/19763358)
 
-
 ## 排序算法
+
 * [Java常用的八种排序算法与代码实现](https://www.cnblogs.com/10158wsj/p/6782124.html)
 * [java程序员必知的 8大排序](https://blog.csdn.net/without0815/article/details/7697916)
 
-
 ## 加密算法
+
 * [Android数据加密之Rsa加密](https://www.cnblogs.com/whoislcj/p/5470095.html)
 * [Android数据加密之Aes加密](http://www.cnblogs.com/whoislcj/p/5473030.html)
 * [Android数据加密之Des加密](http://www.cnblogs.com/whoislcj/p/5580950.html)
@@ -59,16 +60,17 @@
 * [Android数据加密之Base64编码算法](http://www.cnblogs.com/whoislcj/p/5887859.html)
 * [Android数据加密之异或加密算法](https://www.cnblogs.com/whoislcj/p/5944917.html)
 
-
 ## 算法书籍
+
 * [Algorithms](https://github.com/jeffgerickson/algorithms)
 * [Algorithms在线阅读](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 
-
 ## 开源算法
+
 * [TheAlgorithms](https://github.com/TheAlgorithms)
 * [leetcode题解](https://github.com/azl397985856/leetcode)
-
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)：Interactive Online Platform that Visualizes Algorithms from Code
 
 ## 数据结构和算法合集
+
 * [数据结构和算法总结]([https://github.com/kdn251/interviews](https://github.com/kdn251/interviews))
