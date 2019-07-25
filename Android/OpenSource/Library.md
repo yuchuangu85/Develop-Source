@@ -177,6 +177,7 @@ retrofit是由square开源组织开源的一款非常流行的网络请求框架
 3. [Retrofit分析-漂亮的解耦套路](http://www.jianshu.com/p/45cb536be2f4)
 4. [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
 5. [Android 手把手教你使用Retrofit2](http://www.jianshu.com/p/73216939806a)
+6. [拆轮子系列：拆 Retrofit](https://blog.piasy.com/2016/06/25/Understand-Retrofit/index.html)
 
 #### 3.okhttp
 
@@ -191,6 +192,7 @@ okhttp也是由square开源组织开源的一款网络底层封装库，上面�
 3. [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/)
 4. [OKHttp源码解析](http://frodoking.github.io/2015/03/12/android-okhttp/)
 5. [OKHttp源码解析-ConnectionPool对Connection重用机制&Http/Https/SPDY协议选择](http://frodoking.github.io/2015/06/29/android-okhttp-connectionpool-http1-x-http2-x/)
+6. [拆轮子系列：拆 OkHttp](https://blog.piasy.com/2016/07/11/Understand-OkHttp/index.html)
 
 #### 4.Volley
 
