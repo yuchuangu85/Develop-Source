@@ -449,6 +449,22 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 源码地址：[roboguice](https://github.com/roboguice/roboguice)
 
+#### 6.javapoet
+
+源码地址： [javapoet](https://github.com/square/javapoet) ：A Java API for generating .java source files.
+
+#### 7.auto[include:AutoFactory , AutoService , AutoValue ,  Common]
+
+源码地址：[auto](https://github.com/google/auto)
+
+* [AutoFactory](https://github.com/google/auto/tree/master/factory) - JSR-330-compatible factories
+
+* [AutoService](https://github.com/google/auto/tree/master/service) - Provider-configuration files for [`ServiceLoader`](http://docs.oracle.com/javase/7/docs/api/java/util/ServiceLoader.html)
+
+* [AutoValue](https://github.com/google/auto/tree/master/value) - Immutable [value-type](http://en.wikipedia.org/wiki/Value_object) code generation for Java 1.6+.
+
+* [Common](https://github.com/google/auto/tree/master/common) - Helper utilities for writing annotation processors.
+
 ## 图表
 
 #### 1.WilliamChart
