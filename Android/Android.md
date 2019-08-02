@@ -146,6 +146,7 @@
 * [Android性能优化典范](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * [Android性能优化典范](http://hukai.me)
 * [Systrace 基础知识](https://www.androidperformance.com/2019/07/23/Android-Systrace-Pre/)
+* [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder)：Android代码方法执行时间监控工具
 
 ## Android安全
 
