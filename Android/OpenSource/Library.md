@@ -451,9 +451,9 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 #### 6.javapoet
 
-源码地址： [javapoet](https://github.com/square/javapoet) ：A Java API for generating .java source files.
+源码地址： [javapoet](https://github.com/square/javapoet) ：A Java API for generating .java source files.
 
-#### 7.auto[include:AutoFactory , AutoService , AutoValue ,  Common]
+#### 7.auto[include:AutoFactory , AutoService , AutoValue ,  Common]
 
 源码地址：[auto](https://github.com/google/auto)
 
