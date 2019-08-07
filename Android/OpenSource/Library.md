@@ -1,5 +1,4 @@
 <h1 align="center">依赖库以及工具</h1>
-
 > 主要收集依赖库和帮助快速、稳定开发的工具
 
 ## 目录
@@ -123,13 +122,13 @@
   * [Logger](#Logger)
   * [hugo](#hugo)
   * [timber](#timber)
-
-* [测试框架(单元测试)](#测试框架(单元测试))
+* [Logan](#Logan)
   
+* [测试框架(单元测试)](#测试框架(单元测试))
   * [Mockito](#Mockito)
   * [Robotium](#Robotium)
   * [robolectric](#robolectric)
-
+  
 * [视频](#视频)
   
   * [Bilibili/ijkplayer](#Bilibili/ijkplayer)
@@ -642,6 +641,7 @@ External samples are variants that may not be in sync with the rest of the branc
 * [Logger](https://github.com/orhanobut/logger)
 * [hugo](https://github.com/JakeWharton/hugo)
 * [timber](https://github.com/JakeWharton/timber)
+* [Logan](https://github.com/Meituan-Dianping/Logan)：美团开源Log工具
 
 ## 测试框架(单元测试)
 
