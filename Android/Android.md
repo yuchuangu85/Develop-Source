@@ -19,7 +19,7 @@
   * [性能优化典范](#性能优化典范)
   * [内存优化](#内存优化)
   * [优化总结](#优化总结)
-  * [Android性能优化博客](#Android性能优化博客)
+  * [Android性能优化工具](#Android性能优化工具)
 * [Android安全](#Android安全)
 * [Android命令](#Android命令)
 * [Android架构](#Android架构)
@@ -139,14 +139,19 @@
 * [5个导致主线程卡顿较鲜为人知的元凶](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Android抽象布局——include、merge 、ViewStub](http://blog.csdn.net/xyz_lmn/article/details/14524567)
 * [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
-
-#### Android性能优化博客
-
+* [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 * [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
 * [Android性能优化典范](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * [Android性能优化典范](http://hukai.me)
 * [Systrace 基础知识](https://www.androidperformance.com/2019/07/23/Android-Systrace-Pre/)
+
+#### Android性能优化工具
+
 * [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder)：Android代码方法执行时间监控工具
+* [scalpel](https://github.com/JakeWharton/scalpel)：A surgical debugging tool to uncover the layers under your app.
+* [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)：A transparent ui-block detection library for Android. (known as BlockCanary)
+* [Cockroach](https://github.com/android-notes/Cockroach)：降低Android非必要crash
+* [Takt](https://github.com/wasabeef/Takt)：Takt is Android library for measuring the FPS using Choreographer.
 
 ## Android安全
 
