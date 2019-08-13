@@ -22,6 +22,11 @@
 
 * [SiwftUI](https://github.com/ygit/swiftui)
 * [SwiftUI-Tutorials](https://github.com/WillieWangWei/SwiftUI-Tutorials)
+* [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)：一份网上关于SwiftUI教程的资料合集
+* [SwiftUI](https://github.com/Jinxiansen/SwiftUI)：SwiftUI控件实例代码
+* [SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)：SwiftUI控件介绍
+* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)：A demo implementation of SwiftUI for the Web
+* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)：SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 
 ## Swift开发插件
 

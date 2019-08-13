@@ -152,6 +152,7 @@
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)：A transparent ui-block detection library for Android. (known as BlockCanary)
 * [Cockroach](https://github.com/android-notes/Cockroach)：降低Android非必要crash
 * [Takt](https://github.com/wasabeef/Takt)：Takt is Android library for measuring the FPS using Choreographer.
+* [SoloPi](https://github.com/alipay/SoloPi)：Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
 
 ## Android安全
 
