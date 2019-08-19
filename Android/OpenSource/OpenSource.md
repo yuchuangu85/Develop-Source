@@ -1,5 +1,4 @@
 <h1 align="center">Android开源代码</h1>
-
 ## Fragment
 * [simple-stack](https://github.com/Zhuinden/simple-stack)：Simple Stack, a backstack library for simpler navigation between views, fragments, or whatevers.
 * [flow](https://github.com/square/flow)：Name UI states, navigate between them, remember where you've been.
@@ -22,7 +21,13 @@
 CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜、滤镜、贴纸、拍照、短视频分段录制、回删等美颜类相机预览相关功能， 静态图片的一键美化、特效、裁剪旋转、贴纸、文字、调节、涂鸦、马赛克、边框、夜景增强、虚化、抠图虚化等功能， 视频编辑中的滤镜、添加音乐、混音、变声变速、添加字幕、视频剪辑、魔法涂鸦、嘻哈特效、MV特效等功能， 以及各部分功能的一些优化实践。目前图片编辑与视频编辑功能仍在开发当中
 * [CameraFilter](https://github.com/nekocode/CameraFilter)：相机特效源码
 
+## 下拉刷新库：
+
+* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)：下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer
+* [SmartRefreshHorizontal](https://github.com/scwang90/SmartRefreshHorizontal)：横向刷新、水平刷新、RefreshLayout、OverScroll，Horizontal，基于SmartRefreshLayout的水平智能刷新
+
 ## GuideView
+
 **[https://github.com/binIoter/GuideView](https://github.com/binIoter/GuideView)**
 
 国人开发者出品的一个轻量级新手指引库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment。
