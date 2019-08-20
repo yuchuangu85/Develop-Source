@@ -147,6 +147,8 @@
 
 #### Android性能优化工具
 
+* [matrix](https://github.com/Tencent/matrix)：**Matrix** 是一款微信研发并日常使用的应用性能接入框架，支持iOS, macOS和Android。 Matrix 通过接入各种性能监控方案，对性能监控项的异常数据进行采集和分析，输出相应的问题分析、定位与优化建议，从而帮助开发者开发出更高质量的应用。
+
 * [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder)：Android代码方法执行时间监控工具
 * [scalpel](https://github.com/JakeWharton/scalpel)：A surgical debugging tool to uncover the layers under your app.
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)：A transparent ui-block detection library for Android. (known as BlockCanary)
