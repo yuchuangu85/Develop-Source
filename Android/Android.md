@@ -20,6 +20,8 @@
   * [内存优化](#内存优化)
   * [优化总结](#优化总结)
   * [Android性能优化工具](#Android性能优化工具)
+* [Android开源控件](#Android开源控件)
+* [开源公司及集合](#开源公司及集合)
 * [Android安全](#Android安全)
 * [Android命令](#Android命令)
 * [Android架构](#Android架构)
@@ -155,6 +157,17 @@
 * [Cockroach](https://github.com/android-notes/Cockroach)：降低Android非必要crash
 * [Takt](https://github.com/wasabeef/Takt)：Takt is Android library for measuring the FPS using Choreographer.
 * [SoloPi](https://github.com/alipay/SoloPi)：Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
+
+##  Android开源控件
+
+- [UI控件](/Android/OpenSource/OpenSource.md#UI控件)
+- [功能控件](/Android/OpenSource/OpenSource.md#功能控件)
+- [控件集合](/Android/OpenSource/OpenSource.md#控件集合)
+
+## 开源公司及集合
+
+* [开源公司](/Android/OpenSource/GroupSource.md#开源公司)
+* [开源集合](/Android/OpenSource/GroupSource.md#开源集合)
 
 ## Android安全
 
