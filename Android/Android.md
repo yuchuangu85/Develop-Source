@@ -182,6 +182,7 @@
 * [Android-dumpsys命令详细使用](/Android/adb/dumpsys.md)
 * [Android-logcat命令详解](/Android/adb/logcat.md)
 * [Android-pm命令详解](/Android/adb/pm.md)
+* [adb卸载系统应用](/Android/adb/adb-plus.md)
 
 ## Android架构
 
