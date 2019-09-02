@@ -420,6 +420,10 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 源码地址：[Shadow](https://github.com/Tencent/Shadow)
 
+#### 13.SandVXposed
+
+源码地址：[SandVXposed](https://github.com/ganyao114/SandVXposed)：Xposed environment without root (OS 5.0 - 10.0)
+
 ## 注解
 
 #### 1.dagger
