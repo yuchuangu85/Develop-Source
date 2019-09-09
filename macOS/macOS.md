@@ -1,5 +1,4 @@
 <h1 align="center">macOS资源整理</h1>
-
 ## 目录
 * [Mac操作](#Mac操作)
 * [HomeBrew](#HomeBrew)
@@ -31,7 +30,7 @@
 * [Aerial](https://github.com/JohnCoates/Aerial)：Apple TV 的新版屏
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu)：支持雅达利、Game Boy、GBA、Nintendo DS、PSP 等多种模拟器引擎。
 * [IINA](https://github.com/iina/iina)：功能强大的媒体播放器
-  
+* [Clippy](https://github.com/Cosmo/Clippy)：Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 
 ## macOS开发教程
 * [译-零基础 macOS 应用开发（一）](https://www.jianshu.com/p/a3f16178a213)
