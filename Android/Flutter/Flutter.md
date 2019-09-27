@@ -11,6 +11,8 @@
 * [官网-英文](https://flutter.dev)
 * [官网-中文](https://flutter-io.cn)
 * [Flutter中文网](https://flutterchina.club)
+* [Flutter实战](https://book.flutterchina.club/)
+* [Flutter实战电子书](https://github.com/flutterchina/flutter-in-action)
 
 ## 开源项目
 
