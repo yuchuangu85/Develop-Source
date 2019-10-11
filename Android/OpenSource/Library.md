@@ -9,11 +9,11 @@
   - [Retrofit](#Retrofit)
   - [okhttp](#okhttp)
   - [Volley](#Volley)
-
-* [响应式编程](#ReactiveX)
+- [PRDownloader](#PRDownloader)
   
+* [响应式编程](#ReactiveX)
   - [ReactiveX](#ReactiveX)
-
+  
 * [图片加载库](#图片加载及显示)
   
   * [Android-Universal-Image-Loader](#Android-Universal-Image-Loader)
@@ -203,6 +203,12 @@ Volley是由谷歌开源的一款网络请求框架。
 
 1. [Android 网络通信框架Volley简介(Google IO 2013)](http://blog.csdn.net/t12x3456/article/details/9221611)
 2. [Android Volley完全解析(系列)](http://blog.csdn.net/guolin_blog/article/details/17482095)
+
+#### 5.PRDownloader
+
+ A file downloader library for Android with pause and resume support 
+
+源码地址：[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
 
 ## ReactiveX
 
