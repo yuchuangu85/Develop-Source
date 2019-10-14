@@ -1,5 +1,4 @@
 <h1 align="center">开源公司及集合</h1>
-
 ## 目录
 
 * [开源公司](#开源公司)
@@ -15,6 +14,7 @@
 * oppo：[https://github.com/oppo-source](https://github.com/oppo-source)
 * 1+：[https://github.com/OnePlusOSS/](https://github.com/OnePlusOSS/)
 * Smartisan：[https://github.com/SmartisanTech/SmartisanOS_Kernel_Source](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source)
+* Tencent：[https://github.com/Tencent](https://github.com/Tencent)
 
 
 
