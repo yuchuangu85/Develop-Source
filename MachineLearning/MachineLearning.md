@@ -1,6 +1,5 @@
 <h1 align="center">机器学习</h1>
 
-
 ## FoolNLTK:中文处理工具包
 Github：[FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
 
@@ -19,3 +18,5 @@ Github：[FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
 
 ## 机器学习教程
 * [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)：Machine Learning Course with Python 
+* **[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)**：吴恩达机器学习书籍（下载地址：https://github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf）
+
