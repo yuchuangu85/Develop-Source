@@ -13,6 +13,7 @@ Java基础知识整理
 ## Java优化
 
 * [Effective Java for Android](/Java/Effect/EffectiveJava4Android.md)
+* [Java 性能优化：35 个小细节，让你提升 Java 代码的运行效率](/Java/Effect/EffectJava35.md)
 
 ## Java工具
 

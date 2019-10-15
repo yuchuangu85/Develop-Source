@@ -27,6 +27,7 @@
 * [SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)：SwiftUI控件介绍
 * [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)：A demo implementation of SwiftUI for the Web
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)：SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)：SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 
 ## Swift开发插件
 

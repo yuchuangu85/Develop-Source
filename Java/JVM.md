@@ -1,5 +1,4 @@
 <h1 align="center">JVM</h1>
-
 >Java虚拟机知识点整理
 
 ## GC回收过程及原理
