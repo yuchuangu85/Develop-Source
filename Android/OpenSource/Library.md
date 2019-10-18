@@ -430,6 +430,10 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 
 源码地址：[SandVXposed](https://github.com/ganyao114/SandVXposed)：Xposed environment without root (OS 5.0 - 10.0)
 
+#### 14.VirtualLocation
+
+源码地址：[VirtualLocation](https://github.com/littleRich/VirtualLocation)：利用Hook技术对APP进行虚拟定位，可修改微信、QQ、以及一些打卡APP等软件，随意切换手机所处位置！
+
 ## 注解
 
 #### 1.dagger
