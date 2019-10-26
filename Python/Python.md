@@ -1,9 +1,10 @@
 <h1 align="center">Python</h1>
-
 ## Python开源项目
 * [500lines](https://github.com/aosabook/500lines)：少于500行的Python项目-英文版
 * [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)：少于500行的Python项目-中文版
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100天从新手到大师
+* [bokeh](https://github.com/bokeh/bokeh)：Python图形项目
+* [python-is-cool](https://github.com/chiphuyen/python-is-cool)：Python隐藏功能合集
 
 
 ## 爬虫项目：
