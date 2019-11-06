@@ -3,6 +3,12 @@
 ## 1.切换源码分支(切换到android-7.1.2_r11版本)
 ```
 repo init -b android-7.1.2_r11
+
+## 如果不能连接google源码可以先切换到下面地址：
+repo init -u https://aosp.tuna.tsinghua.edu.cn//platform/manifest -b android-10.0.0_r9
+
+然后：
+repo init -b android-10.0.0_r9
 ```
 
 同步代码：
