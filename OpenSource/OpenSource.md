@@ -11,6 +11,7 @@
 * [C开源项目](#C开源项目)
 * [Flutter开源项目](#Flutter开源项目)
 * [全平台开源项目](#全平台开源项目)
+* [开源资料](#开源资料)
 
 ## Android开源项目
 
@@ -57,3 +58,14 @@
 * [drawio](https://github.com/jgraph/drawio)
 * [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)
 * [vnote](https://github.com/tamlok/vnote)：(C++) 开源markdown工具
+* [windows95](https://github.com/felixrieseberg/windows95)
+
+## 视频音频
+
+* [Anime4K](https://github.com/bloc97/Anime4K)：将视频转换成4K视频--延迟3ms
+
+
+
+## 开源资料
+
+* [免费书籍](https://github.com/ruanyf/free-books)
