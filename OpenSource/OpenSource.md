@@ -23,6 +23,7 @@
 * [ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter):This library uses OpenGL Shaders to apply effects on ExoPlayer video at Runtime
 * [android-gpuimage](https://github.com/cats-oss/android-gpuimage):Android filters based on OpenGL (idea from GPUImage for iOS)
 * [C-OCR](https://github.com/ctripcorp/C-OCR)：C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。
+* [Telegram](https://github.com/DrKLO/Telegram)：类似QQ的通讯开源项目。
 
 ## iOS开源项目
 
