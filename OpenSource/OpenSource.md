@@ -36,6 +36,7 @@
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：一个可以在终端（[`iTerm`](https://www.iterm2.com/) 或 [`Hyper`](https://github.com/zeit/hyper)）中打开当前目录的访达工具栏应用程序。
 * [PasswordX](https://github.com/TBXark/PasswordX)：离线密码生成器
+* [fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
 
 ## Window开源项目
 
