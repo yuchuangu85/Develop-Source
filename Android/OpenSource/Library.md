@@ -4,7 +4,6 @@
 ## 目录
 
 * [网络](#网络)
-  
   - [android-async-http](#android-async-http)
   - [Retrofit](#Retrofit)
   - [okhttp](#okhttp)
@@ -36,6 +35,7 @@
   * [Nuwa](#Nuwa)
   * [RocooFix](#RocooFix)
   * [AnoleFix](#AnoleFix)
+  * [SmartAppUpdates](#SmartAppUpdates)
 
 * [插件化](#插件化)
   
@@ -375,6 +375,10 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 #### 10.TaiChi
 
 源码地址：[TaiChi](https://github.com/taichi-framework/TaiChi):A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0 
+
+#### 11.SmartAppUpdates
+
+源码地址：[SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)：Android应用增量更新，包含客户端和服务端。
 
 ## 插件化
 
