@@ -30,6 +30,7 @@
 * [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)：SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 * [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI)：Xcode垃圾清理软件SwiftUI版本
 * [SwiftUI-Architectures](https://github.com/quickbirdstudios/SwiftUI-Architectures)：Three different architectures (Model-View, Redux, MVVM) for using SwiftUI implemented at the example of a chat app
+* [ChartView](https://github.com/AppPear/ChartView)：SwiftUI 图标
 
 ## Swift开发插件
 
