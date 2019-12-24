@@ -48,7 +48,7 @@ git push
 ```
 
 
-## 5.抓取log到文件：
+## 4.抓取log到文件：
 
 ```
 cat build_log.txt | grep -i error
