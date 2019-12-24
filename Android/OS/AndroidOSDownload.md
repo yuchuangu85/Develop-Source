@@ -33,6 +33,14 @@ cd .repo/manifests
 git branch -a | cut -d / -f 3
 ```
 
+AOSP代号、标记和细分版本号
+
+```
+https://source.android.google.cn/setup/start/build-numbers.html#source-code-tags-and-builds
+```
+
+
+
 ## 2.Idea导入源码方法：
 
 >本教程基于Mac OS X 10.12。Android系统版本为：7.1.2_r11(7.1.2最终版)。先介绍方法，后面会给出各种问题解决方案。
@@ -50,7 +58,7 @@ android.iml (IntelliJ / Android Studio)
 * 1.修改MacOS sdk 版本：
 
 路径Android-7.1.2_r11/build/core/combo/mac_version.mk，加上你现在系统的版本：
- 
+
  ```
  mac_sdk_versions_supported :=  10.8 10.9 10.10 10.11 10.12
  ```
@@ -160,7 +168,7 @@ Couldn't locate the directory development/tools/idegen
 * 2.由于生成该文件需要MacOS SDK，所以需要安装Xcode,最新版Xcode里面的sdk是10.12（与最新系统一样），而在Android源码里面最高到10.11，所以不支持，需要修改源码中的对sdk的支持：
 
 打开路径Android-7.1.2_r11/build/core/combo/mac_version.mk，加上你现在系统的版本：
- 
+
 ```
 mac_sdk_versions_supported :=  10.8 10.9 10.10 10.11 10.12
 ```
