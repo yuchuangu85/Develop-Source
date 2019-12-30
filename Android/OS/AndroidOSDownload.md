@@ -1,5 +1,9 @@
 <h1 align="center">Android系统源码下载编译</h1>
-## 1.切换源码分支(切换到android-7.1.2_r11版本)
+
+## 1.源码下载以及切换源码分支(切换到android-7.1.2_r11版本)
+#### 源码下载：
+**清华大学镜像地址：**[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
+
 ```
 repo init -b android-7.1.2_r11
 
