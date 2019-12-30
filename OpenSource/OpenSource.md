@@ -24,6 +24,8 @@
 * [android-gpuimage](https://github.com/cats-oss/android-gpuimage):Android filters based on OpenGL (idea from GPUImage for iOS)
 * [C-OCR](https://github.com/ctripcorp/C-OCR)：C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。
 * [Telegram](https://github.com/DrKLO/Telegram)：类似QQ的通讯开源项目。
+* [IdCardOCR](https://github.com/XieZhiFa/IdCardOCR)：离线识别身份证项目
+* [AndroidOcrLibs](https://github.com/fanqieVip/AndroidOcrLibs)：离线识别身份证、银行卡、驾驶证项目
 
 ## iOS开源项目
 
@@ -45,6 +47,8 @@
 
 * [EverydayWechat](https://github.com/sfyc23/EverydayWechat)：每日自动给女朋友发微信暖心话。
 * [home-assistant](https://github.com/home-assistant/home-assistant)：Open source home automation that puts local control and privacy first [https://www.home-assistant.io](https://www.home-assistant.io)
+* [12306](https://github.com/testerSunshine/12306)：12306智能刷票，订票
+* [py12306](https://github.com/pjialin/py12306)： 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
 ## C开源项目
 
