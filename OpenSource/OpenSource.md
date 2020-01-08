@@ -55,6 +55,7 @@
 * [C++版2048游戏](https://github.com/plibither8/2048.cpp)
 * [yuzu](https://github.com/yuzu-emu/yuzu)：Nintendo Switch Emulator
 * [taichi](https://github.com/yuanming-hu/taichi)：The Taichi programming language [http://taichi.graphics](http://taichi.graphics/)
+* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)：一个免费开源、跨平台的可视化源码探索项目。能够十分高效的帮助使用者探索、熟悉陌生的代码，支持 C、C++、Python 和 Java 语言，同时提供了相关 SDK 用于拓展支持其它语言
 
 ## Flutter开源项目
 
