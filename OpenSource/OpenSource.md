@@ -26,6 +26,7 @@
 * [Telegram](https://github.com/DrKLO/Telegram)：类似QQ的通讯开源项目。
 * [IdCardOCR](https://github.com/XieZhiFa/IdCardOCR)：离线识别身份证项目
 * [AndroidOcrLibs](https://github.com/fanqieVip/AndroidOcrLibs)：离线识别身份证、银行卡、驾驶证项目
+* [DoraemonKit](https://github.com/didi/DoraemonKit)：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
 
 ## iOS开源项目
 
