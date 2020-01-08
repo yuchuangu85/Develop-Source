@@ -221,8 +221,9 @@
 * [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 * [免费英文书籍下载网站](https://b-ok.cc/)
 
-## 开源项目
+## 开源资源
 
 * [开源项目](/OpenSource/OpenSource.md)
 * [开源集合](/Awesome/Awesome-Awesome.md)
+* [开源社区](/OpenSource/OpenSourceCommunity.md)
 

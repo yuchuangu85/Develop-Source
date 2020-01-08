@@ -54,6 +54,7 @@
 
 * [C++版2048游戏](https://github.com/plibither8/2048.cpp)
 * [yuzu](https://github.com/yuzu-emu/yuzu)：Nintendo Switch Emulator
+* [taichi](https://github.com/yuanming-hu/taichi)：The Taichi programming language [http://taichi.graphics](http://taichi.graphics/)
 
 ## Flutter开源项目
 
