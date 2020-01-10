@@ -39,5 +39,5 @@
 
 ## 架构图
 
-![Flutter架构图](../Flutter/images/FlutterFramework.png)
-![Flutter架构图](../Flutter/images/FlutterTree.png)
+![Flutter架构图](images/FlutterFramework.png)
+![Flutter架构图](images/FlutterTree.png)
