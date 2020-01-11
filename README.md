@@ -14,10 +14,10 @@
   * [Android知识梳理](#Android知识梳理)
   * [Android开源库](#Android开源库)
   * [Android面试题](#Android面试题)
-  * [Flutter开发](#Flutter开发)
 * [Java](#Java)
   * [Java基础知识及资源集合](#Java基础知识及资源集合)
   * [JVM(Java虚拟机)](#JVM(Java虚拟机))
+* [Flutter开发](#Flutter开发)
 * [数据结构和算法](#数据结构和算法)
 * [网络协议及框架](#网络协议及框架)
 * [CCPlus](#CCPlus)
@@ -96,12 +96,6 @@
 * [Android面试总结](/Interview/AndroidInterview.md)
 * [Android开发知识点](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
 
-#### [Flutter开发](/Android/Flutter/Flutter.md)
-
-* [开发网站](/Android/Flutter/Flutter.md#开发网站)
-* [开源项目](/Android/Flutter/Flutter.md#开源项目)
-* [架构图](/Android/Flutter/Flutter.md#架构图)
-
 ## Java
 
 #### [Java基础知识及资源集合](/Java/Java.md)
@@ -113,6 +107,12 @@
 
 * [GC回收过程及原理](/Java/JVM.md#GC回收过程及原理)
 * [Java虚拟机原理](/Java/JVM.md#Java虚拟机原理)
+
+## [Flutter开发](/Flutter/Flutter.md)
+
+* [开发网站](/Flutter/Flutter.md#开发网站)
+* [开源项目](/Flutter/Flutter.md#开源项目)
+* [架构图](/Flutter/Flutter.md#架构图)
 
 ## [数据结构和算法](/Algorithm/Algorithm.md)
 
