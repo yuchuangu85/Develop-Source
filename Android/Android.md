@@ -75,6 +75,7 @@
 #### Binder机制
 
 * [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
+* [操作系统：图文详解 内存映射](https://www.jianshu.com/p/719fc4758813)
 * [Android Bander设计与实现 - 设计篇](https://blog.csdn.net/universus/article/details/6211589)
 
 #### 消息机制
