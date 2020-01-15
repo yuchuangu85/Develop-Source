@@ -13,6 +13,7 @@
 * [Android](#Android)
   * [Android知识梳理](#Android知识梳理)
   * [Android开源库](#Android开源库)
+  * [Android快速开发](#Android快速开发)
   * [Android面试题](#Android面试题)
 * [Java](#Java)
   * [Java基础知识及资源集合](#Java基础知识及资源集合)
@@ -87,6 +88,17 @@
 * [视频](/Android/OpenSource/Library.md#视频)
 * [多主题](/Android/OpenSource/Library.md#多主题)
 * [其他](/Android/OpenSource/Library.md#其他)
+
+####  [Android快速开发](/Android/OpenSource/SmartDevelop.md)
+
+* [自升级库](/Android/OpenSource/SmartDevelop.md#自升级库)
+* [Dialog](/Android/OpenSource/SmartDevelop.md#Dialog)
+* [Tools](/Android/OpenSource/SmartDevelop.md#Tools)
+* [StateBar](/Android/OpenSource/SmartDevelop.md#StateBar)
+* [Toast](/Android/OpenSource/SmartDevelop.md#Toast)
+* [Indicator](/Android/OpenSource/SmartDevelop.md#Indicator)
+* [Loading](/Android/OpenSource/SmartDevelop.md#Loading)
+* [RecyclerView](/Android/OpenSource/SmartDevelop.md#RecyclerView)
 
 #### [Android面试题](/Interview/Interview.md)
 

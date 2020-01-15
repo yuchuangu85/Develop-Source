@@ -679,4 +679,5 @@ External samples are variants that may not be in sync with the rest of the branc
 
 ## 多主题
 
-* [Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)o g
+* [Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)
+
