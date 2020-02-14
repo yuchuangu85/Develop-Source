@@ -22,3 +22,11 @@
 * [《Java虚拟机原理图解》4.JVM机器指令集](https://blog.csdn.net/luanlouis/article/details/50412126)
 * [《Java虚拟机原理图解》5. JVM类加载器机制与类加载过程](https://blog.csdn.net/luanlouis/article/details/50529868)
 
+## GC
+* [What Is Garbage Collection](https://plumbr.io/handbook/what-is-garbage-collection)
+* [Garbage Collection in Java](https://plumbr.io/handbook/garbage-collection-in-java)
+* [GC Algorithms: Basics](https://plumbr.io/handbook/garbage-collection-algorithms)
+* [GC Algorithms: Implementations](https://plumbr.io/handbook/garbage-collection-algorithms-implementations)
+* [GC Turning:Basics](https://plumbr.io/handbook/gc-tuning)
+* [GC Turning: Tooling](https://plumbr.io/handbook/gc-tuning-measuring)
+* [GC Turning: In Practice](https://plumbr.io/handbook/gc-tuning-in-practice)
