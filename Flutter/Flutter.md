@@ -37,6 +37,7 @@
 * [circle_list](https://github.com/asjqkkkk/circle_list)：圆形list开源库
 * [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)：completely free for everyone. Its build-in Flutter Dart.
 * [wechat_flutter](https://github.com/fluttercandies/wechat_flutter)：wechat_flutter Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！
+* [Flutter资源网](https://github.com/crazycodeboy/awesome-flutter-cn)
 
 ## 架构图
 
