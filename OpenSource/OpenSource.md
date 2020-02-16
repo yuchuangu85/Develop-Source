@@ -4,6 +4,8 @@
 ## 目录
 
 * [Android开源项目](#Android开源项目)
+* [Java开源项目](#Java开源项目)
+* [JavaScript开源项目](#JavaScript开源项目)
 * [iOS开源项目](#iOS开源项目)
 * [macOS开源项目](#macOS开源项目)
 * [Window开源项目](#Window开源项目)
@@ -28,6 +30,13 @@
 * [AndroidOcrLibs](https://github.com/fanqieVip/AndroidOcrLibs)：离线识别身份证、银行卡、驾驶证项目
 * [DoraemonKit](https://github.com/didi/DoraemonKit)：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
 
+## Java开源项目
+* [斗地主](https://github.com/ainilili/ratel)
+
+## JavaScript开源项目
+* [飞船射击](https://github.com/gd4Ark/star-battle)
+* [扫雷](https://github.com/muan/emoji-minesweeper)
+
 ## iOS开源项目
 
 * [GPUImage2](https://github.com/BradLarson/GPUImage2):[Swift3]--GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
@@ -41,6 +50,7 @@
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)：一个可以在终端（[`iTerm`](https://www.iterm2.com/) 或 [`Hyper`](https://github.com/zeit/hyper)）中打开当前目录的访达工具栏应用程序。
 * [PasswordX](https://github.com/TBXark/PasswordX)：离线密码生成器
 * [fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
+* [Mac 上的红白机](https://github.com/OpenEmu/OpenEmu)
 
 ## Window开源项目
 
@@ -50,6 +60,8 @@
 * [home-assistant](https://github.com/home-assistant/home-assistant)：Open source home automation that puts local control and privacy first [https://www.home-assistant.io](https://www.home-assistant.io)
 * [12306](https://github.com/testerSunshine/12306)：12306智能刷票，订票
 * [py12306](https://github.com/pjialin/py12306)： 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+* [物大战僵尸](https://github.com/marblexu/PythonPlantsVsZombies)
+* [地下城文字游戏](https://github.com/AIDungeon/AIDungeon)
 
 ## C开源项目
 
@@ -57,6 +69,7 @@
 * [yuzu](https://github.com/yuzu-emu/yuzu)：Nintendo Switch Emulator
 * [taichi](https://github.com/yuanming-hu/taichi)：The Taichi programming language [http://taichi.graphics](http://taichi.graphics/)
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)：一个免费开源、跨平台的可视化源码探索项目。能够十分高效的帮助使用者探索、熟悉陌生的代码，支持 C、C++、Python 和 Java 语言，同时提供了相关 SDK 用于拓展支持其它语言
+* [俄罗斯方块](https://github.com/taylorconor/tinytetris)
 
 ## Flutter开源项目
 
