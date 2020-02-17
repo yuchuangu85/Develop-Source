@@ -8,7 +8,8 @@
   - [Retrofit](#Retrofit)
   - [okhttp](#okhttp)
   - [Volley](#Volley)
-- [PRDownloader](#PRDownloader)
+  - [PRDownloader](#PRDownloader)
+  - [okdownload](#okdownload)
   
 * [响应式编程](#ReactiveX)
   - [ReactiveX](#ReactiveX)
@@ -209,6 +210,12 @@ Volley是由谷歌开源的一款网络请求框架。
  A file downloader library for Android with pause and resume support 
 
 源码地址：[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
+
+#### 6.okdownload
+
+可靠，灵活，高性能以及强大的下载引擎
+
+源码地址：[okdownload](https://github.com/lingochamp/okdownload)
 
 ## ReactiveX
 
