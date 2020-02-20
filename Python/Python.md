@@ -5,6 +5,7 @@
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100天从新手到大师
 * [bokeh](https://github.com/bokeh/bokeh)：Python图形项目
 * [python-is-cool](https://github.com/chiphuyen/python-is-cool)：Python隐藏功能合集
+* [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)：30 days of Python programming challenge is a sep by step guide to learn Python programming language in 30 days.
 
 
 ## 爬虫项目：

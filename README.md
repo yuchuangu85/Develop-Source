@@ -18,6 +18,7 @@
 * [Java](#Java)
   * [Java基础知识及资源集合](#Java基础知识及资源集合)
   * [JVM(Java虚拟机)](#JVM(Java虚拟机))
+* [JavaScript](#JavaScript)
 * [Flutter开发](#Flutter开发)
 * [数据结构和算法](#数据结构和算法)
 * [网络协议及框架](#网络协议及框架)
@@ -119,6 +120,9 @@
 
 * [GC回收过程及原理](/Java/JVM.md#GC回收过程及原理)
 * [Java虚拟机原理](/Java/JVM.md#Java虚拟机原理)
+
+## JavaScript
+* [JavaScript](/JavaScript/JavaScript.md)
 
 ## [Flutter开发](/Flutter/Flutter.md)
 
