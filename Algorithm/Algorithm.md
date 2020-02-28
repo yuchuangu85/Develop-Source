@@ -70,6 +70,7 @@
 * [TheAlgorithms](https://github.com/TheAlgorithms)
 * [leetcode题解](https://github.com/azl397985856/leetcode)
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)：Interactive Online Platform that Visualizes Algorithms from Code
+* [fucking-algorithm](https://github.com/labuladong/fucking-algorithm):labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子。不仅how，还有why。
 
 ## 数据结构和算法合集
 

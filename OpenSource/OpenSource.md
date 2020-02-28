@@ -92,3 +92,5 @@
 ## 开源资料
 
 * [免费书籍](https://github.com/ruanyf/free-books)
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):A list of awesome beginners-friendly projects.
+* [HelloGithub](https://hellogithub.com/)：分享 GitHub 上 有趣、入门级的开源项目
