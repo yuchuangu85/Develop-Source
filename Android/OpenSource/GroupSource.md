@@ -14,6 +14,8 @@
 * [chromium](https://github.com/chromium/chromium)：github镜像
 * [chromium](https://mirrors.tuna.tsinghua.edu.cn/help/chromiumos/)：清华大学镜像
 * [intellij-community](https://github.com/JetBrains/intellij-community)：intellij-community开源代码
+* [华为开源平台](https://code.opensource.huaweicloud.com/home)
+* [方舟编译器](https://www.openarkcompiler.cn/home)
 
 
 ## 开源公司

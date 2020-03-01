@@ -1,4 +1,5 @@
 <h1 align="center">macOS资源整理</h1>
+
 ## 目录
 * [Mac操作](#Mac操作)
 * [HomeBrew](#HomeBrew)
@@ -43,6 +44,10 @@
 * [译-如何在 macOS 上使用 NSTouchBar](https://www.jianshu.com/p/05af8be14baa)
 * [Translation of macOS development tutorials](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation)
 * [macOS开发教程网站](https://www.raywenderlich.com/macos)
+* [苹果开发官方视频](https://developer.apple.com/videos/all-videos/?q=swift)
+* [AppleDeveloperDoc](https://developer.apple.com/documentation/)
+* [Mac OSX 开发基础教程](https://study.163.com/course/introduction.htm?courseId=1004170018&_trace_c_p_k2_=5273510b637e45bdae53120268584e4d)
+* [Apple Developer Web](https://developer.apple.com)
 
 ## macOS博客
 

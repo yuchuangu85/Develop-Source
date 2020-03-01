@@ -197,14 +197,14 @@
 
 ## [Git学习](/Git/Git.md)
 
-* [Github技巧](/Git/Git.md#Github技巧)
 * [Git操作指南](/Git/Git.md#Git操作指南)
 
 ## [博客Github](/Blog/Blog.md)
 
 * [博客](/Blog/Blog.md#博客)
 * [Github](/Blog/Blog.md#Github)
-* [GithubTrending](<https://github.com/trending>)
+* [GithubTrending](https://github.com/trending)
+* [Github技巧](/Git/Github.md#Github技巧)
 
 ## [大学课程](/CollegeCourse/CollegeCourse.md)
 
@@ -236,10 +236,10 @@
 * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 * [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 * [免费英文书籍下载网站](https://b-ok.cc/)
+* [BookSC](https://booksc.org)：图书搜索下载网址
 
 ## 开源资源
 
 * [开源项目](/OpenSource/OpenSource.md)
 * [开源集合](/Awesome/Awesome-Awesome.md)
-* [开源社区](/OpenSource/OpenSourceCommunity.md)
 

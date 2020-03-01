@@ -92,5 +92,8 @@
 ## 开源资料
 
 * [免费书籍](https://github.com/ruanyf/free-books)
+* [Github Trending](https://github.com/trending):Github各语言排名
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):A list of awesome beginners-friendly projects.
 * [HelloGithub](https://hellogithub.com/)：分享 GitHub 上 有趣、入门级的开源项目
+* [eBook免费下载](https://www.foxebook.net)
+* [GitBook](https://www.gitbook.com)
