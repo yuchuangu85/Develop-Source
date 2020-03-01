@@ -27,6 +27,7 @@
 * [Windows Terminal](https://github.com/microsoft/Terminal)：微软开源命令行工具
 * [jadx](https://github.com/skylot/jadx)：Android源码反编译工具（教程：[Android 反编译利器，jadx 的高级技巧](https://www.jianshu.com/p/e5b021df2170)）
 * [Understand](http://scitools.com/download/chinese/):中文版
+    
     ```
     输入证书CODE(32/64 都可用)：以下选一个。
     4BE2CFDB1273 
@@ -37,14 +38,8 @@
 
 
 ## 其他工具
-谷歌开源手机号验证库
-[libphonenumber](https://github.com/googlei18n/libphonenumber)
-
-编译器抓取常见错误工具
-[**error-prone**](https://github.com/google/error-prone)
-
-正则表达式工具
-[regulex](https://github.com/CJex/regulex)
-
-正则表达式可视化
-[https://jex.im/regulex/](https://jex.im/regulex/)
+* 谷歌开源手机号验证库:[libphonenumber](https://github.com/googlei18n/libphonenumber)
+* 编译器抓取常见错误工具:[**error-prone**](https://github.com/google/error-prone)
+* 正则表达式工具:[regulex](https://github.com/CJex/regulex)
+* 正则表达式可视化:[https://jex.im/regulex/](https://jex.im/regulex/)
+* 投屏软件：[蓝莓投屏](http://deeprd.com)
