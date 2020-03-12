@@ -6,6 +6,11 @@ Java基础知识整理
 * [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)：Java设计模式
 * [Java知识点总结](/Java/JavaSummary.md)
 
+## Java基础
+
+##### 泛型
+* [java 泛型详解-绝对是对泛型方法讲解最详细的，没有之一](https://blog.csdn.net/s10461/article/details/53941091)
+
 ## 线程
 
 * [Java中的多线程你只要看这一篇就够了](https://www.cnblogs.com/wxd0108/p/5479442.html)

@@ -29,6 +29,8 @@
 * [IdCardOCR](https://github.com/XieZhiFa/IdCardOCR)：离线识别身份证项目
 * [AndroidOcrLibs](https://github.com/fanqieVip/AndroidOcrLibs)：离线识别身份证、银行卡、驾驶证项目
 * [DoraemonKit](https://github.com/didi/DoraemonKit)：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
+* [WatchLauncher](https://github.com/100957264/WatchLauncher)：完全老化测试，计步，远程关机、闹铃、禁用、爱心提醒调试代码，Watch Launcher，水质监测系统
+* [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)：A performance monitor tool , like "Android Studio profiler" for Android , you can easily monitor the performance of your app real time in pc browser
 
 ## Java开源项目
 * [斗地主](https://github.com/ainilili/ratel)
@@ -51,6 +53,7 @@
 * [PasswordX](https://github.com/TBXark/PasswordX)：离线密码生成器
 * [fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS
 * [Mac 上的红白机](https://github.com/OpenEmu/OpenEmu)
+* [Clipy](https://github.com/Clipy/Clipy)
 
 ## Window开源项目
 
