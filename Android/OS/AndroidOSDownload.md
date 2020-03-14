@@ -26,11 +26,25 @@ repo sync
 build\core\version_defaults.mk //搜索该文件中的 PLATFORM_VERSION值
 ```
 
-查看分支：
+查看可切换的分支：
 
 ```
 cd .repo/manifests
 git branch -a | cut -d / -f 3
+```
+
+切换分支（以android-10.0.0_r9为例）：
+
+```
+repo init -b android-10.0.0_r9  # 选取分支
+repo sync   # 如果不需要与服务器数据一致，可以不运行该步
+repo start android-10.0.0_r9 --all 
+```
+
+查看切换结果
+
+```
+repo branches
 ```
 
 AOSP代号、标记和细分版本号

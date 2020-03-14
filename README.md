@@ -242,6 +242,7 @@
 * [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 * [免费英文书籍下载网站](https://b-ok.cc/)
 * [BookSC](https://booksc.org)：图书搜索下载网址
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## 开源资源
 
