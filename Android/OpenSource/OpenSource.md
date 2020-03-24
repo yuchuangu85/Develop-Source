@@ -132,6 +132,7 @@
 
 - [CainCamera](https://github.com/CainKernel/CainCamera)：CainCamera是一个美颜类相机，主要用于学习如何实现实时美颜、滤镜、贴纸、拍照、短视频分段录制、回删等美颜类相机预览相关功能， 静态图片的一键美化、特效、裁剪旋转、贴纸、文字、调节、涂鸦、马赛克、边框、夜景增强、虚化、抠图虚化等功能， 视频编辑中的滤镜、添加音乐、混音、变声变速、添加字幕、视频剪辑、魔法涂鸦、嘻哈特效、MV特效等功能， 以及各部分功能的一些优化实践。目前图片编辑与视频编辑功能仍在开发当中
 - [CameraFilter](https://github.com/nekocode/CameraFilter)：相机特效源码
+- [android-gpuimage](https://github.com/cats-oss/android-gpuimage)：Android filters based on OpenGL (idea from GPUImage for iOS)
 
 
 
