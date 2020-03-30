@@ -48,6 +48,14 @@
   * [AndroidDynamicLoader](#AndroidDynamicLoader)
   * [VirtualApp](#VirtualApp)
 
+* [Hook](#Hook)
+  
+  * [Xposed](#Xposed) 
+  * [AndFix](#AndFix)
+  * [Cydia-Substrate](#Cydia-Substrate)
+  * [dexposed](dexposed)
+  
+
 * [注解](#注解)
   
   * [dagger](#dagger)
@@ -444,6 +452,25 @@ Tinker补丁后台管理：[tinker-manager](https://github.com/baidao/tinker-man
 #### 14.VirtualLocation
 
 源码地址：[VirtualLocation](https://github.com/littleRich/VirtualLocation)：利用Hook技术对APP进行虚拟定位，可修改微信、QQ、以及一些打卡APP等软件，随意切换手机所处位置！
+
+## Hook
+  
+#### 1.Xposed
+
+源码地址：[Xposed](https://github.com/rovo89/Xposed):The native part of the Xposed framework (mainly the modified app_process binary).
+  
+#### 2.AndFix
+  
+  源码地址：[AndFix](https://github.com/alibaba/AndFix)
+  
+#### 3.dexposed
+
+源码地址：[dexposed](https://github.com/alibaba/dexposed):dexposed enable 'god' mode for single android application.
+
+#### 4.VirtualXposed
+
+源码地址：[VirtualXposed](https://github.com/android-hacker/VirtualXposed):A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. https://vxp.app
+
 
 ## 注解
 
