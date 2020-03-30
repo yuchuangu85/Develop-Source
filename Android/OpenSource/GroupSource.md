@@ -36,6 +36,3 @@
 * [Android](https://github.com/topics/android)  简介：Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits.
 
 
-## DeepLink
-* 跳转支付宝付款码：alipays://platformapi/startapp?appId=20000056&chInfo=ch_jinliLeft
-
