@@ -85,6 +85,7 @@
 * [vnote](https://github.com/tamlok/vnote)：(C++) 开源markdown工具
 * [windows95](https://github.com/felixrieseberg/windows95)
 * [scrcpy](https://github.com/Genymobile/scrcpy)：Display and control your Android device。(使用：[Scrcpy使用说明](Scrcpy.md))
+* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)：Sourcetrail - free and open-source interactive source explorer [https://www.sourcetrail.com/](https://www.sourcetrail.com/)(代码阅读工具)
 
 ## 视频音频
 

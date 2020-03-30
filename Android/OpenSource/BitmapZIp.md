@@ -30,8 +30,13 @@ API调用上和Luban一样，支持普通方式也支持RxJava。
 ![](../images/bitmapzip/bitmapzip4.png)
 
 
-## 总结
-
+ **总结**
 以上两者都是目前Github上关注热度比较高的了，作者也一直不断在维护更新。纯粹使用亦可，学习源码亦可，如果你也有不错的Android图片压缩方案推荐，欢迎给我评论留言。
 
 本文为技术视界原创作品，转载请注明原文出处：http://blog.coderclock.com/2017/04/12/android/open-source-android-image-compression-library ，欢迎关注我的微信公众号！
+
+## guetzli
+
+[guetzli](https://github.com/google/guetzli)：Perceptual JPEG encoder
+
+支持webp压缩，Android上webp需要做兼容，可以压缩module、jar、aar中的图片，支持压缩算法扩展，支持压缩包含透明度的webp图片，并且兼容了aapt2对资源的hook。
