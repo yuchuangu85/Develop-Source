@@ -1,9 +1,6 @@
 <h1 align="center">Android系统开源代码以及开源公司</h1>
-## 目录
 
-* [源码查看](#源码查看)
-* [开源公司](#开源公司)
-* [开源集合](#开源集合)
+[TOC]
 
 ## 源码查看
 * [Google Source](https://android.googlesource.com)：谷歌官方，需要翻墙

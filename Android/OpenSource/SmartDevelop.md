@@ -1,16 +1,7 @@
 <h1 align="center">Android快速开发</h1>
 
 
-## 目录
-
-* [自升级库](#自升级库)
-* [Dialog](#Dialog)
-* [Tools](#Tools)
-* [StateBar](#StateBar)
-* [Toast](#Toast)
-* [Indicator](#Indicator)
-* [Loading](#Loading)
-* [RecyclerView](#RecyclerView)
+[TOC]
 
 
 
