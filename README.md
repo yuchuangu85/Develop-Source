@@ -6,37 +6,7 @@
 
 > 开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
 
-更新日期：20190423
-
-## 目录
-
-* [Android](#Android)
-  * [Android知识梳理](#Android知识梳理)
-  * [Android开源库](#Android开源库)
-  * [Android快速开发](#Android快速开发)
-  * [Android面试题](#Android面试题)
-* [Java](#Java)
-  * [Java基础知识及资源集合](#Java基础知识及资源集合)
-  * [JVM(Java虚拟机)](#JVM(Java虚拟机))
-* [JavaScript](#JavaScript)
-* [Flutter开发](#Flutter开发)
-* [数据结构和算法](#数据结构和算法)
-* [网络协议及框架](#网络协议及框架)
-* [CCPlus](#CCPlus)
-* [Linux知识整理](#Linux知识整理)
-* [Swift知识整理](#Swift知识整理)
-* [iOS开源项目集合](#iOS开源项目集合)
-* [macOS开源项目集合](#macOS开源项目集合)
-* [深度学习](#深度学习)
-* [计算机视觉](#计算机视觉)
-* [Python](#Python)
-* [Git学习](#Git学习)
-* [博客Github](#博客Github)
-* [大学课程](#大学课程)
-* [在线工具](#在线工具)
-* [UI设计](#UI设计)
-* [学习资料](#学习资料)
-* [开源项目](#开源项目)
+更新日期：20211009
 
 ## Android
 
@@ -54,11 +24,7 @@
     * [View绘制流程](/Android/Android.md#View绘制流程)
     * [View事件分发](/Android/Android.md#View事件分发)
     * [Intent](/Android/Android.md#Intent)
-* [Android性能优化](/Android/Android.md#Android性能优化)
-    * [性能优化典范](/Android/Android.md#性能优化典范)
-    * [内存优化](/Android/Android.md#内存优化)
-    * [优化总结](/Android/Android.md#优化总结)
-    * [Android性能优化工具](/Android/Android.md#Android性能优化工具)
+* [Android性能优化](./Android/Performance.md):包括：Java内存模型、ART vs Dalvik、Android内存回收机制、Low Memory Killer机制、内存工具、常见内存问题及解决方案、ANR、启动优化、布局及流畅度优化、Bitmap优化、线程优化、Apk包大小优化、LRUCache、WebView优化、电量优化、IO优化、稳定性优化。
 * [Android开源控件](/Android/Android.md#Android开源控件)
 * [开源公司及集合](/Android/Android.md#开源公司及集合)
 * [Android安全](/Android/Android.md#Android安全)
