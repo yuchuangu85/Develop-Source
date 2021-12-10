@@ -1,7 +1,6 @@
 <h1 align="center">C</h1>
 
-## 目录
-* [开源项目](#开源项目)
+[toc]
 
 ## 开源项目
 * [30dayMakeOS](https://github.com/yourtion/30dayMakeOS)：《30天自制操作系统》源码中文版

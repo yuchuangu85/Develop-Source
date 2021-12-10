@@ -1,9 +1,6 @@
 <h1 align="center">C++</h1>
 
-## 目录
-* [C++资料](#C++资料)
-* [C++开源项目](#C++开源项目)
-* [CMAKE手册](#CMAKE手册)
+[toc]
 
 ## C++资料
 * [极客光城](https://light-city.club)：优秀的C++博客

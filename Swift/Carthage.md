@@ -1,5 +1,6 @@
-<h1 align="center">Carthage操作指南<h1>
+<h1 align="center">Carthage操作指南</h1>
 
+[toc]
 
 ## 安装步骤：
 ```

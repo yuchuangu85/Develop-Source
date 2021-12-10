@@ -1,13 +1,8 @@
 <h1 align="center">博客及Github地址</h1>
 
-## 目录
-* [博客](#博客)
-* [Github](#Github)
-* [网络期刊](#网络期刊)
-* [技术社区](#技术社区)
-* [资源网站](#资源网站)
+[toc]
 
-#### 博客
+## 博客
 * [老罗的Android之旅](https://blog.csdn.net/luoshengyang)：Android源码分析
 * [Gityuan](http://gityuan.com/)：Android Framework源码分析
 * [YSOcean](https://www.cnblogs.com/ysocean/)：Java和数据结构
@@ -18,10 +13,10 @@
 * [启舰](http://blog.csdn.net/harvic880925)
 
 
-#### Github
+## Github
 
 
-#### 网络期刊
+## 网络期刊
 * [codeKK](http://www.codekk.com/open-source-project-analysis)
 * [干货集中营](http://gank.io)
 * [Android技术周报](http://www.androidweekly.cn)
@@ -30,7 +25,7 @@
 * [开发者头条](http://toutiao.io)
 
 
-#### 技术社区
+## 技术社区
 * [IBM developerWorks](http://www.ibm.com/developerworks/cn/)
 * [美团点评技术团队](http://tech.meituan.com)
 * [阿里技术沙龙](http://club.alibabatech.org)
@@ -45,7 +40,7 @@
 * [有道技术沙龙博客](http://techblog.youdao.com/)
 
 
-#### 资源网站
+## 资源网站
 * [Android Arsenal](https://android-arsenal.com)
 * [IT蓝豹](http://itlanbao.com)
 * [Code4App](http://a.code4app.com)

@@ -1,11 +1,6 @@
-<h1 align="center">Flutter<h1>
+<h1 align="center">Flutter</h1>
 
-## 目录
-
-* [开发网站](#开发网站)
-* [FlutterPlugs](#FlutterPlugs)
-* [开源项目](#开源项目)
-* [架构图](#架构图)
+[toc]
 
 ## 开发网站
 

@@ -1,6 +1,9 @@
-<h1 align="center">Linux patch<h1>
+<h1 align="center">Linux patch</h1>
+
+[toc]
 
 ## 通过diff工具生成补丁, patch工具打上补丁.
+
 在使用diff之前, 你需要保留一份未修改过的源码, 然后在其它地方修改源码的一份拷贝. diff对比这两份源码生成patch. 修改过的源码必须保留原来的文件名, 例如, 如果你修改源码中的a.c文件, 那么, 修改后的文件还是名为a.c, 在修改之前你可以复制a.c为a.orig.c进行备份.
 
 ### 1.为单个文件生成补丁

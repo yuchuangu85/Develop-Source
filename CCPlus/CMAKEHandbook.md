@@ -1,5 +1,7 @@
 <h1 align="center">CMAKE手册</h1>
 
+[toc]
+
 ## CMake 用法导览
 
 Preface : 本文是CMake官方文档CMake Tutorial ([http://www.cmake.org/cmake/help/cmake_tutorial.html](http://www.cmake.org/cmake/help/cmake_tutorial.html)) 的翻译。通过一个样例工程从简单到复杂的完善过程，文档介绍了CMake主要模块（cmake, ctest, cpack）的功能和使用环境；从中可以一窥cmake的大体形貌。正文如下：
@@ -2328,7 +2330,7 @@ PROPERTY选项是必须的，它后面紧跟要获取的属性名。如果该属
   　　list(SORT <list>)
 ```
 
-  　　
+
 　　使用LENGTH选项时，该命令会返回给定list的长度。
 
 　　使用GET选项时，该命令返回list中所有被index索引的元素构成的list。

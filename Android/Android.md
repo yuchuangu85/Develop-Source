@@ -1,33 +1,7 @@
 <h1 align="center">Android知识梳理</h1>
 >包含：四大组件，Binder机制，消息机制，View绘制流程，事件分发，性能优化，视图优化，以及安全等知识点。
 
-## 目录
-
-* [Android学习路线](#Android学习路线)
-* [Android四大组件](#Android四大组件)
-  * [Activity](#Activity)
-  * [Broadcast](#Broadcast)
-  * [Service](#Service)
-  * [ContentProvider](#ContentProvider)
-* [Android系统机制](#Android系统机制)
-  * [Binder机制](#Binder机制)
-  * [消息机制](#消息机制)
-  * [View绘制流程](#View绘制流程)
-  * [View事件分发](#View事件分发)
-  * [Intent](#Intent)
-* [Android性能优化](#Android性能优化)
-  * [性能优化典范](#性能优化典范)
-  * [内存优化](#内存优化)
-  * [优化总结](#优化总结)
-  * [Android性能优化工具](#Android性能优化工具)
-* [Android开源控件](#Android开源控件)
-* [开源公司及集合](#开源公司及集合)
-* [Android安全](#Android安全)
-* [Android命令](#Android命令)
-* [Android架构](#Android架构)
-* [Android开发技巧](#Android开发技巧)
-* [Android系统下载及编译](#Android系统下载及编译)
-* [Android反编译](#Android反编译)
+[toc]
 
 ## Android学习路线
 

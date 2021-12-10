@@ -1,12 +1,6 @@
-<h1 align="center">Swift<h1>
+<h1 align="center">Swift</h1>
 
-## 目录
-
-* [Swift知识学习](#Swift知识学习)
-* [SwiftUI](#SwiftUI)
-* [Swift开发插件](#Swift开发插件)
-* [Swift依赖库](#Swift依赖库)
-* [Swift开源库合集](#Swift开源库合集)
+[toc]
 
 ## Swift知识学习
 

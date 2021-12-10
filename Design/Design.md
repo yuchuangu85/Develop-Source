@@ -1,9 +1,6 @@
-<h1 align="center">设计资源<h1>
+<h1 align="center">设计资源</h1>
 
-## 目录
-* [资源集合](#资源集合)
-* [设计网站](#设计网站)
-* [在线资源](#在线资源)
+[toc]
 
 ## 资源集合
 * [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)

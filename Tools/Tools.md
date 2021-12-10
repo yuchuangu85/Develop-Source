@@ -1,10 +1,6 @@
-<h1 align="center">工具<h1>
+<h1 align="center">工具</h1>
 
-## 目录
-* [在线工具](#在线工具)
-* [开发资源](#开发资源)
-* [开发工具](#开发工具)
-* [其他工具](#其他工具)
+[toc]
 
 ## 在线工具
 * [WebSocket 在线测试](http://www.blue-zero.com/WebSocket/)
@@ -27,7 +23,7 @@
 * [Windows Terminal](https://github.com/microsoft/Terminal)：微软开源命令行工具
 * [jadx](https://github.com/skylot/jadx)：Android源码反编译工具（教程：[Android 反编译利器，jadx 的高级技巧](https://www.jianshu.com/p/e5b021df2170)）
 * [Understand](http://scitools.com/download/chinese/):中文版
-    
+  
     ```
     输入证书CODE(32/64 都可用)：以下选一个。
     4BE2CFDB1273 

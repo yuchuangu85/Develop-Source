@@ -1,7 +1,5 @@
 <h1 align="center">iOS开源项目集合</h1>
-## 目录
-* [开源合集](#开源合集)
-* [开发工具](#开发工具)
+[toc]
 
 ## 开源合集
 * [iOS总览](https://github.com/topics/ios)

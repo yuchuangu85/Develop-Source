@@ -1,19 +1,7 @@
 <h1 align="center">开源项目</h1>
+[toc]
+
 > 本页主要收集完整的开源项目，开源库放在各个单独模块中
-
-## 目录
-
-* [Android开源项目](#Android开源项目)
-* [Java开源项目](#Java开源项目)
-* [JavaScript开源项目](#JavaScript开源项目)
-* [iOS开源项目](#iOS开源项目)
-* [macOS开源项目](#macOS开源项目)
-* [Window开源项目](#Window开源项目)
-* [Python开源项目](#Python开源项目)
-* [C开源项目](#C开源项目)
-* [Flutter开源项目](#Flutter开源项目)
-* [全平台开源项目](#全平台开源项目)
-* [开源资料](#开源资料)
 
 ## Android开源项目
 
