@@ -87,3 +87,127 @@
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)：A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.
 * [epoxy](https://github.com/airbnb/epoxy)：Epoxy is an Android library for building complex screens in a RecyclerView https://goo.gl/eIK82p
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)：RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。 [https://github.com/yanzhenjie/SwipeRe…](https://github.com/yanzhenjie/SwipeRecyclerView)
+* [groupie](https://github.com/lisawray/groupie)：Groupie is a simple, flexible library for complex RecyclerView layouts.
+
+
+
+## LayoutManager
+
+*  [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+*  [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)
+*  [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+*  [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
+*  [vlayout](https://github.com/alibaba/vlayout)
+*  [flexbox-layout](https://github.com/google/flexbox-layout)
+*  [LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager)
+*  [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
+*  [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android)
+*  [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
+*  [CustomLayoutManager](https://github.com/leochuan/CustomLayoutManager)
+*  [AssembleEssay](https://github.com/rantianhua/AssembleEssay)
+*  [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager)
+*  [ExpandLayoutManager](https://github.com/Azoft/ExpandLayoutManager)
+*  [VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)
+*  [flowlayoutmanager](https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager)
+*  [StackCardLayoutManager](https://github.com/amyu/StackCardLayoutManager)
+*  [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout)
+*  [turn-layout-manager](https://github.com/cdflynn/turn-layout-manager)
+*  [StackLayoutManager](https://github.com/HirayClay/StackLayoutManager)
+*  [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android)
+*  [CircularLayoutManager](https://github.com/leshchenko/CircularLayoutManager)
+*  [Sticky-LayoutManager](https://github.com/qiujayen/sticky-layoutmanager)
+*  [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
+*  [StackLayoutManager](https://github.com/LittleMango/StackLayoutManager)
+*  [Circular-Layout-Manager](https://github.com/kapil93/Circular-Layout-Manager)
+*  [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow)
+*  [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
+*  [StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
+*  [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)
+
+
+
+## UI控件
+
+* [banner](https://github.com/youth5201314/banner)：Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+* [CityPicker](https://github.com/zaaach/CityPicker)
+* [SuperTextView](https://github.com/lygttpod/SuperTextView)：a super textview for android
+* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)：下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer
+* [SmartRefreshHorizontal](https://github.com/scwang90/SmartRefreshHorizontal)：横向刷新、水平刷新、RefreshLayout、OverScroll，Horizontal，基于SmartRefreshLayout的水平智能刷新
+* [SmartSwipe](https://github.com/luckybilly/SmartSwipe)：弹性侧滑、滑动抽屉、下拉刷新、侧滑返回以及侧滑删除等
+* [GuideView](https://github.com/binIoter/GuideView)：国人开发者出品的一个轻量级新手指引库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment。使用方式、更多效果、详细实现原理等，可以查看项目的README。
+* [Spotlight](https://github.com/wooplr/Spotlight)：看看下面的效果后相比静态的指引效果，这种动态指引更容易让用户耳目一新，可以在新功能的入口处添加提示。
+* [MaterialIntroView](https://github.com/iammert/MaterialIntroView)：下面这个效果是从一款名为Fabulous的App上看到的，作者第一眼见到后，就非常喜欢它的效果，于是动手造了一个轮子。
+* [Highlight](https://github.com/hongyangAndroid/Highlight)：一个用于app指向性功能高亮的库，开发者是很多Android圈内都认识的鸿洋。
+* [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)：同样是个效果很棒的指引，请看下图，支持自定义View和动画等。
+* [ShowcaseView](https://github.com/amlcurran/ShowcaseView)：向你的用户快速展示应用的两点，这个控件时基于Android系统（Ice-Cream Sandwich和Jelly Bean两个版本的Launcher）源码中的Cling自定义View实现的。
+* [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)：收到上一个推荐的ShowcaseView启发而写的控件，Material Design风格的设计让效果更加好看。
+* [ticker](https://github.com/robinhood/ticker)：An Android text view with scrolling text change animation [https://medium.com/robinhood-engineer…](https://medium.com/robinhood-engineering/hello-ticker-20eaf6e51689)
+* [ColorPickerView](https://github.com/skydoves/ColorPickerView)：Android colorpicker for getting colors from any images by tapping on the desired color.
+
+
+
+## 功能控件
+
+* [simple-stack](https://github.com/Zhuinden/simple-stack)：Simple Stack, a backstack library for simpler navigation between views, fragments, or whatevers.
+* [flow](https://github.com/square/flow)：Name UI states, navigate between them, remember where you've been.
+* [RIBs](https://github.com/uber/RIBs)：Uber's cross-platform mobile architecture framework.
+* [BaseRecyclerViewAdapter](https://github.com/skydoves/BaseRecyclerViewAdapter)
+
+
+
+## Permission
+
+* [FloatWindowPersmission](https://github.com/zhaozepeng/FloatWindowPermission)
+* [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher):A declarative API to handle Android runtime permissions. 
+* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 12
+
+
+
+## Window
+
+* [FloatBal](https://github.com/huxq17/FloatBall)：android可拖动，展示菜单，能自动吸边和半隐藏的悬浮球。
+
+
+
+## WebView
+
+* [CacheWebView](https://github.com/yale8848/CacheWebView)
+* [AgentWeb](https://github.com/Justson/AgentWeb)
+* [Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)
+
+
+
+## 控件集合
+
+* [那些年收藏的Android开源库集合(控件)](https://www.jianshu.com/p/3baddcf948af)
+
+
+
+## 换肤
+
+* [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)：一个通过动态加载本地皮肤包进行换肤的皮肤框架
+
+
+
+## Blur
+
+* [BlurView](https://github.com/Dimezis/BlurView)：Dynamic iOS-like blur of underlying Views for Android
+* [BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)：Sample to show how to implement blur graphical tricks
+* [BlurImageView](https://github.com/wingjay/BlurImageView)：BlurImageView, you can load your image progressively like Medium does.First show user a blurry image, At the same time, load the real image, once loaded, replace the blurry one automatically
+* [Blurry](https://github.com/wasabeef/Blurry)：Blurry is an easy blur library for Android
+* [500px-android-blur](https://github.com/500px/500px-android-blur)：Android Blurring View [http://developers.500px.com/2015/03/1…](http://developers.500px.com/2015/03/17/a-blurring-view-for-android.html)
+* [blurkit-android](https://github.com/CameraKit/blurkit-android)：The missing Android blurring library. Fast blur-behind layout that parallels iOS.
+* [HokoBlur](https://github.com/HokoFly/HokoBlur)：an easy-to-use blur library for Android, support efficient dynamic blur tasks.
+
+## Menu
+
+* [FloatingMusicMenu](https://github.com/cpacm/FloatingMusicMenu)：一款可用于音乐播放器的悬浮菜单按钮（A floating music menu）
+* [CircleMenu](https://github.com/Hitomis/CircleMenu)：Delicate, chic and supports customizable circle menu
+* [android-satellite-menu](https://github.com/siyamed/android-satellite-menu)：Android Satellite Menu
+* [ circle-menu-android](https://github.com/Ramotion/circle-menu-android)：CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Android UI library made by [@Ramotion](https://github.com/Ramotion) - https://www.ramotion.com/agency/app-development/
+* [CircleMenu](https://github.com/linglongxin24/CircleMenu)：Android属性动画应用超简单代码打造酷炫扇形(卫星)，圆形菜单
+* [CircleMenu](https://github.com/gzu-liyujiang/CircleMenu)：Circle menu for android.安卓自定义控件——可旋转的环形菜单。 [http://ime.qqtheme.cn](http://ime.qqtheme.cn/)
+
+## 系统控件
+
+* [App定时提醒（AlarmManager实现，适配不同版本）](https://www.jianshu.com/p/767412bf2af4)

@@ -2,7 +2,7 @@
 
 adb：Android调试桥接Android Debug Bridge，是一个C/S架构的命令行工具
 
-#### 1.adb组成：
+#### 1. adb组成：
 
 
 * 客户端（Client）：可以通过它对android应用进行安装、卸载及调试
@@ -11,8 +11,7 @@ adb：Android调试桥接Android Debug Bridge，是一个C/S架构的命令行�
 
 * 守护进程（adb daemon）：运行在android设备上的adb后台进程
 
-
-#### 2.下载安装：
+#### 2. 下载安装：
 
 
 * 下载Android SDK，点击Android官网 下载
@@ -21,7 +20,7 @@ adb：Android调试桥接Android Debug Bridge，是一个C/S架构的命令行�
 
 * 验证是否配置成功：在cmd窗口输入adb
 
-#### 3.adb命令格式
+#### 3. adb命令格式
 
 ```
 adb[-e|-d|-s<设备序列号>]<子命令>

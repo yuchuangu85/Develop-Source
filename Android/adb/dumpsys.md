@@ -34,7 +34,7 @@ adb shell serverce list
 
 adb shell dumpsys meminfo –h
 
-![15272951743137.png](../images/adb/15272951743137.png)
+![15272951743137.png](media/15272951743137.png)
 
  
 

@@ -12,9 +12,9 @@
 
 Luban，也称鲁班。该库作者一针见血的提出当前图片压缩处理的一些问题：单纯对图片进行裁切，压缩已经有很多文章介绍。但是裁切成多少，压缩成多少却很难控制好，裁切过头图片太小，质量压缩过头则显示效果太差。所以，他通过微信朋友圈发送近100张不同分辨率图片，对比原图与微信压缩后的图片逆向推算出来的压缩算法，具体的算法实现在项目中有详细说明介绍。使用上，支持普通调用方式外，也支持RxJava！
 
-![](../images/bitmapzip/bitmapzip1.png)
-![](../images/bitmapzip/bitmapzip2.png)
+![](media/bitmapzip1.png)
 
+![](media/bitmapzip2.png)
 
 ## Compressor
 
@@ -22,18 +22,16 @@ Luban，也称鲁班。该库作者一针见血的提出当前图片压缩处理
 
 它可以满足动则几MB的图片高保真的压缩到几十KB的效果。
 
-![](../images/bitmapzip/bitmapzip3.png)
+![](media/bitmapzip3.png)
 
 
 API调用上和Luban一样，支持普通方式也支持RxJava。
 
-![](../images/bitmapzip/bitmapzip4.png)
+![](media/bitmapzip4.png)
 
 
  **总结**
 以上两者都是目前Github上关注热度比较高的了，作者也一直不断在维护更新。纯粹使用亦可，学习源码亦可，如果你也有不错的Android图片压缩方案推荐，欢迎给我评论留言。
-
-本文为技术视界原创作品，转载请注明原文出处：http://blog.coderclock.com/2017/04/12/android/open-source-android-image-compression-library ，欢迎关注我的微信公众号！
 
 ## guetzli
 

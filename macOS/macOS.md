@@ -2,14 +2,17 @@
 
 [toc]
 
-
 ## Mac操作
-* [Mac命令集合](/macOS/MacShell.md)
+
+* [Mac命令集合](/MacShell.md)
+* [macOS系统下载](https://support.apple.com/zh-cn/HT201260)
 
 ## HomeBrew
+
 * [HomeBrew](/macOS/HomeBrew.md)
 
 ## macOS开源项目
+
 * [mac总览](https://github.com/topics/mac)
 * [awesome-osx-command-line](https://github.com/gregcain/awesome-osx-command-line)
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
@@ -44,9 +47,7 @@
 * [Mac OSX 开发基础教程](https://study.163.com/course/introduction.htm?courseId=1004170018&_trace_c_p_k2_=5273510b637e45bdae53120268584e4d)
 * [Apple Developer Web](https://developer.apple.com)
 
-## macOS博客
 
-* [macOS 开发 - 入门笔记](https://blog.csdn.net/lovechris00/article/details/72779076)
 
 ## macOS常用软件
 * [macOS常用软件集合](/macOS/macSoftware.md)

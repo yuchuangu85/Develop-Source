@@ -1,23 +1,117 @@
 <h1 align="center">Android系统源码下载编译</h1>
 
-## 1.源码下载以及切换源码分支(切换到android-7.1.2_r11版本)
-#### 源码下载：
+[toc]
+
+## 1. 准备
+
+### 1.1 下载repo工具
+
+```
+mkdir ~/bin
+PATH=~/bin:$PATH
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+chmod a+x ~/bin/repo
+```
+
+### 1.2 使用每月更新的初始化包
+
+由于首次同步需要下载约 30GB 数据，过程中任何网络故障都可能造成同步失败，我们强烈建议您使用初始化包进行初始化。
+
+下载 https://mirrors.tuna.tsinghua.edu.cn/aosp-monthly/aosp-latest.tar，下载完成后记得根据 checksum.txt 的内容校验一下。
+
+由于所有代码都是从隐藏的 `.repo` 目录中 checkout 出来的，所以我们只保留了 `.repo` 目录，下载后解压 再 `repo sync` 一遍即可得到完整的目录。
+
+使用方法如下:
+
+```
+wget -c https://mirrors.tuna.tsinghua.edu.cn/aosp-monthly/aosp-latest.tar # 下载初始化包
+tar xf aosp-latest.tar
+cd AOSP   # 解压得到的 AOSP 工程目录
+# 这时 ls 的话什么也看不到，因为只有一个隐藏的 .repo 目录
+repo sync # 正常同步一遍即可得到完整目录
+# 或 repo sync -l 仅checkout代码
+```
+
+此后，每次只需运行 `repo sync` 即可保持同步。 **我们强烈建议您保持每天同步，并尽量选择凌晨等低峰时间**
+
+### 1.3 传统初始化方法
+
+建立工作目录:
+
+```
+mkdir WORKING_DIRECTORY
+cd WORKING_DIRECTORY
+```
+
+初始化仓库:
+
+```
+repo init -u https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest
+```
+
+**如果提示无法连接到 gerrit.googlesource.com，请参照[git-repo的帮助页面](https://mirrors.tuna.tsinghua.edu.cn/help/git-repo)的更新一节。**
+
+如果需要某个特定的 Android 版本([列表](https://source.android.com/setup/start/build-numbers#source-code-tags-and-builds))：
+
+```
+repo init -u https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest -b android-4.0.1_r1
+```
+
+同步源码树（以后只需执行这条命令来同步）：
+
+```
+repo sync
+```
+
+## 2. 替换已有的 AOSP 源代码的 remote
+
+如果你之前已经通过某种途径获得了 AOSP 的源码(或者你只是 init 这一步完成后)， 你希望以后通过 TUNA 同步 AOSP 部分的代码，只需要修改 `.repo/manifests.git/config`，将
+
+```
+url = https://android.googlesource.com/platform/manifest
+```
+
+更改为
+
+```
+url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest
+```
+
+或者可以不修改文件，而执行
+
+```
+git config --global url.https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/.insteadof https://android.googlesource.com
+```
+
+## 3. 源码下载以及切换源码分支
+
+源码下载：
+
 **清华大学镜像地址：**[https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
 
 ```
+## 切换分支
 repo init -b android-7.1.2_r11
 
 ## 如果不能连接google源码可以先切换到下面地址：
 repo init -u https://aosp.tuna.tsinghua.edu.cn//platform/manifest -b android-10.0.0_r9
 
-然后：
-repo init -b android-10.0.0_r9
+## 如果不切换源码地址：
+repo init -b android-10.0.0_r9  ## 切换分支
+repo sync  						## 如果不需要与服务器数据一致，可以不运行该步
+repo start android-10.0.0_r9 --all 
 ```
 
 同步代码：
 
 ```
 repo sync
+```
+
+仅从本地checkout出来代码，不从远程fetch
+
+```bash
+repo sync --local-only  
 ```
 
 查看源码分支：
@@ -30,15 +124,9 @@ build\core\version_defaults.mk //搜索该文件中的 PLATFORM_VERSION值
 
 ```
 cd .repo/manifests
+git branch -a
+或
 git branch -a | cut -d / -f 3
-```
-
-切换分支（以android-10.0.0_r9为例）：
-
-```
-repo init -b android-10.0.0_r9  # 选取分支
-repo sync   # 如果不需要与服务器数据一致，可以不运行该步
-repo start android-10.0.0_r9 --all 
 ```
 
 查看切换结果
@@ -53,13 +141,11 @@ AOSP代号、标记和细分版本号
 https://source.android.google.cn/setup/start/build-numbers.html#source-code-tags-and-builds
 ```
 
-
-
-## 2.Idea导入源码方法：
+## 4. Idea导入源码方法：
 
 >本教程基于Mac OS X 10.12。Android系统版本为：7.1.2_r11(7.1.2最终版)。先介绍方法，后面会给出各种问题解决方案。
 
-#### 生成导入idea或者eclipse需要的文件：
+### 生成导入idea或者eclipse需要的文件：
 
 * 1.首先是idea和eclipse导入项目需要的文件
 
@@ -139,14 +225,14 @@ Traversed tree: 44148ms
 ```
 
 此时会在根目录生成两个文件：android.ipr和android.iml，然后打开idea软件，执行下面操作：
-![](../images/OSDownload/download1.png)
+![](media/download1.png)
 接着打开如下界面，找到Android源码位置，然后找到生成的android.iml文件，鼠标选中，然后点击open即可。
-![](../images/OSDownload/download2.png)
+![](media/download2.png)
 
 
 注：mmm命令要先执行第一条命令。
 
-#### 生成文件出现的问题：
+### 生成文件出现的问题：
 
 * 1.在执行
 
@@ -227,36 +313,9 @@ build/core/main.mk:94: *** Case-insensitive filesystems not supported. Stop.
 
 此时你可以建一个磁盘镜像，步骤如下：
 打开磁盘工具-->文件-->新建映像-->空白映像-->弹出如下界面，填写下面框内的信息，格式选择区分大小写格式，点击存储，然后会在你的位置文件夹内生成一个Android.dmg文件，双击即可安装，然后将Android源码考入即可操作。
-![](../images/OSDownload/download3.png)
+![](media/download3.png)
 
-
-## 3.Android系统源码分支
-| 大版本 | 起始版本号 | 终止版本号 | 名称 |
-| --------   | :-----  | :----  | :----: |
-|  |  |  |  |
-|  |  |  |  |
-| android-8.1.0 | android-8.1.0_r1 | android-8.1.0_r23 | Oreo |
-| android-8.0.0 | android-8.0.0_r1 | android-8.0.0_r36 | Oreo |
-| android-7.1.2 | android-7.1.2_r1 | android-7.1.2_r36 | Nougat |
-| android-7.1.1 | android-7.1.1_r1 | android-7.1.1_r58 | Nougat |
-| android-7.1.0 | android-7.1.0_r1 | android-7.1.0_r7 | Nougat |
-| android-7.0.0 | android-7.0.0_r1 | android-7.0.0_r35 | Nougat |
-| android-6.0.1 | android-6.0.1_r1 | android-6.0.1_r81 | Marshmallow |
-| android-6.0.0 | android-6.0.0_r1 | android-6.0.0_r41 | Marshmallow |
-| android-5.1.1 | android-5.1.1_r1 | android-5.1.1_r38 | Lollipop |
-| android-5.1.0 | android-5.1.0_r1 | android-5.1.0_r5 | Lollipop |
-| android-5.0.0 | android-5.0.0_r1.0.1 | android-5.0.2_r3 | Lollipop |
-| android-4.4 | android-4.4_r1 | android-4.4.4_r2 | KitKat |
-| android-4.1.1 | android-4.1.1_r1 | android-4.3.1_r1 | Jelly Bean |
-| android-4.0.1 | android-4.0.1_r1 | android-4.0.4_r2.1 | Ice Cream Sandwich |
-| android-2.3 | android-2.3_r1 | android-2.3.7_r1 | Gingerbread |
-| android-2.2 | android-2.2_r1 | android-2.2.3_r2 | Froyo |
-| android-2.1 | android-2.1_r1 | android-2.1_r2.1p2| Eclair |
-| android-2.0 | android-2.0_r1 | android-2.0_r1 | Eclair |
-| android-1.6 | android-1.6_r1.2 | android-1.6_r1.5 | Donut |
-
-
-## 4.studio源码
+## 5. Android studio源码
 
 ```
 $ mkdir studio-master-dev
@@ -266,3 +325,19 @@ $ repo sync
 // 或者
 $ repo init -u https://android.googlesource.com/platform/manifest -b studio-3.1.2
 ```
+
+## 6. Androidx源码
+
+```
+$ mkdir androidx-master-dev
+$ cd androidx-master-dev
+$ repo init -u https://android.googlesource.com/platform/manifest -b androidx-master-dev
+$ repo sync
+// 或者
+$ repo init -u https://android.googlesource.com/platform/manifest -b androidx-master-dev
+
+// 清华镜像
+$ repo init -u https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/manifest -b androidx-master-dev --partial-clone --clone-filter=blob:limit=10M
+$ repo sync -j4 -c
+```
+

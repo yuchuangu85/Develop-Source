@@ -1,26 +1,5 @@
 <h1 align="center">Mac命令汇总</h1>
 
-## 修改电脑文件：
-1.直接在命令工具打开文件：
-
-```
-vim 文件名
-```
-
-如果是系统文件，输入：
-
-```
-sudo vim 文件名
-```
-
-然后命令控制板绘制进入显示文件模式，然后按键盘上的A或者S进入编辑模式，左下角会出现：“-- INSERT --”,按esc键会退出编辑模式，“-- INSERT --”会消失.进入编辑模式后，按方向键或者Enter键或者滑动鼠标滑轮让光标移动到制定位置，然后修改需要更改的内容，更改完成后输入：
-
-```
-:wq
-```
-
-按Enter键会保存并退出文件。
-
 ## 删除命令：
 
 删除文件夹命令：
@@ -38,3 +17,22 @@ man grep
 // 查看zsh所有命令
 man zsh
 ```
+
+## 导入环境变量
+
+```
+export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"
+// 检测环境变量
+echo $PATH 
+```
+
+
+
+## 开源--命令行
+
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)：命令行的艺术
+* [ awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)：Use your macOS terminal shell to do awesome things.
+* [awesome-shell](https://github.com/alebcay/awesome-shell)：A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+
+

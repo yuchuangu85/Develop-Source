@@ -2,20 +2,30 @@
 
 [toc]
 
+## 全局搜索
+
+* Alfred：万能搜索软件
+* [tools](https://u.tools/)：万能搜索软件
+* [listary](https://www.listary.com/)
+* [Everything](https://www.voidtools.com/zh-cn/)
+
 ## 虚拟机
+
 * Parallels Desk：虚拟机软件
 
 ## 文本软件
 * TextWrangler：文本编辑软件 
 * CotEditor：开源文本编辑软件
-* MWeb
+* Typora: markdown
+* MWeb: markdown
 * Agenda
 * ClearView
 * MarginNote
 * iCHM
-
+* UltraEdit
 
 ## 开发软件
+
 * EdrawMax：流程图软件
 * draw.io：流程图软件
 * StartUML：流程图软件
@@ -27,6 +37,15 @@
 * Beyond Compare：对比软件
 * Kaleidoscope：对比软件
 * Go2Shell
+* Araxis Merge：代码对比软件
+* Gapplin：SVG图片显示工具
+* Visual Paradig：强大的UML软件
+* SQLiteStudio：开源的数据库工具
+  * 官网：https://sqlitestudio.pl
+  * github：[pawelsalawa/sqlitestudio: A free, open source, multi-platform SQLite database manager](https://github.com/pawelsalawa/sqlitestudio)
+  * 使用教程：[Android Sqlite 实时联调-SQLiteStudio (qq.com)](https://mp.weixin.qq.com/s/tXmmbJUinRaJvMbqKTzOZw)
+* Splinter:[Splinter Log Display (splinter-log.com)](https://splinter-log.com/#/):Log分析工具
+* Apifox:api调试、文档工具
 
 ## 设计软件
 * Affinity：图形设计软件
@@ -38,7 +57,7 @@
 * Drop：拾色器
 
 ## 实用工具
-* Alfred：万能搜索软件
+
 * CheatSheet：
 * HandShaker
 * Manico
@@ -82,4 +101,11 @@
 
 ## 翻墙
 * MagicVPNMac
+
+## 截图工具
+* iShot
+* Xnip
+
+## 右键工具
+ * iRightMouse
 

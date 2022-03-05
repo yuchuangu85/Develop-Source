@@ -24,6 +24,7 @@
 
 ## Mac OS
 
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 * [Core-Data-Editor](https://github.com/aubb/Core-Data-Editor)--------Objective-C
 * [Launchpad-Control](https://github.com/ChaosCoder/Launchpad-Control)--------Objective-C
 * [MacDown](https://github.com/MacDownApp/macdown)--------Objective-C / C

@@ -65,7 +65,7 @@ ro.build.characteristics=default
 ```
 
 获取方法：
-```
+```java
 public static String getSystemProp(String key, String defVal) {
     try {
         Class clazz = Class.forName("android.os.SystemProperties");

@@ -1,6 +1,15 @@
-# Scrcpy使用命令
+<h1 align="center">Scrcpy使用命令</h1>
 
-#### 安装和启动
+[toc]
+
+>Display and control your Android device
+>
+>This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and macOS.
+
+## 1. 项目地址
+[https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+
+## 2. 安装和启动
 ```
 // 安装
 brew install scrcpy
@@ -12,20 +21,20 @@ scrcpy
 brew cask install android-platform-tools
 ```
 
-#### 操作
-##### Scrcpy 一些实用的命令参数：
+## 3. 操作
+### 3.1 Scrcpy 一些实用的命令参数：
 
 这些参数可以多个自由组合使用，注意**区分大小写**。
 
 ![](imgs/Scrcpy1.png)
 
-##### Scrcpy 使用与快捷键：
+### 3.2 Scrcpy 使用与快捷键：
 
 启动之后，你就可以在电脑桌面上看到 Scrcpy 的投屏窗口和手机画面了，你可以直接用鼠标进行操作，它同时也有很多键盘快捷键可以使用。
 
 ![](imgs/Scrcpy2.png)
 
-##### 屏幕录像
+### 3.3 屏幕录像
 
 如有需要，你也可以通过命令对连接好的安卓手机进行录屏，并将视频保存为 .mp4 格式。
 
@@ -39,7 +48,7 @@ scrcpy -r file.mp4
 scrcpy -Nr file.mp4
 ```
 
-##### 使用 WIFi 无线连接：
+### 3.4使用 WIFi 无线连接：
 
 Scrcpy 使用 adb 与 Android 设备通讯，而 adb 本身是支持无线连接的。因此除了 USB 数据线之外，我们也能无线使用。前提是需要保证手机和电脑处于同一局域网 (连接到相同的 WiFi 路由器)，步骤如下：
 
@@ -51,5 +60,3 @@ Scrcpy 使用 adb 与 Android 设备通讯，而 adb 本身是支持无线连接
 6. 如果 WiFi 较慢，可以调整码率：scrcpy -b 3M -m 800，意思是限制 3 Mbps，画面分辨率限制 800，数值可以随意调整。
 7. 如需切换回 USB 模式，执行：adb usb
 
-#### 项目地址
-[https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)

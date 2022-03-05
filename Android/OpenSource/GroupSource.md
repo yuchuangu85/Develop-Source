@@ -4,8 +4,10 @@
 
 ## 源码查看
 * [Google Source](https://android.googlesource.com)：谷歌官方，需要翻墙
-* [AOSPXREF](http://aospxref.com)：国内，比较快
+* [https://cs.android.com](https://cs.android.com/)：谷歌代码在线
+* [AOSPXRef (androidxref.cn)](http://androidxref.cn/)：有最新的代码，比较快
 * [AndroidXref](http://androidxref.com)：国内，比较快
+* [Opersys AOSP Portal](http://aosp.opersys.com/)：比较慢，很全面
 * [Android社区](https://www.androidos.net.cn)：快，有目录树
 * [AOSP](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)：清华大学镜像，可以在线下载，不需要翻墙
 * [chromium](https://github.com/chromium/chromium)：github镜像
@@ -24,6 +26,7 @@
 * 1+：[https://github.com/OnePlusOSS/](https://github.com/OnePlusOSS/)
 * Smartisan：[https://github.com/SmartisanTech/SmartisanOS_Kernel_Source](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source)
 * Tencent：[https://github.com/Tencent](https://github.com/Tencent)
+* Bytedance：https://github.com/bytedance
 
 
 
@@ -31,5 +34,4 @@
 
 * [OpenGL](https://github.com/topics/opengl?l=java)  简介：OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. OpenGL allows new hardware innovations to be accessible through the API via the OpenGL extension mechanism. It is used in CAD (Computer-aided design), virtual reality, video games, and flight simulation.
 * [Android](https://github.com/topics/android)  简介：Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits.
-
 

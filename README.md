@@ -1,97 +1,34 @@
 <h1 align="center">编程开发资源整理</h1>
-<p align="center">
-  <a href="http://codemx.cn"><img src="https://img.shields.io/badge/博客-blog-brightgreen.svg" alt="博客">
-  </a>
-</p>
+
 
 > 开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
 
-更新日期：20211009
+更新日期：2022-03-05
 
-## Android
+## [Android](./Android/Android.md)
 
-#### [Android知识梳理](/Android/Android.md)
-
-* [Android学习路线](/Android/Android.md#Android学习路线)
-* [Android四大组件](/Android/Android.md#Android四大组件)
-    * [Activity](/Android/Android.md#Activity)
-    * [Broadcast](/Android/Android.md#Broadcast)
-    * [Service](/Android/Android.md#Service)
-    * [ContentProvider](/Android/Android.md#ContentProvider)
-* [Android系统机制](/Android/Android.md#Android系统机制)
-    * [Binder机制](/Android/Android.md#Binder机制)
-    * [消息机制](/Android/Android.md#消息机制)
-    * [View绘制流程](/Android/Android.md#View绘制流程)
-    * [View事件分发](/Android/Android.md#View事件分发)
-    * [Intent](/Android/Android.md#Intent)
-* [Android性能优化](./Android/Performance.md):包括：Java内存模型、ART vs Dalvik、Android内存回收机制、Low Memory Killer机制、内存工具、常见内存问题及解决方案、ANR、启动优化、布局及流畅度优化、Bitmap优化、线程优化、Apk包大小优化、LRUCache、WebView优化、电量优化、IO优化、稳定性优化。
-* [Android开源控件](/Android/Android.md#Android开源控件)
-* [开源公司及集合](/Android/Android.md#开源公司及集合)
-* [Android安全](/Android/Android.md#Android安全)
-* [Android命令](/Android/Android.md#Android命令)
-* [Android架构](/Android/Android.md#Android架构)
-* [Android开发技巧](/Android/Android.md#Android开发技巧)
-* [Android系统下载及编译](/Android/Android.md#Android系统下载及编译)
-* [Android反编译](/Android/Android.md#Android反编译)
-
-#### [Android开源库](/Android/OpenSource/Library.md)
-
-* [网络](/Android/OpenSource/Library.md#网络)
-* [响应式编程](/Android/OpenSource/Library.md#ReactiveX)
-* [图片加载库](/Android/OpenSource/Library.md#图片加载及显示)
-* [热更新](/Android/OpenSource/Library.md#热更新)
-* [插件化](/Android/OpenSource/Library.md#插件化)
-* [注解](/Android/OpenSource/Library.md#注解)
-* [图表](/Android/OpenSource/Library.md#图表)
-* [Android架构](/Android/OpenSource/Library.md#Android架构)
-* [事件总线](/Android/OpenSource/Library.md#事件总线)
-* [数据库](/Android/OpenSource/Library.md#数据库)
-* [数据解析](/Android/OpenSource/Library.md#数据解析)
-* [Animation](/Android/OpenSource/Library.md#Animation)
-* [工具库](/Android/OpenSource/Library.md#工具库)
-* [跨平台移动开发工具](/Android/OpenSource/Library.md#跨平台移动开发工具)
-* [Log框架](/Android/OpenSource/Library.md#Log框架)
-* [测试框架(单元测试)](/Android/OpenSource/Library.md#测试框架(单元测试))
-* [视频](/Android/OpenSource/Library.md#视频)
-* [多主题](/Android/OpenSource/Library.md#多主题)
-* [其他](/Android/OpenSource/Library.md#其他)
-
-####  [Android快速开发](/Android/OpenSource/SmartDevelop.md)
-
-* [自升级库](/Android/OpenSource/SmartDevelop.md#自升级库)
-* [Dialog](/Android/OpenSource/SmartDevelop.md#Dialog)
-* [Tools](/Android/OpenSource/SmartDevelop.md#Tools)
-* [StateBar](/Android/OpenSource/SmartDevelop.md#StateBar)
-* [Toast](/Android/OpenSource/SmartDevelop.md#Toast)
-* [Indicator](/Android/OpenSource/SmartDevelop.md#Indicator)
-* [Loading](/Android/OpenSource/SmartDevelop.md#Loading)
-* [RecyclerView](/Android/OpenSource/SmartDevelop.md#RecyclerView)
-
-#### [Android面试题](/Interview/Interview.md)
-
-* [Android面试题](/Interview/CodeMXInterview.md)
-* [大厂面试题](/Interview/BigCompanyInterview.md)
-* [BAT面试题](/Interview/BATInterview2018.md)
-* [Android面试总结](/Interview/AndroidInterview.md)
-* [Android开发知识点](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
+* [Android学习路线](./Android/Android.md#Android学习路线)
+* [Android四大组件](./Android/Android.md#Android四大组件)
+* [Android系统机制](./Android/Android.md#Android系统机制)
+* [Android性能优化](./Android/Android.md#Android性能优化)
+* [Android开源](./Android/Android.md#Android开源)
+* [Android安全](./Android/Android.md#Android安全)
+* [Android命令](./Android/Android.md#Android命令)
+* [Android架构](./Android/Android.md#Android架构)
+* [Android系统下载及编译](./Android/Android.md#Android系统下载及编译)
+* [Android反编译](./Android/Android.md#Android反编译)
 
 ## Java
 
-#### [Java基础知识及资源集合](/Java/Java.md)
+### [Java基础知识及资源集合](/Java/Java.md)
 
 * [Effective Java for Android](/Java/EffectiveJava4Android.md)
 * [Java成神之路](/Java/JavaSummary.md)
 
-
-#### [JVM(Java虚拟机)](/Java/JVM.md)
+### [JVM(Java虚拟机)](/Java/JVM.md)
 
 * [GC回收过程及原理](/Java/JVM.md#GC回收过程及原理)
 * [Java虚拟机原理](/Java/JVM.md#Java虚拟机原理)
-
-
-## JavaScript
-
-* [JavaScript](/JavaScript/JavaScript.md)
 
 
 ## [Flutter开发](/Flutter/Flutter.md)
@@ -103,53 +40,57 @@
 
 ## [数据结构和算法](/Algorithm/Algorithm.md)
 
-* [Java数据结构](/Algorithm/Structures.md#Java数据结构和算法)
-* [Java集合](/Algorithm/Structures.md#Java集合)
-* [Java算法](/Algorithm/Algorithm.md#Java%E7%AE%97%E6%B3%95)
-* [数学](/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
-* [排序算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-* [加密算法](/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-* [算法书籍](/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
-* [开源算法](/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
+* [Java算法](/Algorithm/Algorithm/Algorithm.md#Java%E7%AE%97%E6%B3%95)
+* [数学](/Algorithm/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
+* [排序算法](/Algorithm/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+* [加密算法](/Algorithm/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
+* [算法书籍](/Algorithm/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
+* [开源算法](/Algorithm/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
 * [数据结构和算法总结](https://github.com/kdn251/interviews)
 
-## [网络协议及框架](/Net/Net.md)
+## CCPP：C,C++
 
-* [网络基础---协议](/Net/Net.md#网络协议)
-* [网络库](/Net/Net.md#网络库)
+* [C语言](CCPP/C/README.md)
+* [C++](CCPP/CPP/README.md)
+* [CMAKE手册](CCPP/Cmake/README.md)
 
-## [CCPlus](/CCPlus/CCPlus.md)
+## 计算机基础--包括：计算机图形、计算机视觉、深度学习、机器学习、数据库、网络等
 
-* [C开源项目](/CCPlus/C.md#开源项目)
-* [C++开源项目](/CCPlus/CPlus.md#C++开源项目)
-* [CMAKE手册](/CCPlus/CPlus.md#CMAKE手册)
-* [开源项目](/CCPlus/C.md#开源项目)
+* [计算机图形学](/Computer/ComputerGraphics/README.md)
+* [计算机视觉](/Computer/ComputerVision/README.md)
+* [深度学习](/Computer/DeepLearn/README.md)
+* [机器学习](/Computer/MachineLearning/README.md)
+* [网络基础---协议](/Computer/TCP/Net.md#网络协议)
+* [网络库](/Computer/TCP/Net.md#网络库)
 
-## [Linux知识整理](/Linux/Linux.md)
+## [Cross Platform](Cross-platform/README.md)：跨平台开发
 
-* [Linux内核](/Linux/Linux.md#Linux内核)
-* [Linux常用操作](/Linux/Linux.md#Linux常用操作)
-* [Shell脚本](/Linux/Linux.md#Shell脚本)
+* [AWTK](Cross-platform/AWTK/README.md)
+* [Electron](Cross-platform/Electron/README.md)
+* [Flutter](Cross-platform/Flutter/README.md)
+* [Golang](Cross-platform/Golang/README.md)
+* [haxe](Cross-platform/haxe/README.md)
+* [Java](Cross-platform/Java/README.md)
+* [Javascript](Cross-platform/Javascript/README.md)
+* [kotlin](Cross-platform/kotlin/README.md)
+* [Python](Cross-platform/Python/README.md)
+* [Rust](Cross-platform/Rust/README.md)
 
-## [Swift知识整理](/Swift/Swift.md)
+## [Swift知识整理](/MacOS/Swift/Swift.md)
 
-* [Swift知识学习](/Swift/Swift.md#Swift知识学习)
-* [Swift开发插件](/Swift/Swift.md#Swift开发插件)
-* [Swift依赖库](/Swift/Swift.md#Swift依赖库)
-* [Swift开源项目](/Swift/Swift.md#Swift开源项目)
-* [Swift开源项目集合](/Swift/Swift.md#Swift开源项目集合)
+* [Swift知识学习](/MacOS/Swift/Swift.md#Swift知识学习)
+* [Swift开发插件](/MacOS/Swift/Swift.md#Swift开发插件)
+* [Swift依赖库](/MacOS/Swift/Swift.md#Swift依赖库)
+* [Swift开源项目](/MacOS/Swift/Swift.md#Swift开源项目)
+* [Swift开源项目集合](/MacOS/Swift/Swift.md#Swift开源项目集合)
 
-## [iOS开源项目集合](/iOS/iOS.md)
 
-* [iOS开源集合](/iOS/iOS.md#开源合集)
-* [iOS开发工具](/iOS/iOS.md#开发工具)
+## [MacOS开源项目集合](/MacOS/MacOS.md)
 
-## [macOS开源项目集合](/macOS/macOS.md)
-
-* [Mac操作](/macOS/macOS.md#Mac操作)
-* [HomeBrew](/macOS/macOS.md#HomeBrew)
-* [macOS开源项目](/macOS/macOS.md#macOS开源项目)
-* [macOS开发教程](/macOS/macOS.md#macOS开发教程)
+* [Mac操作](/MacOS/MacOS.md#Mac操作)
+* [HomeBrew](/MacOS/MacOS.md#HomeBrew)
+* [macOS开源项目](/MacOS/MacOS.md#macOS开源项目)
+* [macOS开发教程](/MacOS/MacOS.md#macOS开发教程)
 
 ## [深度学习](/DeepLearn/DeepLearn.md)
 
@@ -174,7 +115,8 @@
 
 * [博客](/Blog/Blog.md#博客)
 * [Github](/Blog/Blog.md#Github)
-* [GithubTrending](https://github.com/trending)
+* [Github Trending](https://github.com/trending)
+* [Github Topics](https://github.com/topics)
 * [Github技巧](/Git/Github.md#Github技巧)
 
 ## [大学课程](/CollegeCourse/CollegeCourse.md)
@@ -188,12 +130,36 @@
 * [中山大学课程资料](https://github.com/sysuexam/SYSU-Exam)
 * [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 
-## [在线工具](/Tools/Tools.md)
+## 世界名校
 
-* [在线工具](/Tools/Tools.md#在线工具)
-* [开发资源工具](/Tools/Tools.md#开发资源工具)
-* [开发工具](/Tools/Tools.md#开发工具)
-* [其他工具](/Tools/Tools.md#其他工具)
+* [Stanford Engineering Everywhere](https://see.stanford.edu/)
+* [Stanford University](https://www.stanford.edu/)：斯坦福大学
+* [MIT](https://ocw.mit.edu/)：麻省理工学院
+* [Berkeley](http://webcast.berkeley.edu/)：伯克利
+* [UCI](http://ocw.uci.edu/)
+* [JHSPH](https://ocw.jhsph.edu/)
+* [Yale](https://oyc.yale.edu/courses)
+* [CNX](https://cnx.org/)
+* [OCW](http://ocw.kyoto-u.ac.jp/en/opencourse-en)：京都大学
+
+
+
+## 世界教程网站
+
+* [coursera](https://www.coursera.org/)：世界名校公开课汇总，譬如耶鲁和斯坦福大学
+* [EDX](https://www.edx.org/)：世界名校公开课汇总，譬如耶鲁和斯坦福大学
+* [Education Ecosystem](https://www.education-ecosystem.com/)：很多大神
+* [Tech Dev Guide](https://techdevguide.withgoogle.com/)：Google旗下帮助提升代码的网站
+* [Udemy](https://www.udemy.com/)：付费课程
+* [优达学城](https://udacity.com/)
+* [studytonight](https://www.studytonight.com/)：各种语言的入门教程
+
+## [在线工具](/DevTools/Tools.md)
+
+* [在线工具](/DevTools/Tools.md#在线工具)
+* [开发资源工具](/DevTools/Tools.md#开发资源工具)
+* [开发工具](/DevTools/Tools.md#开发工具)
+* [其他工具](/DevTools/Tools.md#其他工具)
 
 ## [UI设计](/Design/Design.md)
 
@@ -208,10 +174,37 @@
 * [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 * [免费英文书籍下载网站](https://b-ok.cc/)
 * [BookSC](https://booksc.org)：图书搜索下载网址
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+* [免费的编程中文书籍索引-中文](https://github.com/justjavac/free-programming-books-zh_CN)
+* [免费的编程中文书籍索引](https://github.com/EbookFoundation/free-programming-books)
+* [开发书籍](https://www.cs.princeton.edu/~rs/)
+* [HelloGirl](https://www.jqhtml.com/down/)
+* [ebook](http://www.ebook22.com/)
+* [FreeEBOOKS](https://www.reddit.com/r/FreeEBOOKS/):免费书籍
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)：Learn code for free.
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [我爱电子书](https://www.52doc.com/)
+* [libgen](http://libgen.rs/search.php?)--书籍搜索
+* [Z-Library. The world's largest ebook library.](https://z-lib.org/)：每天免费下载十次
+* [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials (freecomputerbooks.com)](https://freecomputerbooks.com/)
+* [X-Files (lagout.org)](https://doc.lagout.org/)：计算机PDF下载
+* [OiiPDF.COM | Search Books, Articals, Documents](https://oiipdf.com/)--免费书籍
 
 ## 开源资源
 
 * [开源项目](/OpenSource/OpenSource.md)
-* [开源集合](/Awesome/Awesome-Awesome.md)
+* [开源集合](/Awesome/Awesome.md)
+* [Android开发者网站国内镜像](https://developer.android.google.cn/)
+
+## 国内镜像源：
+
+* [阿里源](https://developer.aliyun.com/mirror/)
+* [清华源](https://mirror.tuna.tsinghua.edu.cn)
+* [中科大源](http://mirrors.ustc.edu.cn/)
+* [上海交通大学源](https://mirrors.sjtug.sjtu.edu.cn/#/)
+
+## 优秀社区
+
+* [图灵社区](https://www.ituring.com.cn/)
+
+## [网址大全](Favorites/README.md)
 
