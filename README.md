@@ -1,52 +1,35 @@
 <h1 align="center">编程开发资源整理</h1>
 
 
-> 开发资源整理，包含：Java，Android，iOS，macOS，数据结构以及算法等资源。
+> 开发资源整理，包含：Java，Android，iOS，macOS，面试资料，数据结构以及算法等资源。
 
-更新日期：2022-03-05
-
-## [Android](./Android/Android.md)
-
-* [Android学习路线](./Android/Android.md#Android学习路线)
-* [Android四大组件](./Android/Android.md#Android四大组件)
-* [Android系统机制](./Android/Android.md#Android系统机制)
-* [Android性能优化](./Android/Android.md#Android性能优化)
-* [Android开源](./Android/Android.md#Android开源)
-* [Android安全](./Android/Android.md#Android安全)
-* [Android命令](./Android/Android.md#Android命令)
-* [Android架构](./Android/Android.md#Android架构)
-* [Android系统下载及编译](./Android/Android.md#Android系统下载及编译)
-* [Android反编译](./Android/Android.md#Android反编译)
-
-## Java
-
-### [Java基础知识及资源集合](/Java/Java.md)
-
-* [Effective Java for Android](/Java/EffectiveJava4Android.md)
-* [Java成神之路](/Java/JavaSummary.md)
-
-### [JVM(Java虚拟机)](/Java/JVM.md)
-
-* [GC回收过程及原理](/Java/JVM.md#GC回收过程及原理)
-* [Java虚拟机原理](/Java/JVM.md#Java虚拟机原理)
-
-
-## [Flutter开发](/Flutter/Flutter.md)
-
-* [开发网站](/Flutter/Flutter.md#开发网站)
-* [FlutterPlugs](/Flutter/Flutter.md#FlutterPlugs)
-* [开源项目](/Flutter/Flutter.md#开源项目)
-* [架构图](/Flutter/Flutter.md#架构图)
+更新日期：2022-03-06
 
 ## [数据结构和算法](/Algorithm/Algorithm.md)
 
-* [Java算法](/Algorithm/Algorithm/Algorithm.md#Java%E7%AE%97%E6%B3%95)
-* [数学](/Algorithm/Algorithm/Algorithm.md#%E6%95%B0%E5%AD%A6)
-* [排序算法](/Algorithm/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-* [加密算法](/Algorithm/Algorithm/Algorithm.md#%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95)
-* [算法书籍](/Algorithm/Algorithm/Algorithm.md#%E7%AE%97%E6%B3%95%E4%B9%A6%E7%B1%8D)
-* [开源算法](/Algorithm/Algorithm/Algorithm.md#%E5%BC%80%E6%BA%90%E7%AE%97%E6%B3%95)
-* [数据结构和算法总结](https://github.com/kdn251/interviews)
+* [算法](Algorithm/Algorithm/README.md)
+* 位运算: Algorithm/BitOperation/
+* 数据结构: Algorithm/DataStructure
+
+## [Android](./Android/README.md)
+
+* Adb：/Android/Adb
+* CoreTech: Android常见的知识积累
+* Debug: Android调试以及log分析相关知识
+* Feature: Android个版本新特性整理
+* Framework: Framework相关代码分析资料
+* Jetpack: Jetpack库相关资料
+* Launcher: Launcher开发资料
+* Library: 常用开源库代码分析
+* OpenSource: 开源项目资料
+* OS: Android系统相关资料
+* Performance: Android开发性能资料整理
+
+## Architecture
+
+* [设计模式](./Architecture/DesignPattern/README.md)
+* [UML](./Architecture/UML/README.md)
+* [代码的坏味道与重构技术](./Architecture/代码的坏味道与重构技术.md)
 
 ## CCPP：C,C++
 
@@ -76,40 +59,55 @@
 * [Python](Cross-platform/Python/README.md)
 * [Rust](Cross-platform/Rust/README.md)
 
-## [Swift知识整理](/MacOS/Swift/Swift.md)
+## Develop: 开发相关
 
-* [Swift知识学习](/MacOS/Swift/Swift.md#Swift知识学习)
-* [Swift开发插件](/MacOS/Swift/Swift.md#Swift开发插件)
-* [Swift依赖库](/MacOS/Swift/Swift.md#Swift依赖库)
-* [Swift开源项目](/MacOS/Swift/Swift.md#Swift开源项目)
-* [Swift开源项目集合](/MacOS/Swift/Swift.md#Swift开源项目集合)
+* 开发工具：/Develop/DevTools
+* 高效开发：/Develop/Effect-Dev
+* 高效Linux：/Develop/Effect-Linux
+* 高效macOS：/Develop/Effect-macOS
+* 高效Markdown：/Develop/Effect-Markdown
 
+## Favorites: 收藏
 
-## [MacOS开源项目集合](/MacOS/MacOS.md)
+* [常用开发网址整理](./Favorites/README.md)
 
-* [Mac操作](/MacOS/MacOS.md#Mac操作)
-* [HomeBrew](/MacOS/MacOS.md#HomeBrew)
-* [macOS开源项目](/MacOS/MacOS.md#macOS开源项目)
-* [macOS开发教程](/MacOS/MacOS.md#macOS开发教程)
+## [Google](./Google/README.md)
 
-## [深度学习](/DeepLearn/DeepLearn.md)
+* [Youtube课程](./Google/Youtube/Youtube.md)
+* [Adnroid代码规范](./Google/Android代码规范参考指南.md)
+* [Java代码规范](./Google/Google-Java编程风格指南.md)
+* [Google搜索技巧](./Google/GoogleSearch.md)
 
-* [深度学习开源资料](/DeepLearn/DeepLearn.md)
+## [HarmonyOS](./HarmonyOS/README.md)
 
-## [计算机视觉](/ComputerVision/ComputerVision.md)
+* 官方网址
+* 源码地址
 
-* [开源项目](/ComputerVision/ComputerVision.md#开源项目)
+## Interview
 
-## [Python](/Python/Python.md)
+* Android面试资料
+* Java面试资料
+* [简历写法](./Interview/简历写法.md)
+* [面试指导](./Interview/面试指导.md)
 
-* [Python开源项目](/Python/Python.md)
-* [Python开源代码集合中文](/Python/AwesomePythonCN.md)
-* [Python开源代码集合](/Python/AwesomePython.md)
-* [Python开源代码集合目录](/Python/AwesomePython2.md)
+## [Java](./Java/README.md)
 
-## [Git学习](/Git/Git.md)
+* Java8资料: /Java/OnJava8
+* Effective Java第三版(中文): /Java/Effective-Java-3rd
+* Effective Java第三版(中英对照): /Java/Effective-Java-3rd-zh-en
+* Effective Java: /Java/EffectiveJva
+* Jave特性: /java/JavaFeature
+* JVM: /Java/JVM
 
-* [Git操作指南](/Git/Git.md#Git操作指南)
+##  macOS
+
+* macOS, iOS开发汇总：/macOS/Awesome
+* Swift开发：/macOS/Swift
+* macOS开发环境的配置
+
+## Mind
+
+* Android，Java，算法，设计模式等思维导图整理
 
 ## [博客Github](/Blog/Blog.md)
 
@@ -141,8 +139,6 @@
 * [Yale](https://oyc.yale.edu/courses)
 * [CNX](https://cnx.org/)
 * [OCW](http://ocw.kyoto-u.ac.jp/en/opencourse-en)：京都大学
-
-
 
 ## 世界教程网站
 
@@ -205,6 +201,3 @@
 ## 优秀社区
 
 * [图灵社区](https://www.ituring.com.cn/)
-
-## [网址大全](Favorites/README.md)
-
