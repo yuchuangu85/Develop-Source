@@ -34,6 +34,8 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"
 
 重启命令端
 
+
+
 ## 4. 关于Big Sur没有权限打开应用程序的解决方法
 
 ### 4.1 安装无权限修复插件
@@ -52,13 +54,19 @@ sudo upx -d app路径
 
 https://jingyan.baidu.com/article/b24f6c82c815d9c7bfe5daef.html
 
+
+
 ## 5.Unknown host 'xxx: nodename nor servname provided, or not known'. You may need to adjust the proxy settings in Gradle.
 
 设置DNS为自动获取
 
+
+
 ## 6.macOS插入移动硬盘不能识别
 
 关闭防火墙
+
+
 
 ## 7.关于“.DS_Store”文件
 
@@ -93,9 +101,26 @@ sudo find / -name ".DS_Store" -depth -exec rm {} \;
 find . -name '*.DS_Store' -type f -delete
 ```
 
+
+
 ## 8.弹出App can’t be opened because Apple cannot check it for malicious software的解决方法
 
 ```undefined
 sudo spctl --master-disable
 ```
 
+
+
+## 9.macOS无法联网问题
+
+1、打开系统偏好设置—>网络—>WiFi—>高级—>WiFi—>删除首选网络框内的所有网络—>点击好—>点击应用；
+
+2、还是在网络页面先，在边框有WiFi、蓝牙PAN、网桥等，选中WiFi，点击下面的减号删除WiFi，点击应用；
+
+3、再次在系统偏好设置中打开网络页面，在左边框的下方点击加号，接口选择WiFi，服务名称随便写，点击创建，然后点击打开WiFi，链接你的WiFi。应该可以上网了。亲测可行。
+
+上面试完就可以了，网上还有另外两种，未试，先留着
+
+4、Finder—>xxx的Mac—>Macintosh HD—>资源库–>Preferences—>SystemConfiguration—>找到NerworkInterfaces.plist文件并删除；
+
+5、终极大招：command+option+p+r，开机时按住，听到3声以上声响（屏幕闪烁3下）后松开。这个方法就是完全重置你电脑的控制器了，会将设置都恢复初始化，但是不影响硬盘数据，不必备份。

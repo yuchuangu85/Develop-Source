@@ -15,7 +15,7 @@
 ## 常用资源整理
 
 * [Awesome Android](https://github.com/JStumpp/awesome-android)
-* [ awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 * [Awesome Java](https://github.com/akullpp/awesome-java)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp)
