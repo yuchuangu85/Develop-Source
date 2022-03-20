@@ -61,6 +61,7 @@
 * [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源Js教程
 * [飞船射击](https://github.com/gd4Ark/star-battle)
 * [扫雷](https://github.com/muan/emoji-minesweeper)
+* [penpot/penpot: Penpot - The Open-Source design & prototyping platform (github.com)](https://github.com/penpot/penpot):原型工具
 
 ## iOS开源项目
 

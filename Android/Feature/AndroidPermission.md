@@ -1,5 +1,9 @@
 <h1 align="center">Android权限总结</h1>
 
+[toc]
+
+
+
 Android开发权限总结，动态权限需要API>=23,该权限为Android 9.0 整理最新权限列表
 
 #### 一、PROTECTION_NORMAL：Android 9.0 (API28)--普通权限

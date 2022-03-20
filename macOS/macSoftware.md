@@ -8,6 +8,7 @@
 * [tools](https://u.tools/)：万能搜索软件
 * [listary](https://www.listary.com/)
 * [Everything](https://www.voidtools.com/zh-cn/)
+* Better Touch Tool (BTT):鼠标，touchbar等扩展软件（开原配置：[GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT)）
 
 ## 虚拟机
 
