@@ -308,3 +308,5 @@ application
    </manifest>
 ```
 
+## 参考
+* https://developer.android.com/reference/android/Manifest.permission
