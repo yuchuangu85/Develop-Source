@@ -5,12 +5,31 @@
 ## 全局搜索
 
 * Alfred：万能搜索软件
+
 * [tools](https://u.tools/)：万能搜索软件
+
 * [listary](https://www.listary.com/)
+
 * [Everything](https://www.voidtools.com/zh-cn/)
+
 * Better Touch Tool (BTT):鼠标，touchbar等扩展软件
   * 开原配置：[GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT)
+  
   * 开原配置下载地址：[GoldenChaos-BTT](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
+  
+  * 重置：
+  
+    ```
+    To completely reset BTT for a user delete these:
+    ~/Library/Application Support/BetterTouchTool
+    and
+    ~/Library/Preferences/com.hegenberg.BetterTouchTool.plist
+    To open the ~/Library folder use Finder => Go => Go To Folder
+    ```
+  
+    
+  
+    
 
 
 ## 虚拟机
