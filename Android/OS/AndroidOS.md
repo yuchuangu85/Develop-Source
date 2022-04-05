@@ -19,8 +19,8 @@
 | Andorid8.0<br>Andorid8.1               | Oreo               | 26  (8.0.0_r50)<br>27  (8.1.0_r80)                     | 2017-08-21<br>2017-12-05               |
 | Andorid9                               | pie                | 28  (9.0.0_r60)                                        | 2018-08-06                             |
 | Android10                              |                    | 29  (10.0.0_r46)                                       | 2019-09-05                             |
-| Android11                              |                    | 30  (11.0.0_r3)                                        | 2020-09-05                             |
-|                                        |                    |                                                        |                                        |
+| Android11                              |                    | 30  (11.0.0_r53)                                       | 2020-09-05                             |
+| Android12                              |                    | 31  (12.1.0_r2)                                        | 2022-03-05                             |
 
 [HWFramework](https://github.com/dstmath/HWFramework)：华为Framework源码
 
@@ -29,3 +29,6 @@
 ## 参考
 
 https://source.android.com/setup/start/build-numbers#source-code-tags-and-builds
+
+
+
