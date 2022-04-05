@@ -34,6 +34,7 @@
 ## Gradle使用
 
 * [Android Studio手动配置Gradle的方法](https://blog.csdn.net/fuchaosz/article/details/51567808)
+* [使用新 Android Gradle 插件加速您的应用构建](https://mp.weixin.qq.com/s/j6dmdiWV-tUb3aO7mYc3oQ)
 
 
 
