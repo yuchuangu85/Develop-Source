@@ -6,6 +6,9 @@
 
 * [User Guide](https://docs.gradle.org/current/userguide/userguide.html)
 * [Gradle - Plugins](https://plugins.gradle.org/): Gadle plugin search
+* [仓库服务 (aliyun.com)](https://developer.aliyun.com/mvn/guide?userCode=r3yteowb)
+
+
 
 ## Gradle源码分析
 
