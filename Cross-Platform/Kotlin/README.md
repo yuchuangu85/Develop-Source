@@ -49,7 +49,10 @@
 * [farhanroy/compose-awesome-dialog: Awesome Dialog built with Jetpack Compose (github.com)](https://github.com/farhanroy/compose-awesome-dialog)
 * [jetpack-compose/jetpack-compose-awesome: 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources (github.com)](https://github.com/jetpack-compose/jetpack-compose-awesome)
 
-
+## Kotlin MultiPlatform
+* [The future of apps: Declarative UIs with Kotlin MultiPlatform (D-KMP) — Part 1/3 | by Daniele Baroncelli | Medium](https://danielebaroncelli.medium.com/the-future-of-apps-declarative-uis-with-kotlin-multiplatform-d-kmp-part-1-3-c0e1530a5343)
+* [The future of apps: Declarative UIs with Kotlin MultiPlatform (D-KMP) — Part 2/3 | by Daniele Baroncelli | Medium](https://danielebaroncelli.medium.com/the-future-of-apps-declarative-uis-with-kotlin-multiplatform-d-kmp-part-2-3-1bbadaf19aef)
+* [The future of apps: Declarative UIs with Kotlin MultiPlatform (D-KMP) — Part 3/3 | by Daniele Baroncelli | Medium](https://danielebaroncelli.medium.com/the-future-of-apps-declarative-uis-with-kotlin-multiplatform-d-kmp-part-3-3-959a2628526d)
 
 ## Compose Desktop
 
