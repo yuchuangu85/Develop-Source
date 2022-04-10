@@ -59,6 +59,24 @@
 
 
 
+## Compose Mobile
+
+* [aclassen/ComposeReorderable: A Jetpack Compose (Desktop) modifier enabling reordering in a LazyList. (github.com)](https://github.com/aclassen/ComposeReorderable)
+* [android/compose-samples: Official Jetpack Compose samples. (github.com)](https://github.com/android/compose-samples)
+* [vitaviva/compose-tetris: 🧱 A tetris game fully built using Jetpack Compose (github.com)](https://github.com/vitaviva/compose-tetris)
+* [Farhandroid/AndroidCleanArchitecture: This is a project built with Love ❤️ and also with Clean architecture in Android . (github.com)](https://github.com/Farhandroid/AndroidCleanArchitecture)
+* [MaciejCiemiega/NewtonsTimer (github.com)](https://github.com/MaciejCiemiega/NewtonsTimer)
+* [mertceyhan/bitcoin-market-android: Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals 💰 (github.com)](https://github.com/mertceyhan/bitcoin-market-android)
+* [ILIYANGERMANOV/ivy-wallet: Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play. (github.com)](https://github.com/ILIYANGERMANOV/ivy-wallet)
+* [fidloo/flux: #AndroidDevChallenge (github.com)](https://github.com/fidloo/flux)
+* [fabirt/podcast-app: Podcast App (github.com)](https://github.com/fabirt/podcast-app)
+* [TakuSemba/JetHub: Sample App with Jetpack components(LiveData, Navigation, ViewModel) + MVVM + coroutine + single activity (github.com)](https://github.com/TakuSemba/JetHub)
+* [vipulasri/JetInstagram: JetInstagram is an Instagram UI clone app built with Jetpack Compose. (github.com)](https://github.com/vipulasri/JetInstagram)
+* [android/android-dev-challenge-compose: Template repository for the Jetpack Compose #AndroidDevChallenge (github.com)](https://github.com/android/android-dev-challenge-compose)
+* 
+
+
+
 ## Compose Desktop
 
 * [halilozercan/compose-richtext: A collection of Compose libraries for advanced text formatting and alternative display types. (github.com)](https://github.com/halilozercan/compose-richtext)
@@ -93,7 +111,7 @@
 
 
 
-## Compose Mobile
+## 参考
 
-* [aclassen/ComposeReorderable: A Jetpack Compose (Desktop) modifier enabling reordering in a LazyList. (github.com)](https://github.com/aclassen/ComposeReorderable)
+* [10 Jetpack Compose Projects To Inspire You | by Farhan Tanvir | Mar, 2022 | Better Programming](https://betterprogramming.pub/10-jetpack-compose-projects-to-inspire-you-a04ec01ec881)
 * 
