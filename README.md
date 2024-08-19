@@ -87,6 +87,7 @@
 
 * Android面试资料
 * Java面试资料
+* [Java面试题](https://boldcoder.blogspot.com/2024/08/java-and-spring-boot-interview.html)
 * [简历写法](./Interview/简历写法.md)
 * [面试指导](./Interview/面试指导.md)
 
